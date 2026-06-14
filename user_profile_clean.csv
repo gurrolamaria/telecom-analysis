@@ -1,0 +1,1331 @@
+user_id,cant_minutos_llamada,cant_mensajes,cant_llamadas,first_name,last_name,age,city,reg_date,plan,churn_date,grupo_uso,grupo_edad
+12666,11.5,13,3,Mateo,Garcia,20.0,Cali,2024-01-01 00:00:00.000000000,Premium,,Alto uso,Joven
+12667,33.269999999999996,3,7,Carlos,Gomez,72.0,Cali,2024-01-01 06:34:17.914478624,Premium,,Medio uso,Adulto Mayor
+12668,87.55999999999999,5,7,Ana,Torres,21.0,CDMX,2024-01-01 13:08:35.828957240,Basico,,Medio uso,Joven
+12669,27.62,4,5,Sofia,Garcia,58.0,CDMX,2024-01-01 19:42:53.743435864,Basico,,Medio uso,Adulto
+12670,31.900000000000002,9,4,Ana,Garcia,54.0,MTY,2024-01-02 02:17:11.657914480,Premium,,Medio uso,Adulto
+12671,7.73,7,3,Carlos,Garcia,68.0,MTY,2024-01-02 08:51:29.572393104,Basico,,Medio uso,Adulto Mayor
+12672,17.64,6,5,Sofia,Gomez,32.0,Medellín,2024-01-02 15:25:47.486871720,Basico,,Medio uso,Adulto
+12673,1.75,4,3,Mateo,Ramirez,25.0,Medellín,2024-01-02 22:00:05.401350344,Premium,,Bajo uso,Joven
+12674,2.61,5,3,Carlos,Gomez,55.0,Bogotá,2024-01-03 04:34:23.315828960,Premium,"1,72022E+18",Medio uso,Adulto
+12675,31.57,3,4,Mateo,Ramirez,67.0,GDL,2024-01-03 11:08:41.230307584,Basico,,Bajo uso,Adulto Mayor
+12676,24.98,15,3,Luis,Garcia,36.0,MTY,2024-01-03 17:42:59.144786200,Basico,,Alto uso,Adulto
+12677,73.0,9,6,Mariana,Garcia,73.0,Bogotá,2024-01-04 00:17:17.059264816,Premium,,Medio uso,Adulto Mayor
+12678,18.490000000000002,8,6,Carlos,Torres,64.0,Bogotá,2024-01-04 06:51:34.973743440,Premium,,Medio uso,Adulto Mayor
+12679,51.11000000000001,8,8,Luis,Ramirez,43.0,CDMX,2024-01-04 13:25:52.888222056,Premium,"1,73232E+18",Medio uso,Adulto
+12680,11.870000000000001,9,4,Carlos,Garcia,56.0,Medellín,2024-01-04 20:00:10.802700680,Premium,,Medio uso,Adulto
+12681,25.290000000000003,4,7,Carlos,Lopez,27.0,CDMX,2024-01-05 02:34:28.717179296,Basico,,Medio uso,Joven
+12682,5.47,3,1,Luis,Torres,55.0,MTY,2024-01-05 09:08:46.631657920,Basico,,Bajo uso,Adulto
+12683,51.86,4,7,Sofia,Gomez,31.0,Medellín,2024-01-05 15:43:04.546136536,Basico,,Medio uso,Adulto
+12684,6.6899999999999995,6,2,Ana,Torres,66.0,CDMX,2024-01-05 22:17:22.460615160,Basico,,Medio uso,Adulto Mayor
+12685,5.27,6,3,Mateo,Lopez,58.0,Bogotá,2024-01-06 04:51:40.375093776,Basico,,Medio uso,Adulto
+12686,33.05,9,6,Carlos,Ramirez,36.0,MTY,2024-01-06 11:25:58.289572400,Basico,,Medio uso,Adulto
+12687,11.68,3,1,Mateo,Gomez,47.0,CDMX,2024-01-06 18:00:16.204051016,Premium,,Bajo uso,Adulto
+12688,11.859999999999998,3,3,Mariana,Gomez,22.0,GDL,2024-01-07 00:34:34.118529632,Premium,,Bajo uso,Joven
+12689,19.549999999999997,4,4,Luis,Ramirez,72.0,,2024-01-07 07:08:52.033008256,Basico,,Bajo uso,Adulto Mayor
+12690,21.64,7,2,Mateo,Torres,48.0,Bogotá,2024-01-07 13:43:09.947486872,Basico,,Medio uso,Adulto
+12691,6.26,3,1,Luis,Garcia,24.0,,2024-01-07 20:17:27.861965496,Basico,,Bajo uso,Joven
+12692,24.919999999999998,6,6,Mateo,Torres,36.0,Bogotá,2024-01-08 02:51:45.776444112,Basico,,Medio uso,Adulto
+12693,7.76,7,3,Ana,Lopez,48.0,Bogotá,2024-01-08 09:26:03.690922736,Premium,,Medio uso,Adulto
+12694,23.04,4,8,Ana,Garcia,69.0,MTY,2024-01-08 16:00:21.605401352,Basico,,Medio uso,Adulto Mayor
+12695,16.98,7,6,Ana,Torres,75.0,MTY,2024-01-08 22:34:39.519879976,Basico,,Medio uso,Adulto Mayor
+12696,36.29,6,8,Ana,Ramirez,56.0,GDL,2024-01-09 05:08:57.434358592,Basico,,Medio uso,Adulto
+12697,48.339999999999996,3,6,Ana,Lopez,41.0,MTY,2024-01-09 11:43:15.348837216,Premium,,Medio uso,Adulto
+12698,19.389999999999997,8,3,Ana,Lopez,51.0,Bogotá,2024-01-09 18:17:33.263315832,Premium,,Medio uso,Adulto
+12699,10.180000000000001,13,2,Luis,Lopez,74.0,GDL,2024-01-10 00:51:51.177794456,Premium,,Alto uso,Adulto Mayor
+12700,22.7,1,8,Carlos,Garcia,40.0,GDL,2024-01-10 07:26:09.092273072,Basico,"1,73517E+18",Medio uso,Adulto
+12701,38.24,8,3,Mateo,Gomez,65.0,GDL,2024-01-10 14:00:27.006751688,Basico,,Medio uso,Adulto Mayor
+12702,19.630000000000003,5,5,Ana,Garcia,62.0,Bogotá,2024-01-10 20:34:44.921230312,Basico,,Medio uso,Adulto Mayor
+12703,40.72,8,5,Luis,Torres,57.0,Medellín,2024-01-11 03:09:02.835708928,Basico,,Medio uso,Adulto
+12704,10.37,9,4,Luis,Gomez,23.0,,2024-01-11 09:43:20.750187552,Basico,,Medio uso,Joven
+12705,39.43,4,9,Luis,Torres,55.0,GDL,2024-01-11 16:17:38.664666168,Basico,,Medio uso,Adulto
+12706,41.86,3,6,Carlos,Gomez,58.0,GDL,2024-01-11 22:51:56.579144792,Basico,,Medio uso,Adulto
+12707,48.57000000000001,2,7,Mateo,Garcia,53.0,MTY,2024-01-12 05:26:14.493623408,Basico,,Medio uso,Adulto
+12708,13.79,6,6,Carlos,Lopez,44.0,,2024-01-12 12:00:32.408102032,Basico,,Medio uso,Adulto
+12709,34.71,9,5,Sofia,Ramirez,28.0,CDMX,2024-01-12 18:34:50.322580648,Basico,,Medio uso,Joven
+12710,13.34,6,4,Luis,Lopez,22.0,Medellín,2024-01-13 01:09:08.237059272,Premium,"1,7204E+18",Medio uso,Joven
+12711,132.92,8,3,Sofia,Garcia,74.0,Bogotá,2024-01-13 07:43:26.151537888,Premium,,Medio uso,Adulto Mayor
+12712,4.49,7,3,Mariana,Gomez,34.0,CDMX,2024-01-13 14:17:44.066016504,Basico,,Medio uso,Adulto
+12713,26.35,7,5,Ana,Lopez,69.0,MTY,2024-01-13 20:52:01.980495128,Basico,,Medio uso,Adulto Mayor
+12714,20.45,7,5,Ana,Garcia,24.0,GDL,2024-01-14 03:26:19.894973744,Premium,,Medio uso,Joven
+12715,8.57,5,3,Carlos,Torres,44.0,,2024-01-14 10:00:37.809452368,Basico,"1,73085E+18",Medio uso,Adulto
+12716,18.55,7,6,Mateo,Ramirez,64.0,Bogotá,2024-01-14 16:34:55.723930984,Premium,,Medio uso,Adulto Mayor
+12717,11.180000000000001,6,5,Sofia,Lopez,74.0,Bogotá,2024-01-14 23:09:13.638409608,Basico,,Medio uso,Adulto Mayor
+12718,23.96,4,5,Mateo,Gomez,32.0,Bogotá,2024-01-15 05:43:31.552888224,Premium,,Medio uso,Adulto
+12719,8.9,7,3,Carlos,Torres,63.0,Medellín,2024-01-15 12:17:49.467366848,Premium,,Medio uso,Adulto Mayor
+12720,20.96,5,5,Ana,Garcia,30.0,Bogotá,2024-01-15 18:52:07.381845464,Premium,,Medio uso,Adulto
+12721,46.13999999999999,9,5,Mateo,Ramirez,28.0,CDMX,2024-01-16 01:26:25.296324088,Premium,,Medio uso,Joven
+12722,8.48,7,2,Mateo,Gomez,77.0,MTY,2024-01-16 08:00:43.210802704,Basico,"1,72757E+18",Medio uso,Adulto Mayor
+12723,4.99,2,2,Ana,Garcia,62.0,GDL,2024-01-16 14:35:01.125281320,Basico,,Bajo uso,Adulto Mayor
+12724,37.13000000000001,4,5,Sofia,Garcia,43.0,Medellín,2024-01-16 21:09:19.039759944,Basico,,Medio uso,Adulto
+12725,32.0,2,6,Ana,Lopez,39.0,CDMX,2024-01-17 03:43:36.954238560,Basico,,Medio uso,Adulto
+12726,27.509999999999998,8,7,Mateo,Lopez,45.0,Bogotá,2024-01-17 10:17:54.868717184,Basico,,Medio uso,Adulto
+12727,19.37,3,3,Sofia,Gomez,41.0,GDL,2024-01-17 16:52:12.783195800,Basico,,Bajo uso,Adulto
+12728,27.919999999999998,8,3,Sofia,Garcia,46.0,,2024-01-17 23:26:30.697674424,Premium,,Medio uso,Adulto
+12729,30.54,6,5,Ana,Lopez,26.0,MTY,2024-01-18 06:00:48.612153040,Basico,,Medio uso,Joven
+12730,16.880000000000003,9,3,Mateo,Ramirez,59.0,MTY,2024-01-18 12:35:06.526631664,Basico,,Medio uso,Adulto
+12731,11.73,5,4,Carlos,Ramirez,21.0,,2024-01-18 19:09:24.441110280,Basico,,Medio uso,Joven
+12732,38.18,5,9,Mateo,Garcia,66.0,Bogotá,2024-01-19 01:43:42.355588904,Basico,,Medio uso,Adulto Mayor
+12733,32.11,4,6,Luis,Lopez,63.0,,2024-01-19 08:18:00.270067520,Basico,"1,73137E+18",Medio uso,Adulto Mayor
+12734,20.32,3,3,Mariana,Gomez,73.0,CDMX,2024-01-19 14:52:18.184546144,Premium,,Bajo uso,Adulto Mayor
+12735,35.980000000000004,4,6,Carlos,Gomez,35.0,MTY,2024-01-19 21:26:36.099024760,Basico,,Medio uso,Adulto
+12736,87.38000000000001,7,11,Sofia,Gomez,60.0,Medellín,2024-01-20 04:00:54.013503376,Basico,,Alto uso,Adulto Mayor
+12737,30.759999999999998,4,6,Carlos,Ramirez,33.0,,2024-01-20 10:35:11.927982000,Basico,,Medio uso,Adulto
+12738,31.0,4,6,Sofia,Lopez,50.0,GDL,2024-01-20 17:09:29.842460616,Basico,,Medio uso,Adulto
+12739,12.22,7,5,Sofia,Lopez,46.0,,2024-01-20 23:43:47.756939240,Premium,,Medio uso,Adulto
+12740,1.8599999999999999,6,4,Carlos,Ramirez,56.0,Bogotá,2024-01-21 06:18:05.671417856,Basico,,Medio uso,Adulto
+12741,19.97,8,2,Sofia,Gomez,77.0,Cali,2024-01-21 12:52:23.585896480,Basico,,Medio uso,Adulto Mayor
+12742,32.55,3,7,Sofia,Gomez,27.0,MTY,2024-01-21 19:26:41.500375096,Basico,,Medio uso,Joven
+12744,29.62,2,5,Mateo,Torres,76.0,,2024-01-22 08:35:17.329332336,Basico,,Medio uso,Adulto Mayor
+12745,15.35,10,4,Mateo,Lopez,48.0,,2024-01-22 15:09:35.243810960,Premium,,Alto uso,Adulto
+12746,34.760000000000005,5,8,Mariana,Lopez,45.0,Bogotá,2024-01-22 21:43:53.158289576,Basico,,Medio uso,Adulto
+12747,45.330000000000005,6,6,Mariana,Lopez,77.0,CDMX,2024-01-23 04:18:11.072768192,Basico,,Medio uso,Adulto Mayor
+12748,36.370000000000005,7,4,Luis,Torres,74.0,CDMX,2024-01-23 10:52:28.987246816,Premium,"1,73474E+18",Medio uso,Adulto Mayor
+12749,39.27,10,7,Mariana,Garcia,20.0,Bogotá,2024-01-23 17:26:46.901725432,Basico,,Alto uso,Joven
+12750,24.740000000000002,2,5,Carlos,Torres,71.0,CDMX,2024-01-24 00:01:04.816204056,Basico,,Medio uso,Adulto Mayor
+12751,10.849999999999998,1,6,Ana,Gomez,72.0,MTY,2024-01-24 06:35:22.730682672,Basico,,Medio uso,Adulto Mayor
+12752,24.52,6,6,Ana,Gomez,31.0,MTY,2024-01-24 13:09:40.645161296,Basico,,Medio uso,Adulto
+12753,37.55,4,7,Ana,Lopez,75.0,Medellín,2024-01-24 19:43:58.559639912,Premium,,Medio uso,Adulto Mayor
+12754,2.27,3,1,Luis,Ramirez,42.0,CDMX,2024-01-25 02:18:16.474118536,Basico,,Bajo uso,Adulto
+12755,29.29,3,4,Luis,Lopez,32.0,Bogotá,2024-01-25 08:52:34.388597152,Premium,,Bajo uso,Adulto
+12756,6.210000000000001,5,5,Sofia,Ramirez,19.0,Bogotá,2024-01-25 15:26:52.303075776,Basico,"1,73102E+18",Medio uso,Joven
+12757,40.07000000000001,4,5,Ana,Torres,41.0,Medellín,2024-01-25 22:01:10.217554392,Basico,,Medio uso,Adulto
+12758,23.53,3,2,Carlos,Gomez,31.0,Bogotá,2024-01-26 04:35:28.132033008,Premium,,Bajo uso,Adulto
+12759,32.06,2,9,Mariana,Ramirez,65.0,MTY,2024-01-26 11:09:46.046511632,Basico,,Medio uso,Adulto Mayor
+12760,19.050000000000004,5,7,Carlos,Torres,24.0,Medellín,2024-01-26 17:44:03.960990248,Basico,,Medio uso,Joven
+12761,11.35,8,4,Mariana,Gomez,53.0,Cali,2024-01-27 00:18:21.875468872,Basico,,Medio uso,Adulto
+12762,28.24,9,8,Ana,Ramirez,67.0,Medellín,2024-01-27 06:52:39.789947488,Basico,,Medio uso,Adulto Mayor
+12763,2.0300000000000002,3,3,Ana,Lopez,41.0,,2024-01-27 13:26:57.704426112,Premium,,Bajo uso,Adulto
+12764,23.979999999999997,5,5,Ana,Lopez,44.0,Medellín,2024-01-27 20:01:15.618904728,Basico,,Medio uso,Adulto
+12765,5.340000000000001,1,3,Luis,Lopez,54.0,Cali,2024-01-28 02:35:33.533383352,Basico,,Bajo uso,Adulto
+12766,9.120000000000001,5,4,Mariana,Torres,55.0,CDMX,2024-01-28 09:09:51.447861968,Premium,,Medio uso,Adulto
+12767,44.59,6,11,Luis,Lopez,47.0,Bogotá,2024-01-28 15:44:09.362340592,Basico,"1,72895E+18",Alto uso,Adulto
+12768,4.73,2,3,Luis,Garcia,44.0,Bogotá,2024-01-28 22:18:27.276819208,Basico,"1,73025E+18",Bajo uso,Adulto
+12769,0.0,5,0,Mateo,Gomez,56.0,GDL,2024-01-29 04:52:45.191297832,Basico,,Medio uso,Adulto
+12770,17.52,6,3,Carlos,Torres,47.0,Bogotá,2024-01-29 11:27:03.105776448,Premium,,Medio uso,Adulto
+12771,63.830000000000005,2,8,Carlos,Lopez,32.0,GDL,2024-01-29 18:01:21.020255064,Premium,,Medio uso,Adulto
+12772,16.91,3,5,Sofia,Gomez,43.0,Medellín,2024-01-30 00:35:38.934733688,Premium,"1,72066E+18",Medio uso,Adulto
+12773,18.02,7,4,Luis,Ramirez,18.0,Bogotá,2024-01-30 07:09:56.849212304,Basico,,Medio uso,Joven
+12774,41.75,6,5,Mariana,Lopez,73.0,Bogotá,2024-01-30 13:44:14.763690928,Basico,,Medio uso,Adulto Mayor
+12775,39.730000000000004,7,6,Mateo,Gomez,21.0,,2024-01-30 20:18:32.678169544,Basico,,Medio uso,Joven
+12776,50.370000000000005,3,8,Mateo,Garcia,46.0,MTY,2024-01-31 02:52:50.592648168,Basico,,Medio uso,Adulto
+12777,9.79,4,5,Carlos,Ramirez,74.0,MTY,2024-01-31 09:27:08.507126784,Premium,,Medio uso,Adulto Mayor
+12778,28.709999999999997,4,6,Luis,Garcia,18.0,MTY,2024-01-31 16:01:26.421605408,Basico,,Medio uso,Joven
+12779,24.02,4,6,Sofia,Gomez,60.0,,2024-01-31 22:35:44.336084024,Basico,,Medio uso,Adulto Mayor
+12780,61.379999999999995,6,10,Luis,Garcia,67.0,Bogotá,2024-02-01 05:10:02.250562648,Premium,,Alto uso,Adulto Mayor
+12781,44.74,9,7,Ana,Gomez,63.0,Medellín,2024-02-01 11:44:20.165041264,Premium,,Medio uso,Adulto Mayor
+12782,10.690000000000001,5,4,Luis,Gomez,39.0,GDL,2024-02-01 18:18:38.079519880,Basico,,Medio uso,Adulto
+12783,6.8100000000000005,4,2,Ana,Garcia,28.0,Bogotá,2024-02-02 00:52:55.993998504,Basico,"1,73223E+18",Bajo uso,Joven
+12784,16.34,4,5,Ana,Gomez,27.0,GDL,2024-02-02 07:27:13.908477120,Basico,,Medio uso,Joven
+12785,16.240000000000002,5,3,Sofia,Lopez,76.0,Medellín,2024-02-02 14:01:31.822955744,Basico,,Medio uso,Adulto Mayor
+12786,137.04999999999998,7,4,Mariana,Gomez,79.0,Cali,2024-02-02 20:35:49.737434360,Basico,,Medio uso,Adulto Mayor
+12787,4.17,4,1,Carlos,Torres,34.0,Medellín,2024-02-03 03:10:07.651912984,Basico,,Bajo uso,Adulto
+12788,5.19,6,2,Luis,Gomez,53.0,Medellín,2024-02-03 09:44:25.566391600,Premium,,Medio uso,Adulto
+12789,32.06,5,9,Ana,Torres,73.0,Bogotá,2024-02-03 16:18:43.480870224,Basico,"1,72074E+18",Medio uso,Adulto Mayor
+12790,14.77,2,6,Luis,Gomez,64.0,Medellín,2024-02-03 22:53:01.395348840,Basico,"1,72161E+18",Medio uso,Adulto Mayor
+12791,14.08,5,3,Mariana,Gomez,43.0,Bogotá,2024-02-04 05:27:19.309827464,Basico,,Medio uso,Adulto
+12792,26.56,6,7,Carlos,Garcia,65.0,Medellín,2024-02-04 12:01:37.224306080,Basico,,Medio uso,Adulto Mayor
+12793,33.17,2,7,Mariana,Lopez,38.0,GDL,2024-02-04 18:35:55.138784696,Basico,,Medio uso,Adulto
+12794,7.01,12,3,Carlos,Lopez,30.0,CDMX,2024-02-05 01:10:13.053263320,Premium,,Alto uso,Adulto
+12795,27.81,10,5,Mateo,Ramirez,26.0,Bogotá,2024-02-05 07:44:30.967741936,Premium,,Alto uso,Joven
+12796,8.84,6,3,Carlos,Garcia,28.0,Bogotá,2024-02-05 14:18:48.882220560,Basico,,Medio uso,Joven
+12797,21.919999999999998,6,3,Sofia,Garcia,28.0,GDL,2024-02-05 20:53:06.796699176,Premium,,Medio uso,Joven
+12798,20.490000000000002,10,6,Mariana,Lopez,23.0,Medellín,2024-02-06 03:27:24.711177800,Basico,,Alto uso,Joven
+12799,27.830000000000002,5,4,Ana,Garcia,18.0,CDMX,2024-02-06 10:01:42.625656416,Basico,,Medio uso,Joven
+12800,9.27,2,3,Mateo,Lopez,71.0,GDL,2024-02-06 16:36:00.540135040,Basico,,Bajo uso,Adulto Mayor
+12801,17.42,5,4,Sofia,Garcia,23.0,Medellín,2024-02-06 23:10:18.454613656,Premium,,Medio uso,Joven
+12802,17.18,9,5,Luis,Gomez,30.0,Bogotá,2024-02-07 05:44:36.369092280,Basico,,Medio uso,Adulto
+12803,19.63,2,4,Mariana,Lopez,39.0,Medellín,2024-02-07 12:18:54.283570896,Basico,,Bajo uso,Adulto
+12804,15.14,5,3,Ana,Lopez,73.0,Bogotá,2024-02-07 18:53:12.198049520,Premium,,Medio uso,Adulto Mayor
+12805,53.36000000000001,5,7,Carlos,Torres,48.0,,2024-02-08 01:27:30.112528136,Basico,,Medio uso,Adulto
+12806,47.040000000000006,8,5,Ana,Garcia,39.0,Bogotá,2024-02-08 08:01:48.027006752,Basico,,Medio uso,Adulto
+12807,0.25,1,1,Luis,Garcia,54.0,CDMX,2024-02-08 14:36:05.941485376,Basico,,Bajo uso,Adulto
+12808,8.49,4,3,Mateo,Lopez,64.0,MTY,2024-02-08 21:10:23.855963992,Premium,,Bajo uso,Adulto Mayor
+12809,10.530000000000001,6,2,Mateo,Gomez,44.0,CDMX,2024-02-09 03:44:41.770442616,Basico,,Medio uso,Adulto
+12810,33.67,10,7,Mariana,Gomez,67.0,,2024-02-09 10:18:59.684921232,Basico,,Alto uso,Adulto Mayor
+12811,46.39,2,8,Mateo,Gomez,69.0,CDMX,2024-02-09 16:53:17.599399856,Premium,,Medio uso,Adulto Mayor
+12812,17.79,2,3,Mariana,Garcia,31.0,MTY,2024-02-09 23:27:35.513878472,Basico,,Bajo uso,Adulto
+12813,5.57,5,2,Mariana,Torres,64.0,GDL,2024-02-10 06:01:53.428357096,Basico,"1,72532E+18",Medio uso,Adulto Mayor
+12814,25.490000000000002,7,5,Mariana,Lopez,75.0,Cali,2024-02-10 12:36:11.342835712,Premium,,Medio uso,Adulto Mayor
+12815,1.47,3,1,Carlos,Ramirez,22.0,MTY,2024-02-10 19:10:29.257314336,Premium,,Bajo uso,Joven
+12816,40.28,7,7,Sofia,Torres,75.0,,2024-02-11 01:44:47.171792952,Premium,,Medio uso,Adulto Mayor
+12817,26.28,4,5,Mariana,Ramirez,53.0,CDMX,2024-02-11 08:19:05.086271568,Basico,"1,71841E+18",Medio uso,Adulto
+12818,13.580000000000002,8,3,Mariana,Torres,49.0,CDMX,2024-02-11 14:53:23.000750192,Basico,"1,73362E+18",Medio uso,Adulto
+12819,37.93000000000001,5,7,Sofia,Gomez,51.0,GDL,2024-02-11 21:27:40.915228808,Premium,,Medio uso,Adulto
+12820,18.53,6,6,Ana,Garcia,24.0,Cali,2024-02-12 04:01:58.829707432,Premium,,Medio uso,Joven
+12821,56.7,4,6,Mariana,Ramirez,59.0,,2024-02-12 10:36:16.744186048,Basico,,Medio uso,Adulto
+12822,4.33,5,2,Carlos,Torres,65.0,CDMX,2024-02-12 17:10:34.658664672,Basico,,Medio uso,Adulto Mayor
+12823,44.449999999999996,6,7,Mateo,Garcia,27.0,CDMX,2024-02-12 23:44:52.573143288,Basico,"1,72956E+18",Medio uso,Joven
+12824,50.32000000000001,6,6,Mateo,Ramirez,67.0,Medellín,2024-02-13 06:19:10.487621912,Basico,,Medio uso,Adulto Mayor
+12825,40.25999999999999,8,4,Luis,Lopez,34.0,CDMX,2024-02-13 12:53:28.402100528,Premium,,Medio uso,Adulto
+12826,12.129999999999999,7,4,Luis,Torres,47.0,CDMX,2024-02-13 19:27:46.316579152,Basico,,Medio uso,Adulto
+12827,16.5,7,5,Mateo,Lopez,38.0,CDMX,2024-02-14 02:02:04.231057768,Basico,,Medio uso,Adulto
+12828,13.940000000000001,6,2,Mateo,Gomez,77.0,CDMX,2024-02-14 08:36:22.145536384,Basico,,Medio uso,Adulto Mayor
+12829,59.04,3,6,Carlos,Lopez,30.0,GDL,2024-02-14 15:10:40.060015008,Basico,,Medio uso,Adulto
+12830,1.0899999999999999,5,2,Sofia,Lopez,18.0,CDMX,2024-02-14 21:44:57.974493624,Basico,,Medio uso,Joven
+12831,34.470000000000006,6,7,Luis,Torres,18.0,MTY,2024-02-15 04:19:15.888972248,Premium,,Medio uso,Joven
+12832,31.740000000000006,6,5,Sofia,Gomez,64.0,Cali,2024-02-15 10:53:33.803450864,Basico,,Medio uso,Adulto Mayor
+12833,43.67,3,7,Carlos,Lopez,50.0,MTY,2024-02-15 17:27:51.717929488,Basico,,Medio uso,Adulto
+12834,0.67,2,1,Mateo,Garcia,55.0,Medellín,2024-02-16 00:02:09.632408104,Basico,,Bajo uso,Adulto
+12835,22.52,8,2,Mariana,Ramirez,42.0,CDMX,2024-02-16 06:36:27.546886728,Premium,"1,71867E+18",Medio uso,Adulto
+12836,19.729999999999997,6,3,Sofia,Lopez,43.0,Medellín,2024-02-16 13:10:45.461365344,Premium,,Medio uso,Adulto
+12837,5.66,10,2,Mateo,Gomez,30.0,MTY,2024-02-16 19:45:03.375843968,Basico,"1,73163E+18",Alto uso,Adulto
+12838,31.299999999999997,6,3,Mateo,Lopez,76.0,Medellín,2024-02-17 02:19:21.290322584,Premium,"1,71763E+18",Medio uso,Adulto Mayor
+12839,6.03,5,4,Ana,Ramirez,45.0,CDMX,2024-02-17 08:53:39.204801208,Basico,,Medio uso,Adulto
+12840,16.509999999999998,5,5,Sofia,Gomez,50.0,,2024-02-17 15:27:57.119279824,Basico,,Medio uso,Adulto
+12841,25.56,7,5,Mariana,Torres,54.0,GDL,2024-02-17 22:02:15.033758440,Premium,,Medio uso,Adulto
+12842,16.71,2,6,Sofia,Gomez,47.0,MTY,2024-02-18 04:36:32.948237064,Basico,,Medio uso,Adulto
+12843,37.150000000000006,3,8,Mateo,Torres,58.0,,2024-02-18 11:10:50.862715680,Basico,,Medio uso,Adulto
+12844,4.3,4,3,Mariana,Gomez,47.0,Bogotá,2024-02-18 17:45:08.777194304,Premium,,Bajo uso,Adulto
+12845,23.380000000000003,5,4,Carlos,Ramirez,74.0,MTY,2024-02-19 00:19:26.691672920,Premium,,Medio uso,Adulto Mayor
+12846,39.27,3,7,Ana,Ramirez,66.0,,2024-02-19 06:53:44.606151544,Basico,,Medio uso,Adulto Mayor
+12847,1.18,5,1,Mateo,Gomez,65.0,MTY,2024-02-19 13:28:02.520630160,Premium,,Medio uso,Adulto Mayor
+12848,18.17,3,5,Luis,Lopez,25.0,CDMX,2024-02-19 20:02:20.435108784,Basico,,Medio uso,Joven
+12849,28.05,6,7,Luis,Ramirez,66.0,,2024-02-20 02:36:38.349587400,Basico,,Medio uso,Adulto Mayor
+12850,21.599999999999998,9,6,Ana,Torres,64.0,GDL,2024-02-20 09:10:56.264066024,Basico,,Medio uso,Adulto Mayor
+12851,13.25,4,3,Carlos,Torres,73.0,,2024-02-20 15:45:14.178544640,Basico,,Bajo uso,Adulto Mayor
+12852,40.550000000000004,8,8,Mateo,Garcia,18.0,CDMX,2024-02-20 22:19:32.093023256,Premium,,Medio uso,Joven
+12853,20.550000000000004,6,4,Sofia,Torres,29.0,Medellín,2024-02-21 04:53:50.007501880,Basico,,Medio uso,Joven
+12854,44.300000000000004,4,9,Ana,Garcia,22.0,Bogotá,2024-02-21 11:28:07.921980496,Basico,,Medio uso,Joven
+12855,14.440000000000001,4,5,Carlos,Gomez,41.0,,2024-02-21 18:02:25.836459120,Basico,,Medio uso,Adulto
+12856,9.89,3,5,Sofia,Gomez,23.0,Bogotá,2024-02-22 00:36:43.750937736,Basico,"1,73172E+18",Medio uso,Joven
+12857,13.64,10,3,Luis,Gomez,42.0,CDMX,2024-02-22 07:11:01.665416360,Basico,,Alto uso,Adulto
+12858,1.59,8,1,Luis,Lopez,18.0,Medellín,2024-02-22 13:45:19.579894976,Premium,,Medio uso,Joven
+12859,8.59,8,2,Sofia,Lopez,42.0,CDMX,2024-02-22 20:19:37.494373600,Basico,,Medio uso,Adulto
+12860,8.9,2,3,Ana,Garcia,18.0,Cali,2024-02-23 02:53:55.408852216,Basico,,Bajo uso,Joven
+12861,39.39,3,6,Luis,Torres,49.0,,2024-02-23 09:28:13.323330840,Basico,,Medio uso,Adulto
+12862,11.830000000000002,6,3,Mateo,Torres,59.0,Bogotá,2024-02-23 16:02:31.237809456,Premium,,Medio uso,Adulto
+12863,8.0,5,4,Mariana,Gomez,59.0,Cali,2024-02-23 22:36:49.152288072,Basico,"1,72489E+18",Medio uso,Adulto
+12864,27.750000000000004,4,6,Sofia,Ramirez,20.0,CDMX,2024-02-24 05:11:07.066766696,Basico,,Medio uso,Joven
+12865,18.0,10,4,Sofia,Lopez,66.0,Bogotá,2024-02-24 11:45:24.981245312,Basico,,Alto uso,Adulto Mayor
+12866,48.41,8,6,Luis,Lopez,36.0,MTY,2024-02-24 18:19:42.895723936,Basico,,Medio uso,Adulto
+12867,35.73,7,4,Ana,Gomez,77.0,Medellín,2024-02-25 00:54:00.810202552,Basico,,Medio uso,Adulto Mayor
+12868,40.53,5,6,Mateo,Lopez,60.0,CDMX,2024-02-25 07:28:18.724681176,Premium,,Medio uso,Adulto Mayor
+12869,24.259999999999998,3,4,Ana,Gomez,46.0,Cali,2024-02-25 14:02:36.639159792,Premium,,Bajo uso,Adulto
+12870,30.41,4,3,Carlos,Garcia,67.0,CDMX,2024-02-25 20:36:54.553638416,Basico,,Bajo uso,Adulto Mayor
+12871,37.86,5,6,Carlos,Torres,19.0,Medellín,2024-02-26 03:11:12.468117032,Premium,,Medio uso,Joven
+12872,43.58,6,9,Mariana,Ramirez,26.0,CDMX,2024-02-26 09:45:30.382595656,Premium,,Medio uso,Joven
+12873,17.61,8,3,Luis,Torres,73.0,Cali,2024-02-26 16:19:48.297074272,Premium,,Medio uso,Adulto Mayor
+12874,13.84,6,2,Luis,Torres,34.0,CDMX,2024-02-26 22:54:06.211552896,Premium,,Medio uso,Adulto
+12875,14.379999999999999,4,4,Luis,Garcia,77.0,Bogotá,2024-02-27 05:28:24.126031512,Premium,,Bajo uso,Adulto Mayor
+12876,18.880000000000003,5,7,Mariana,Lopez,63.0,GDL,2024-02-27 12:02:42.040510128,Basico,,Medio uso,Adulto Mayor
+12877,61.800000000000004,7,9,Carlos,Ramirez,53.0,Medellín,2024-02-27 18:36:59.954988752,Basico,"1,72601E+18",Medio uso,Adulto
+12878,15.9,2,5,Ana,Lopez,78.0,MTY,2024-02-28 01:11:17.869467368,Basico,,Medio uso,Adulto Mayor
+12879,20.16,7,7,Mariana,Torres,34.0,Medellín,2024-02-28 07:45:35.783945992,Premium,,Medio uso,Adulto
+12880,16.65,9,4,Mariana,Gomez,66.0,GDL,2024-02-28 14:19:53.698424608,Basico,"1,72031E+18",Medio uso,Adulto Mayor
+12881,45.07,7,5,Ana,Torres,29.0,Cali,2024-02-28 20:54:11.612903232,Basico,,Medio uso,Joven
+12882,8.71,7,2,Luis,Lopez,77.0,CDMX,2024-02-29 03:28:29.527381848,Basico,,Medio uso,Adulto Mayor
+12883,15.41,6,3,Mateo,Torres,37.0,GDL,2024-02-29 10:02:47.441860472,Premium,,Medio uso,Adulto
+12884,24.65,6,8,Ana,Gomez,67.0,Bogotá,2024-02-29 16:37:05.356339088,Premium,,Medio uso,Adulto Mayor
+12885,25.240000000000002,5,8,Carlos,Garcia,20.0,CDMX,2024-02-29 23:11:23.270817712,Basico,,Medio uso,Joven
+12886,15.049999999999999,6,3,Sofia,Lopez,60.0,GDL,2024-03-01 05:45:41.185296328,Basico,,Medio uso,Adulto Mayor
+12887,9.4,6,4,Sofia,Torres,74.0,,2024-03-01 12:19:59.099774944,Premium,,Medio uso,Adulto Mayor
+12888,29.89,4,2,Mariana,Lopez,67.0,,2024-03-01 18:54:17.014253568,Basico,"1,73249E+18",Bajo uso,Adulto Mayor
+12889,7.57,3,3,Sofia,Garcia,21.0,Medellín,2024-03-02 01:28:34.928732184,Basico,,Bajo uso,Joven
+12890,18.259999999999998,10,3,Mateo,Torres,34.0,GDL,2024-03-02 08:02:52.843210808,Basico,,Alto uso,Adulto
+12891,22.520000000000003,3,4,Luis,Torres,67.0,GDL,2024-03-02 14:37:10.757689424,Premium,,Bajo uso,Adulto Mayor
+12892,30.57,2,6,Carlos,Lopez,54.0,Medellín,2024-03-02 21:11:28.672168048,Basico,,Medio uso,Adulto
+12893,5.0,7,2,Mateo,Lopez,63.0,CDMX,2024-03-03 03:45:46.586646664,Basico,,Medio uso,Adulto Mayor
+12894,8.57,5,4,Carlos,Gomez,59.0,,2024-03-03 10:20:04.501125288,Premium,"1,73189E+18",Medio uso,Adulto
+12895,3.1100000000000003,6,2,Carlos,Garcia,32.0,GDL,2024-03-03 16:54:22.415603904,Basico,,Medio uso,Adulto
+12896,40.129999999999995,4,8,Luis,Gomez,50.0,,2024-03-03 23:28:40.330082528,Basico,,Medio uso,Adulto
+12897,9.92,5,3,Mariana,Torres,33.0,Bogotá,2024-03-04 06:02:58.244561144,Basico,,Medio uso,Adulto
+12898,40.24,6,4,Sofia,Lopez,28.0,Cali,2024-03-04 12:37:16.159039760,Premium,,Medio uso,Joven
+12899,38.1,9,9,Luis,Torres,72.0,CDMX,2024-03-04 19:11:34.073518384,Basico,,Medio uso,Adulto Mayor
+12900,23.79,6,7,Mateo,Torres,37.0,,2024-03-05 01:45:51.987997000,Premium,,Medio uso,Adulto
+12901,18.62,7,3,Mariana,Ramirez,55.0,GDL,2024-03-05 08:20:09.902475624,Premium,"1,72109E+18",Medio uso,Adulto
+12902,16.77,6,4,Mateo,Ramirez,41.0,Medellín,2024-03-05 14:54:27.816954240,Premium,,Medio uso,Adulto
+12903,22.45,4,5,Mariana,Torres,78.0,Cali,2024-03-05 21:28:45.731432864,Premium,,Medio uso,Adulto Mayor
+12904,21.69,2,3,Mateo,Lopez,71.0,CDMX,2024-03-06 04:03:03.645911480,Premium,,Bajo uso,Adulto Mayor
+12905,10.559999999999999,6,3,Luis,Torres,33.0,Bogotá,2024-03-06 10:37:21.560390104,Premium,"1,72014E+18",Medio uso,Adulto
+12906,21.189999999999998,4,6,Mariana,Ramirez,47.0,Bogotá,2024-03-06 17:11:39.474868720,Premium,,Medio uso,Adulto
+12907,24.990000000000002,4,8,Mariana,Lopez,51.0,MTY,2024-03-06 23:45:57.389347344,Premium,,Medio uso,Adulto
+12908,15.59,8,5,Carlos,Torres,18.0,Bogotá,2024-03-07 06:20:15.303825960,Basico,,Medio uso,Joven
+12909,22.689999999999998,3,3,Carlos,Garcia,41.0,MTY,2024-03-07 12:54:33.218304584,Basico,"1,72817E+18",Bajo uso,Adulto
+12910,28.119999999999997,5,6,Ana,Garcia,41.0,MTY,2024-03-07 19:28:51.132783200,Basico,,Medio uso,Adulto
+12911,52.96000000000001,4,6,Mateo,Torres,26.0,Medellín,2024-03-08 02:03:09.047261816,Basico,,Medio uso,Joven
+12912,24.32,5,7,Carlos,Lopez,39.0,Medellín,2024-03-08 08:37:26.961740440,Premium,,Medio uso,Adulto
+12913,17.34,4,2,Ana,Torres,29.0,GDL,2024-03-08 15:11:44.876219056,Premium,,Bajo uso,Joven
+12914,9.73,2,3,Carlos,Torres,34.0,,2024-03-08 21:46:02.790697680,Basico,,Bajo uso,Adulto
+12915,16.689999999999998,4,3,Mateo,Ramirez,79.0,,2024-03-09 04:20:20.705176296,Basico,,Bajo uso,Adulto Mayor
+12916,27.680000000000003,4,5,Mariana,Garcia,42.0,Bogotá,2024-03-09 10:54:38.619654920,Basico,,Medio uso,Adulto
+12917,6.07,9,3,Sofia,Ramirez,45.0,Bogotá,2024-03-09 17:28:56.534133536,Basico,,Medio uso,Adulto
+12918,7.7,4,2,Mateo,Ramirez,78.0,MTY,2024-03-10 00:03:14.448612160,Premium,"1,73215E+18",Bajo uso,Adulto Mayor
+12919,46.39,2,7,Luis,Torres,32.0,Medellín,2024-03-10 06:37:32.363090776,Basico,,Medio uso,Adulto
+12920,20.919999999999998,6,4,Carlos,Ramirez,47.0,Medellín,2024-03-10 13:11:50.277569400,Basico,"1,72092E+18",Medio uso,Adulto
+12921,66.52,3,8,Carlos,Garcia,68.0,GDL,2024-03-10 19:46:08.192048016,Basico,,Medio uso,Adulto Mayor
+12922,15.639999999999999,4,5,Mariana,Ramirez,44.0,Medellín,2024-03-11 02:20:26.106526632,Basico,,Medio uso,Adulto
+12923,42.71,6,5,Luis,Garcia,39.0,GDL,2024-03-11 08:54:44.021005256,Premium,"1,73033E+18",Medio uso,Adulto
+12924,21.94,4,3,Mariana,Ramirez,27.0,CDMX,2024-03-11 15:29:01.935483872,Basico,,Bajo uso,Joven
+12925,24.0,3,5,Luis,Garcia,78.0,Medellín,2024-03-11 22:03:19.849962496,Premium,,Medio uso,Adulto Mayor
+12926,7.680000000000001,7,4,Sofia,Ramirez,75.0,Medellín,2024-03-12 04:37:37.764441112,Basico,,Medio uso,Adulto Mayor
+12927,16.63,8,4,Carlos,Ramirez,48.0,Bogotá,2024-03-12 11:11:55.678919736,Basico,,Medio uso,Adulto
+12928,47.81,3,8,Carlos,Lopez,44.0,Bogotá,2024-03-12 17:46:13.593398352,Basico,"1,72869E+18",Medio uso,Adulto
+12929,24.43,7,4,Sofia,Garcia,29.0,,2024-03-13 00:20:31.507876976,Premium,"1,71988E+18",Medio uso,Joven
+12930,35.029999999999994,4,5,Ana,Garcia,63.0,Bogotá,2024-03-13 06:54:49.422355592,Basico,,Medio uso,Adulto Mayor
+12931,14.309999999999999,1,5,Mariana,Garcia,48.0,Medellín,2024-03-13 13:29:07.336834216,Basico,,Medio uso,Adulto
+12932,34.2,7,5,Sofia,Gomez,49.0,CDMX,2024-03-13 20:03:25.251312832,Basico,,Medio uso,Adulto
+12933,34.53,7,9,Mariana,Ramirez,49.0,CDMX,2024-03-14 02:37:43.165791448,Basico,,Medio uso,Adulto
+12934,7.71,6,2,Mateo,Garcia,58.0,MTY,2024-03-14 09:12:01.080270072,Basico,,Medio uso,Adulto
+12935,2.9,4,1,Carlos,Gomez,76.0,Bogotá,2024-03-14 15:46:18.994748688,Basico,,Bajo uso,Adulto Mayor
+12936,130.84,3,2,Mariana,Lopez,62.0,Cali,2024-03-14 22:20:36.909227312,Premium,"1,72169E+18",Bajo uso,Adulto Mayor
+12937,13.05,2,3,Luis,Garcia,52.0,MTY,2024-03-15 04:54:54.823705928,Basico,,Bajo uso,Adulto
+12938,5.6499999999999995,4,2,Mariana,Garcia,70.0,MTY,2024-03-15 11:29:12.738184552,Basico,,Bajo uso,Adulto Mayor
+12939,28.190000000000005,3,7,Mateo,Gomez,78.0,GDL,2024-03-15 18:03:30.652663168,Basico,,Medio uso,Adulto Mayor
+12940,30.28,4,5,Carlos,Ramirez,63.0,GDL,2024-03-16 00:37:48.567141792,Premium,,Medio uso,Adulto Mayor
+12941,23.91,2,5,Sofia,Lopez,38.0,,2024-03-16 07:12:06.481620408,Basico,,Medio uso,Adulto
+12942,1.26,6,2,Mateo,Garcia,27.0,Medellín,2024-03-16 13:46:24.396099032,Premium,,Medio uso,Joven
+12943,1.71,2,1,Carlos,Ramirez,33.0,CDMX,2024-03-16 20:20:42.310577648,Basico,,Bajo uso,Adulto
+12944,14.799999999999999,4,2,Mariana,Lopez,24.0,Medellín,2024-03-17 02:55:00.225056272,Premium,,Bajo uso,Joven
+12945,4.74,6,3,Ana,Torres,21.0,Medellín,2024-03-17 09:29:18.139534888,Basico,,Medio uso,Joven
+12946,28.57,7,3,Ana,Torres,44.0,Medellín,2024-03-17 16:03:36.054013504,Basico,,Medio uso,Adulto
+12947,2.84,4,3,Luis,Lopez,69.0,CDMX,2024-03-17 22:37:53.968492128,Premium,,Bajo uso,Adulto Mayor
+12948,55.57000000000001,5,9,Carlos,Gomez,72.0,Bogotá,2024-03-18 05:12:11.882970744,Premium,,Medio uso,Adulto Mayor
+12949,42.32000000000001,7,5,Ana,Lopez,42.0,CDMX,2024-03-18 11:46:29.797449368,Premium,,Medio uso,Adulto
+12950,13.36,6,2,Sofia,Lopez,48.0,Cali,2024-03-18 18:20:47.711927984,Premium,,Medio uso,Adulto
+12951,7.890000000000001,7,3,Carlos,Gomez,28.0,Medellín,2024-03-19 00:55:05.626406608,Basico,,Medio uso,Joven
+12952,4.18,12,2,Sofia,Gomez,65.0,Bogotá,2024-03-19 07:29:23.540885224,Basico,,Alto uso,Adulto Mayor
+12953,37.64,4,5,Sofia,Ramirez,37.0,MTY,2024-03-19 14:03:41.455363848,Basico,,Medio uso,Adulto
+12954,17.110000000000003,2,7,Ana,Ramirez,53.0,GDL,2024-03-19 20:37:59.369842464,Premium,,Medio uso,Adulto
+12955,26.659999999999997,7,4,Carlos,Gomez,71.0,CDMX,2024-03-20 03:12:17.284321088,Basico,"1,72956E+18",Medio uso,Adulto Mayor
+12956,1.68,6,2,Mariana,Torres,71.0,,2024-03-20 09:46:35.198799704,Premium,,Medio uso,Adulto Mayor
+12957,7.28,4,3,Mateo,Torres,72.0,GDL,2024-03-20 16:20:53.113278320,Basico,,Bajo uso,Adulto Mayor
+12958,36.41,5,8,Ana,Lopez,47.0,CDMX,2024-03-20 22:55:11.027756944,Premium,,Medio uso,Adulto
+12959,33.06,4,4,Ana,Garcia,34.0,,2024-03-21 05:29:28.942235560,Basico,,Bajo uso,Adulto
+12960,14.32,4,1,Mariana,Lopez,62.0,Bogotá,2024-03-21 12:03:46.856714184,Basico,,Bajo uso,Adulto Mayor
+12961,146.92,8,4,Carlos,Lopez,28.0,Cali,2024-03-21 18:38:04.771192800,Premium,,Medio uso,Joven
+12962,9.24,5,4,Carlos,Garcia,47.0,CDMX,2024-03-22 01:12:22.685671424,Basico,,Medio uso,Adulto
+12963,29.939999999999998,4,7,Sofia,Gomez,52.0,Bogotá,2024-03-22 07:46:40.600150040,Premium,,Medio uso,Adulto
+12964,9.92,3,1,Mariana,Torres,58.0,MTY,2024-03-22 14:20:58.514628664,Premium,"1,72212E+18",Bajo uso,Adulto
+12965,36.82,5,6,Mariana,Lopez,55.0,Cali,2024-03-22 20:55:16.429107280,Basico,,Medio uso,Adulto
+12966,0.28,8,1,Carlos,Garcia,39.0,CDMX,2024-03-23 03:29:34.343585904,Premium,,Medio uso,Adulto
+12967,31.83,7,7,Sofia,Ramirez,70.0,Bogotá,2024-03-23 10:03:52.258064520,Premium,,Medio uso,Adulto Mayor
+12968,24.92,7,4,Ana,Lopez,60.0,Cali,2024-03-23 16:38:10.172543136,Basico,"1,72083E+18",Medio uso,Adulto Mayor
+12969,3.5,8,1,Luis,Torres,65.0,Bogotá,2024-03-23 23:12:28.087021760,Basico,,Medio uso,Adulto Mayor
+12970,12.049999999999999,8,4,Mateo,Gomez,68.0,Bogotá,2024-03-24 05:46:46.001500376,Basico,,Medio uso,Adulto Mayor
+12971,6.9799999999999995,2,3,Ana,Lopez,44.0,CDMX,2024-03-24 12:21:03.915979000,Premium,"1,72679E+18",Bajo uso,Adulto
+12972,19.94,6,6,Carlos,Lopez,54.0,CDMX,2024-03-24 18:55:21.830457616,Premium,,Medio uso,Adulto
+12973,23.7,5,5,Mateo,Garcia,63.0,Medellín,2024-03-25 01:29:39.744936240,Basico,,Medio uso,Adulto Mayor
+12974,16.330000000000002,2,5,Luis,Ramirez,66.0,Medellín,2024-03-25 08:03:57.659414856,Basico,,Medio uso,Adulto Mayor
+12975,11.969999999999999,6,4,Luis,Ramirez,52.0,,2024-03-25 14:38:15.573893480,Basico,"1,72956E+18",Medio uso,Adulto
+12976,31.18,4,10,Sofia,Gomez,21.0,Medellín,2024-03-25 21:12:33.488372096,Basico,,Alto uso,Joven
+12977,63.699999999999996,5,7,Mateo,Torres,33.0,Bogotá,2024-03-26 03:46:51.402850720,Premium,,Medio uso,Adulto
+12978,33.43,3,5,Sofia,Gomez,33.0,,2024-03-26 10:21:09.317329336,Premium,,Medio uso,Adulto
+12979,38.02,9,9,Ana,Lopez,38.0,CDMX,2024-03-26 16:55:27.231807952,Basico,,Medio uso,Adulto
+12980,6.27,5,3,Mariana,Lopez,43.0,Bogotá,2024-03-26 23:29:45.146286576,Premium,,Medio uso,Adulto
+12981,12.48,9,3,Mariana,Ramirez,74.0,GDL,2024-03-27 06:04:03.060765192,Basico,,Medio uso,Adulto Mayor
+12982,8.790000000000001,8,3,Mariana,Torres,53.0,CDMX,2024-03-27 12:38:20.975243816,Basico,"1,71841E+18",Medio uso,Adulto
+12983,11.44,6,4,Mateo,Garcia,36.0,Cali,2024-03-27 19:12:38.889722432,Basico,,Medio uso,Adulto
+12984,26.029999999999998,4,4,Mariana,Torres,75.0,Bogotá,2024-03-28 01:46:56.804201056,Basico,,Bajo uso,Adulto Mayor
+12985,6.61,6,2,Ana,Lopez,34.0,Bogotá,2024-03-28 08:21:14.718679672,Premium,,Medio uso,Adulto
+12986,24.599999999999998,10,5,Sofia,Garcia,62.0,Bogotá,2024-03-28 14:55:32.633158296,Basico,,Alto uso,Adulto Mayor
+12987,61.35000000000001,6,9,Mateo,Torres,43.0,Bogotá,2024-03-28 21:29:50.547636912,Basico,"1,73102E+18",Medio uso,Adulto
+12988,12.93,5,4,Sofia,Torres,39.0,CDMX,2024-03-29 04:04:08.462115536,Basico,,Medio uso,Adulto
+12989,4.62,4,1,Mateo,Garcia,72.0,Medellín,2024-03-29 10:38:26.376594152,Basico,,Bajo uso,Adulto Mayor
+12990,13.51,6,4,Sofia,Lopez,75.0,Bogotá,2024-03-29 17:12:44.291072776,Basico,,Medio uso,Adulto Mayor
+12991,28.509999999999998,4,5,Luis,Torres,47.0,Cali,2024-03-29 23:47:02.205551392,Basico,,Medio uso,Adulto
+12992,33.059999999999995,7,5,Sofia,Garcia,73.0,GDL,2024-03-30 06:21:20.120030008,Premium,,Medio uso,Adulto Mayor
+12993,3.9299999999999997,3,2,Mariana,Lopez,45.0,GDL,2024-03-30 12:55:38.034508632,Premium,,Bajo uso,Adulto
+12994,21.949999999999996,7,6,Luis,Garcia,18.0,Medellín,2024-03-30 19:29:55.948987248,Basico,"1,73439E+18",Medio uso,Joven
+12995,17.05,3,5,Sofia,Garcia,61.0,Cali,2024-03-31 02:04:13.863465872,Premium,,Medio uso,Adulto Mayor
+12996,24.540000000000003,5,7,Mateo,Torres,53.0,Bogotá,2024-03-31 08:38:31.777944488,Basico,,Medio uso,Adulto
+12997,25.950000000000003,8,7,Mateo,Lopez,60.0,Medellín,2024-03-31 15:12:49.692423112,Basico,,Medio uso,Adulto Mayor
+12998,23.94,8,4,Mateo,Torres,54.0,,2024-03-31 21:47:07.606901728,Basico,,Medio uso,Adulto
+12999,33.239999999999995,6,7,Carlos,Gomez,19.0,,2024-04-01 04:21:25.521380352,Basico,,Medio uso,Joven
+13000,40.51,2,6,Ana,Gomez,34.0,Medellín,2024-04-01 10:55:43.435858968,Premium,,Medio uso,Adulto
+13001,2.96,7,2,Mateo,Lopez,57.0,Medellín,2024-04-01 17:30:01.350337592,Basico,,Medio uso,Adulto
+13002,0.0,8,0,Luis,Garcia,55.0,GDL,2024-04-02 00:04:19.264816208,Premium,,Medio uso,Adulto
+13003,15.899999999999999,8,4,Mateo,Torres,38.0,Cali,2024-04-02 06:38:37.179294824,Basico,,Medio uso,Adulto
+13004,20.18,8,4,Carlos,Torres,78.0,Bogotá,2024-04-02 13:12:55.093773448,Basico,,Medio uso,Adulto Mayor
+13005,14.66,5,4,Mariana,Lopez,26.0,,2024-04-02 19:47:13.008252064,Premium,,Medio uso,Joven
+13006,12.73,2,4,Luis,Lopez,30.0,CDMX,2024-04-03 02:21:30.922730688,Basico,,Bajo uso,Adulto
+13007,15.999999999999998,6,6,Carlos,Gomez,28.0,Bogotá,2024-04-03 08:55:48.837209304,Basico,,Medio uso,Joven
+13008,8.5,3,2,Mariana,Ramirez,78.0,Bogotá,2024-04-03 15:30:06.751687928,Basico,,Bajo uso,Adulto Mayor
+13009,19.5,4,3,Luis,Lopez,33.0,Bogotá,2024-04-03 22:04:24.666166544,Basico,,Bajo uso,Adulto
+13010,35.58,3,6,Sofia,Ramirez,33.0,GDL,2024-04-04 04:38:42.580645168,Premium,,Medio uso,Adulto
+13011,28.5,1,6,Ana,Lopez,76.0,Bogotá,2024-04-04 11:13:00.495123784,Basico,,Medio uso,Adulto Mayor
+13012,39.74,6,5,Ana,Garcia,19.0,Cali,2024-04-04 17:47:18.409602408,Basico,,Medio uso,Joven
+13013,13.37,4,1,Carlos,Garcia,59.0,Medellín,2024-04-05 00:21:36.324081024,Premium,,Bajo uso,Adulto
+13014,12.240000000000002,5,4,Mariana,Gomez,61.0,GDL,2024-04-05 06:55:54.238559640,Basico,"1,7185E+18",Medio uso,Adulto Mayor
+13015,13.08,6,5,Ana,Gomez,25.0,Medellín,2024-04-05 13:30:12.153038264,Basico,,Medio uso,Joven
+13016,27.49,7,6,Mariana,Ramirez,60.0,GDL,2024-04-05 20:04:30.067516880,Basico,,Medio uso,Adulto Mayor
+13017,58.64,6,6,Mariana,Lopez,79.0,CDMX,2024-04-06 02:38:47.981995504,Basico,"1,73154E+18",Medio uso,Adulto Mayor
+13018,49.22,4,4,Carlos,Torres,59.0,Medellín,2024-04-06 09:13:05.896474120,Basico,,Bajo uso,Adulto
+13019,25.17,7,4,Carlos,Gomez,30.0,Cali,2024-04-06 15:47:23.810952744,Basico,,Medio uso,Adulto
+13020,11.680000000000001,8,4,Carlos,Torres,74.0,Bogotá,2024-04-06 22:21:41.725431360,Premium,,Medio uso,Adulto Mayor
+13021,12.990000000000002,8,6,Ana,Torres,34.0,Bogotá,2024-04-07 04:55:59.639909984,Basico,,Medio uso,Adulto
+13022,29.94,3,7,Carlos,Lopez,56.0,MTY,2024-04-07 11:30:17.554388600,Basico,,Medio uso,Adulto
+13023,6.84,4,2,Ana,Ramirez,41.0,Bogotá,2024-04-07 18:04:35.468867224,Basico,,Bajo uso,Adulto
+13024,62.349999999999994,2,7,Carlos,Lopez,20.0,CDMX,2024-04-08 00:38:53.383345840,Basico,,Medio uso,Joven
+13025,20.919999999999998,6,4,Mateo,Gomez,47.0,,2024-04-08 07:13:11.297824464,Premium,,Medio uso,Adulto
+13026,11.35,7,1,Mariana,Torres,69.0,Cali,2024-04-08 13:47:29.212303080,Basico,,Medio uso,Adulto Mayor
+13027,22.91,7,3,Carlos,Lopez,30.0,Medellín,2024-04-08 20:21:47.126781696,Basico,,Medio uso,Adulto
+13028,53.66,10,7,Luis,Lopez,36.0,Bogotá,2024-04-09 02:56:05.041260320,Basico,,Alto uso,Adulto
+13029,3.66,6,3,Mariana,Lopez,24.0,Cali,2024-04-09 09:30:22.955738936,Basico,,Medio uso,Joven
+13030,16.47,1,2,Mariana,Gomez,26.0,Bogotá,2024-04-09 16:04:40.870217560,Premium,"1,72912E+18",Bajo uso,Joven
+13031,34.06,2,5,Carlos,Ramirez,36.0,GDL,2024-04-09 22:38:58.784696176,Basico,"1,72074E+18",Medio uso,Adulto
+13032,51.69,10,6,Sofia,Lopez,62.0,CDMX,2024-04-10 05:13:16.699174800,Basico,,Alto uso,Adulto Mayor
+13033,23.5,9,4,Carlos,Gomez,71.0,Medellín,2024-04-10 11:47:34.613653416,Basico,,Medio uso,Adulto Mayor
+13034,12.89,5,5,Mariana,Torres,57.0,,2024-04-10 18:21:52.528132040,Basico,,Medio uso,Adulto
+13036,25.72,7,4,Mariana,Gomez,35.0,GDL,2024-04-11 07:30:28.357089280,Basico,,Medio uso,Adulto
+13037,42.17,6,10,Luis,Garcia,78.0,Bogotá,2024-04-11 14:04:46.271567896,Premium,,Alto uso,Adulto Mayor
+13038,28.009999999999998,6,5,Ana,Lopez,40.0,Cali,2024-04-11 20:39:04.186046512,Basico,,Medio uso,Adulto
+13039,32.61,3,4,Mateo,Lopez,19.0,GDL,2024-04-12 03:13:22.100525136,Premium,,Bajo uso,Joven
+13040,26.29,6,4,Mariana,Gomez,67.0,GDL,2024-04-12 09:47:40.015003752,Basico,,Medio uso,Adulto Mayor
+13041,11.59,4,3,Carlos,Garcia,67.0,Medellín,2024-04-12 16:21:57.929482376,Premium,,Bajo uso,Adulto Mayor
+13042,47.050000000000004,4,10,Ana,Lopez,28.0,Bogotá,2024-04-12 22:56:15.843960992,Basico,,Alto uso,Joven
+13043,22.02,4,5,Mateo,Torres,48.0,CDMX,2024-04-13 05:30:33.758439616,Premium,"1,72886E+18",Medio uso,Adulto
+13044,32.71,5,6,Carlos,Ramirez,50.0,CDMX,2024-04-13 12:04:51.672918232,Basico,,Medio uso,Adulto
+13045,96.88,5,12,Sofia,Ramirez,31.0,Medellín,2024-04-13 18:39:09.587396856,Basico,"1,72014E+18",Alto uso,Adulto
+13046,6.81,7,1,Carlos,Lopez,33.0,Bogotá,2024-04-14 01:13:27.501875472,Premium,,Medio uso,Adulto
+13047,25.26,7,3,Luis,Garcia,28.0,,2024-04-14 07:47:45.416354096,Basico,,Medio uso,Joven
+13048,8.47,7,3,Luis,Lopez,50.0,Medellín,2024-04-14 14:22:03.330832720,Basico,,Medio uso,Adulto
+13049,12.93,6,3,Sofia,Garcia,79.0,CDMX,2024-04-14 20:56:21.245311328,Basico,,Medio uso,Adulto Mayor
+13050,6.43,11,1,Ana,Torres,24.0,Bogotá,2024-04-15 03:30:39.159789952,Basico,,Alto uso,Joven
+13051,21.42,4,6,Mateo,Garcia,48.0,Bogotá,2024-04-15 10:04:57.074268576,Basico,,Medio uso,Adulto
+13052,9.3,8,4,Carlos,Lopez,78.0,CDMX,2024-04-15 16:39:14.988747184,Basico,,Medio uso,Adulto Mayor
+13053,17.01,9,5,Luis,Torres,65.0,,2024-04-15 23:13:32.903225808,Basico,,Medio uso,Adulto Mayor
+13054,12.379999999999999,3,3,Ana,Gomez,79.0,Cali,2024-04-16 05:47:50.817704432,Basico,,Bajo uso,Adulto Mayor
+13055,42.89,8,5,Sofia,Ramirez,63.0,GDL,2024-04-16 12:22:08.732183056,Basico,,Medio uso,Adulto Mayor
+13056,33.199999999999996,9,3,Mariana,Lopez,64.0,GDL,2024-04-16 18:56:26.646661664,Basico,,Medio uso,Adulto Mayor
+13057,6.89,5,3,Luis,Lopez,31.0,CDMX,2024-04-17 01:30:44.561140288,Basico,"1,72463E+18",Medio uso,Adulto
+13058,3.71,5,2,Sofia,Lopez,45.0,GDL,2024-04-17 08:05:02.475618912,Premium,,Medio uso,Adulto
+13059,4.9399999999999995,4,2,Carlos,Torres,70.0,Bogotá,2024-04-17 14:39:20.390097536,Basico,,Bajo uso,Adulto Mayor
+13060,0.0,7,0,Mateo,Gomez,60.0,Bogotá,2024-04-17 21:13:38.304576144,Premium,,Medio uso,Adulto Mayor
+13061,26.35,10,4,Luis,Garcia,33.0,,2024-04-18 03:47:56.219054768,Premium,,Alto uso,Adulto
+13062,23.6,6,5,Luis,Gomez,36.0,CDMX,2024-04-18 10:22:14.133533392,Premium,,Medio uso,Adulto
+13063,10.56,2,3,Carlos,Torres,34.0,Bogotá,2024-04-18 16:56:32.048012000,Premium,,Bajo uso,Adulto
+13064,19.009999999999998,6,3,Mariana,Lopez,76.0,,2024-04-18 23:30:49.962490624,Premium,,Medio uso,Adulto Mayor
+13065,8.61,6,6,Ana,Ramirez,43.0,Bogotá,2024-04-19 06:05:07.876969248,Basico,,Medio uso,Adulto
+13066,34.96,5,5,Mateo,Lopez,23.0,CDMX,2024-04-19 12:39:25.791447872,Basico,,Medio uso,Joven
+13067,6.58,3,2,Luis,Garcia,60.0,GDL,2024-04-19 19:13:43.705926480,Basico,"1,73483E+18",Bajo uso,Adulto Mayor
+13068,3.91,9,2,Mateo,Ramirez,66.0,MTY,2024-04-20 01:48:01.620405104,Premium,,Medio uso,Adulto Mayor
+13069,48.36,1,9,Luis,Lopez,26.0,,2024-04-20 08:22:19.534883728,Premium,"1,7286E+18",Medio uso,Joven
+13070,43.57,4,7,Mateo,Ramirez,67.0,,2024-04-20 14:56:37.449362352,Premium,,Medio uso,Adulto Mayor
+13071,27.25,3,6,Sofia,Gomez,34.0,,2024-04-20 21:30:55.363840960,Premium,,Medio uso,Adulto
+13072,23.03,8,4,Luis,Torres,48.0,Cali,2024-04-21 04:05:13.278319584,Premium,,Medio uso,Adulto
+13073,6.81,3,3,Mateo,Lopez,29.0,MTY,2024-04-21 10:39:31.192798208,Basico,,Bajo uso,Joven
+13074,23.749999999999996,3,5,Ana,Garcia,40.0,,2024-04-21 17:13:49.107276816,Basico,,Medio uso,Adulto
+13075,34.0,7,4,Sofia,Gomez,71.0,,2024-04-21 23:48:07.021755440,Basico,,Medio uso,Adulto Mayor
+13076,34.69,6,8,Sofia,Lopez,71.0,MTY,2024-04-22 06:22:24.936234064,Basico,,Medio uso,Adulto Mayor
+13077,9.02,5,3,Ana,Gomez,79.0,GDL,2024-04-22 12:56:42.850712688,Basico,,Medio uso,Adulto Mayor
+13078,64.09,3,6,Mateo,Garcia,22.0,Bogotá,2024-04-22 19:31:00.765191296,Basico,,Medio uso,Joven
+13079,26.19,6,3,Carlos,Lopez,60.0,GDL,2024-04-23 02:05:18.679669920,Premium,,Medio uso,Adulto Mayor
+13080,35.7,4,4,Ana,Garcia,53.0,CDMX,2024-04-23 08:39:36.594148544,Basico,,Bajo uso,Adulto
+13081,22.810000000000002,7,7,Mateo,Ramirez,76.0,,2024-04-23 15:13:54.508627168,Premium,,Medio uso,Adulto Mayor
+13082,16.619999999999997,7,5,Ana,Garcia,53.0,,2024-04-23 21:48:12.423105776,Basico,,Medio uso,Adulto
+13083,40.9,2,7,Ana,Ramirez,20.0,CDMX,2024-04-24 04:22:30.337584400,Basico,,Medio uso,Joven
+13084,45.089999999999996,7,5,Luis,Lopez,75.0,Bogotá,2024-04-24 10:56:48.252063024,Premium,"1,73483E+18",Medio uso,Adulto Mayor
+13085,20.81,5,3,Mateo,Ramirez,41.0,Cali,2024-04-24 17:31:06.166541632,Premium,,Medio uso,Adulto
+13086,31.48,4,4,Carlos,Lopez,72.0,Medellín,2024-04-25 00:05:24.081020256,Basico,,Bajo uso,Adulto Mayor
+13087,7.0600000000000005,6,3,Luis,Lopez,74.0,MTY,2024-04-25 06:39:41.995498880,Basico,,Medio uso,Adulto Mayor
+13088,38.24,4,8,Ana,Torres,34.0,Medellín,2024-04-25 13:13:59.909977504,Basico,,Medio uso,Adulto
+13089,22.14,4,3,Mariana,Lopez,56.0,,2024-04-25 19:48:17.824456112,Premium,,Bajo uso,Adulto
+13090,6.8,3,1,Ana,Ramirez,43.0,,2024-04-26 02:22:35.738934736,Basico,,Bajo uso,Adulto
+13091,23.46,6,5,Ana,Torres,21.0,MTY,2024-04-26 08:56:53.653413360,Basico,,Medio uso,Joven
+13092,15.209999999999997,2,4,Mateo,Torres,72.0,CDMX,2024-04-26 15:31:11.567891984,Basico,,Bajo uso,Adulto Mayor
+13093,10.190000000000001,4,3,Mateo,Lopez,62.0,,2024-04-26 22:05:29.482370592,Premium,"1,72809E+18",Bajo uso,Adulto Mayor
+13094,10.25,12,3,Luis,Garcia,29.0,CDMX,2024-04-27 04:39:47.396849216,Premium,,Alto uso,Joven
+13095,44.9,5,7,Carlos,Garcia,18.0,Medellín,2024-04-27 11:14:05.311327840,Premium,,Medio uso,Joven
+13096,1.64,3,2,Luis,Torres,38.0,CDMX,2024-04-27 17:48:23.225806448,Basico,,Bajo uso,Adulto
+13097,21.439999999999998,3,5,Sofia,Lopez,36.0,MTY,2024-04-28 00:22:41.140285072,Premium,,Medio uso,Adulto
+13098,4.85,6,2,Ana,Garcia,38.0,Bogotá,2024-04-28 06:56:59.054763696,Premium,"1,72385E+18",Medio uso,Adulto
+13099,19.999999999999996,2,5,Mariana,Lopez,69.0,CDMX,2024-04-28 13:31:16.969242320,Premium,,Medio uso,Adulto Mayor
+13100,38.16,13,9,Ana,Lopez,35.0,,2024-04-28 20:05:34.883720928,Basico,,Alto uso,Adulto
+13101,21.279999999999998,6,8,Ana,Torres,60.0,CDMX,2024-04-29 02:39:52.798199552,Premium,,Medio uso,Adulto Mayor
+13102,41.43000000000001,4,7,Luis,Torres,69.0,,2024-04-29 09:14:10.712678176,Basico,,Medio uso,Adulto Mayor
+13103,8.030000000000001,5,2,Mariana,Gomez,20.0,,2024-04-29 15:48:28.627156800,Premium,,Medio uso,Joven
+13104,48.510000000000005,5,7,Mariana,Garcia,78.0,MTY,2024-04-29 22:22:46.541635408,Basico,,Medio uso,Adulto Mayor
+13105,0.0,8,0,Mariana,Garcia,66.0,Medellín,2024-04-30 04:57:04.456114032,Basico,,Medio uso,Adulto Mayor
+13106,26.549999999999997,5,5,Luis,Garcia,61.0,GDL,2024-04-30 11:31:22.370592656,Basico,,Medio uso,Adulto Mayor
+13107,33.190000000000005,10,6,Ana,Ramirez,49.0,Cali,2024-04-30 18:05:40.285071264,Basico,,Alto uso,Adulto
+13108,27.97,7,3,Luis,Lopez,27.0,Bogotá,2024-05-01 00:39:58.199549888,Basico,,Medio uso,Joven
+13109,38.41,2,7,Mateo,Torres,57.0,MTY,2024-05-01 07:14:16.114028512,Basico,,Medio uso,Adulto
+13110,24.240000000000002,2,7,Mateo,Garcia,32.0,Bogotá,2024-05-01 13:48:34.028507136,Basico,,Medio uso,Adulto
+13111,33.269999999999996,6,6,Luis,Gomez,22.0,Medellín,2024-05-01 20:22:51.942985744,Premium,,Medio uso,Joven
+13112,17.949999999999996,6,7,Mariana,Garcia,21.0,,2024-05-02 02:57:09.857464368,Basico,,Medio uso,Joven
+13113,9.92,4,1,Ana,Lopez,75.0,CDMX,2024-05-02 09:31:27.771942992,Basico,,Bajo uso,Adulto Mayor
+13114,19.659999999999997,4,3,Luis,Lopez,45.0,Bogotá,2024-05-02 16:05:45.686421616,Premium,,Bajo uso,Adulto
+13115,40.75999999999999,4,8,Luis,Torres,70.0,GDL,2024-05-02 22:40:03.600900224,Basico,,Medio uso,Adulto Mayor
+13116,20.830000000000002,6,3,Luis,Ramirez,69.0,Cali,2024-05-03 05:14:21.515378848,Basico,,Medio uso,Adulto Mayor
+13117,25.36,7,7,Sofia,Torres,68.0,CDMX,2024-05-03 11:48:39.429857472,Basico,"1,72705E+18",Medio uso,Adulto Mayor
+13118,12.190000000000001,6,4,Mateo,Garcia,70.0,Medellín,2024-05-03 18:22:57.344336096,Basico,"1,7286E+18",Medio uso,Adulto Mayor
+13119,2.45,5,2,Mariana,Gomez,21.0,CDMX,2024-05-04 00:57:15.258814704,Basico,,Medio uso,Joven
+13120,4.33,5,3,Carlos,Torres,32.0,Bogotá,2024-05-04 07:31:33.173293328,Basico,,Medio uso,Adulto
+13121,21.990000000000002,4,4,Mariana,Ramirez,34.0,Cali,2024-05-04 14:05:51.087771952,Premium,,Bajo uso,Adulto
+13122,30.320000000000004,3,10,Carlos,Torres,61.0,Cali,2024-05-04 20:40:09.002250560,Basico,,Alto uso,Adulto Mayor
+13123,22.03,6,3,Sofia,Lopez,20.0,Cali,2024-05-05 03:14:26.916729184,Basico,,Medio uso,Joven
+13124,9.62,5,4,Luis,Garcia,27.0,Bogotá,2024-05-05 09:48:44.831207808,Premium,,Medio uso,Joven
+13125,5.0,4,2,Sofia,Garcia,64.0,,2024-05-05 16:23:02.745686432,Basico,,Bajo uso,Adulto Mayor
+13126,67.32000000000001,6,5,Sofia,Garcia,59.0,Bogotá,2024-05-05 22:57:20.660165040,Basico,,Medio uso,Adulto
+13127,31.5,4,5,Ana,Garcia,73.0,,2024-05-06 05:31:38.574643664,Premium,,Medio uso,Adulto Mayor
+13128,22.0,4,3,Mateo,Garcia,40.0,Bogotá,2024-05-06 12:05:56.489122288,Basico,,Bajo uso,Adulto
+13129,27.15,3,7,Carlos,Garcia,35.0,Bogotá,2024-05-06 18:40:14.403600912,Premium,"1,72999E+18",Medio uso,Adulto
+13130,18.57,5,5,Luis,Gomez,18.0,GDL,2024-05-07 01:14:32.318079520,Basico,,Medio uso,Joven
+13131,36.72,1,7,Carlos,Ramirez,52.0,Bogotá,2024-05-07 07:48:50.232558144,Premium,,Medio uso,Adulto
+13132,21.24,6,4,Mariana,Garcia,70.0,CDMX,2024-05-07 14:23:08.147036768,Basico,,Medio uso,Adulto Mayor
+13133,21.17,6,5,Carlos,Ramirez,75.0,,2024-05-07 20:57:26.061515376,Basico,,Medio uso,Adulto Mayor
+13134,29.61,10,3,Mariana,Garcia,48.0,Medellín,2024-05-08 03:31:43.975994000,Premium,,Alto uso,Adulto
+13135,18.52,1,6,Mateo,Torres,76.0,,2024-05-08 10:06:01.890472624,Premium,"1,7331E+18",Medio uso,Adulto Mayor
+13136,3.5300000000000002,8,5,Mariana,Garcia,61.0,CDMX,2024-05-08 16:40:19.804951248,Premium,,Medio uso,Adulto Mayor
+13137,17.37,7,1,Carlos,Lopez,18.0,GDL,2024-05-08 23:14:37.719429856,Basico,,Medio uso,Joven
+13138,1.83,4,1,Carlos,Gomez,20.0,,2024-05-09 05:48:55.633908480,Premium,,Bajo uso,Joven
+13139,34.92999999999999,10,8,Mariana,Torres,20.0,MTY,2024-05-09 12:23:13.548387104,Basico,,Alto uso,Joven
+13140,26.32,11,4,Sofia,Torres,54.0,Bogotá,2024-05-09 18:57:31.462865728,Basico,,Alto uso,Adulto
+13141,18.12,3,7,Mateo,Lopez,36.0,,2024-05-10 01:31:49.377344336,Basico,,Medio uso,Adulto
+13142,6.38,1,3,Ana,Garcia,46.0,Bogotá,2024-05-10 08:06:07.291822960,Premium,"1,73249E+18",Bajo uso,Adulto
+13143,32.19,7,2,Luis,Gomez,42.0,GDL,2024-05-10 14:40:25.206301584,Premium,,Medio uso,Adulto
+13144,29.98,7,4,Carlos,Torres,50.0,,2024-05-10 21:14:43.120780192,Basico,,Medio uso,Adulto
+13145,21.94,4,7,Luis,Gomez,53.0,CDMX,2024-05-11 03:49:01.035258816,Premium,,Medio uso,Adulto
+13146,12.76,4,4,Ana,Torres,78.0,,2024-05-11 10:23:18.949737440,Premium,,Bajo uso,Adulto Mayor
+13147,19.84,5,4,Luis,Garcia,46.0,CDMX,2024-05-11 16:57:36.864216064,Basico,,Medio uso,Adulto
+13148,6.99,3,2,Ana,Torres,75.0,Medellín,2024-05-11 23:31:54.778694672,Basico,,Bajo uso,Adulto Mayor
+13149,48.84,7,11,Mariana,Torres,43.0,CDMX,2024-05-12 06:06:12.693173296,Premium,"1,73007E+18",Alto uso,Adulto
+13150,39.6,8,5,Sofia,Ramirez,21.0,Medellín,2024-05-12 12:40:30.607651920,Basico,,Medio uso,Joven
+13151,19.53,7,5,Carlos,Garcia,66.0,CDMX,2024-05-12 19:14:48.522130544,Basico,,Medio uso,Adulto Mayor
+13152,8.2,6,3,Ana,Lopez,31.0,Cali,2024-05-13 01:49:06.436609152,Basico,"1,7172E+18",Medio uso,Adulto
+13153,14.379999999999999,4,5,Luis,Lopez,67.0,Bogotá,2024-05-13 08:23:24.351087776,Basico,,Medio uso,Adulto Mayor
+13154,20.55,7,6,Carlos,Garcia,44.0,CDMX,2024-05-13 14:57:42.265566400,Basico,,Medio uso,Adulto
+13155,27.22,5,5,Sofia,Lopez,50.0,Medellín,2024-05-13 21:32:00.180045008,Basico,,Medio uso,Adulto
+13156,14.18,6,4,Mariana,Garcia,39.0,Bogotá,2024-05-14 04:06:18.094523632,Premium,,Medio uso,Adulto
+13157,6.03,3,1,Carlos,Lopez,65.0,GDL,2024-05-14 10:40:36.009002256,Basico,,Bajo uso,Adulto Mayor
+13158,8.07,4,3,Ana,Ramirez,20.0,CDMX,2024-05-14 17:14:53.923480880,Premium,,Bajo uso,Joven
+13159,32.19,11,8,Sofia,Lopez,40.0,Bogotá,2024-05-14 23:49:11.837959488,Premium,,Alto uso,Adulto
+13160,22.86,7,5,Luis,Torres,38.0,CDMX,2024-05-15 06:23:29.752438112,Premium,,Medio uso,Adulto
+13161,9.489999999999998,4,5,Sofia,Garcia,58.0,CDMX,2024-05-15 12:57:47.666916736,Premium,,Medio uso,Adulto
+13162,23.499999999999996,7,7,Sofia,Gomez,40.0,GDL,2024-05-15 19:32:05.581395360,Basico,"1,73102E+18",Medio uso,Adulto
+13163,26.9,5,6,Mateo,Gomez,21.0,Medellín,2024-05-16 02:06:23.495873968,Basico,,Medio uso,Joven
+13164,39.809999999999995,4,5,Sofia,Garcia,38.0,Bogotá,2024-05-16 08:40:41.410352592,Basico,,Medio uso,Adulto
+13165,37.92,3,5,Sofia,Ramirez,54.0,CDMX,2024-05-16 15:14:59.324831216,Premium,,Medio uso,Adulto
+13166,42.39,5,6,Carlos,Lopez,60.0,,2024-05-16 21:49:17.239309824,Premium,,Medio uso,Adulto Mayor
+13167,20.5,5,4,Luis,Ramirez,48.0,,2024-05-17 04:23:35.153788448,Basico,,Medio uso,Adulto
+13168,11.23,5,5,Carlos,Gomez,38.0,GDL,2024-05-17 10:57:53.068267072,Premium,,Medio uso,Adulto
+13169,36.36,5,6,Carlos,Garcia,43.0,CDMX,2024-05-17 17:32:10.982745696,Basico,,Medio uso,Adulto
+13170,32.21,3,4,Ana,Garcia,58.0,,2024-05-18 00:06:28.897224304,Basico,,Bajo uso,Adulto
+13171,19.549999999999997,5,5,Carlos,Ramirez,75.0,Bogotá,2024-05-18 06:40:46.811702928,Premium,,Medio uso,Adulto Mayor
+13172,29.1,6,7,Mateo,Ramirez,52.0,MTY,2024-05-18 13:15:04.726181552,Basico,,Medio uso,Adulto
+13173,19.73,10,6,Mateo,Lopez,55.0,Bogotá,2024-05-18 19:49:22.640660176,Basico,,Alto uso,Adulto
+13174,43.45,2,6,Ana,Torres,41.0,Cali,2024-05-19 02:23:40.555138784,Premium,,Medio uso,Adulto
+13175,6.619999999999999,6,2,Mariana,Torres,28.0,CDMX,2024-05-19 08:57:58.469617408,Premium,,Medio uso,Joven
+13176,17.41,4,6,Luis,Lopez,58.0,Cali,2024-05-19 15:32:16.384096032,Basico,"1,7172E+18",Medio uso,Adulto
+13177,15.8,3,3,Luis,Torres,46.0,Medellín,2024-05-19 22:06:34.298574640,Basico,,Bajo uso,Adulto
+13178,4.73,8,6,Carlos,Gomez,64.0,Bogotá,2024-05-20 04:40:52.213053264,Basico,,Medio uso,Adulto Mayor
+13179,58.26,7,9,Carlos,Torres,72.0,,2024-05-20 11:15:10.127531888,Basico,,Medio uso,Adulto Mayor
+13180,40.08,4,8,Mariana,Lopez,77.0,CDMX,2024-05-20 17:49:28.042010512,Premium,,Medio uso,Adulto Mayor
+13181,37.059999999999995,6,5,Carlos,Torres,20.0,Bogotá,2024-05-21 00:23:45.956489120,Basico,"1,73007E+18",Medio uso,Joven
+13182,31.12,0,4,Luis,Garcia,18.0,Bogotá,2024-05-21 06:58:03.870967744,Basico,,Bajo uso,Joven
+13183,53.010000000000005,6,5,Sofia,Ramirez,69.0,Bogotá,2024-05-21 13:32:21.785446368,Basico,,Medio uso,Adulto Mayor
+13184,76.69,8,11,Mateo,Gomez,78.0,GDL,2024-05-21 20:06:39.699924992,Premium,,Alto uso,Adulto Mayor
+13185,14.55,3,3,Sofia,Garcia,71.0,MTY,2024-05-22 02:40:57.614403600,Basico,,Bajo uso,Adulto Mayor
+13186,36.03,9,3,Sofia,Garcia,36.0,CDMX,2024-05-22 09:15:15.528882224,Basico,"1,72299E+18",Medio uso,Adulto
+13187,138.41,3,5,Luis,Lopez,63.0,GDL,2024-05-22 15:49:33.443360848,Basico,"1,72981E+18",Medio uso,Adulto Mayor
+13188,51.87,7,6,Sofia,Ramirez,66.0,GDL,2024-05-22 22:23:51.357839472,Basico,,Medio uso,Adulto Mayor
+13189,11.88,8,1,Mariana,Ramirez,39.0,Medellín,2024-05-23 04:58:09.272318080,Basico,,Medio uso,Adulto
+13190,12.12,6,6,Ana,Gomez,31.0,CDMX,2024-05-23 11:32:27.186796704,Basico,"1,72126E+18",Medio uso,Adulto
+13191,25.009999999999998,4,6,Carlos,Lopez,66.0,Medellín,2024-05-23 18:06:45.101275328,Premium,,Medio uso,Adulto Mayor
+13192,39.97,4,6,Ana,Gomez,74.0,GDL,2024-05-24 00:41:03.015753936,Premium,,Medio uso,Adulto Mayor
+13193,23.19,2,4,Mateo,Torres,76.0,CDMX,2024-05-24 07:15:20.930232560,Premium,,Bajo uso,Adulto Mayor
+13194,14.23,8,5,Carlos,Garcia,31.0,MTY,2024-05-24 13:49:38.844711184,Basico,,Medio uso,Adulto
+13195,6.84,5,2,Sofia,Gomez,61.0,GDL,2024-05-24 20:23:56.759189808,Basico,,Medio uso,Adulto Mayor
+13196,14.38,3,6,Mateo,Garcia,33.0,Bogotá,2024-05-25 02:58:14.673668416,Basico,,Medio uso,Adulto
+13197,37.47,3,5,Carlos,Lopez,50.0,MTY,2024-05-25 09:32:32.588147040,Basico,,Medio uso,Adulto
+13198,11.34,4,6,Mariana,Torres,30.0,,2024-05-25 16:06:50.502625664,Basico,,Medio uso,Adulto
+13199,18.37,1,6,Mariana,Lopez,55.0,,2024-05-25 22:41:08.417104288,Premium,"1,7337E+18",Medio uso,Adulto
+13200,14.98,4,5,Mariana,Torres,66.0,Bogotá,2024-05-26 05:15:26.331582896,Basico,,Medio uso,Adulto Mayor
+13201,8.49,9,5,Mariana,Torres,29.0,Cali,2024-05-26 11:49:44.246061520,Basico,,Medio uso,Joven
+13202,19.84,5,4,Sofia,Garcia,72.0,CDMX,2024-05-26 18:24:02.160540144,Basico,,Medio uso,Adulto Mayor
+13203,11.51,1,6,Ana,Lopez,68.0,Bogotá,2024-05-27 00:58:20.075018752,Basico,,Medio uso,Adulto Mayor
+13204,24.13,6,4,Carlos,Lopez,55.0,Medellín,2024-05-27 07:32:37.989497376,Premium,,Medio uso,Adulto
+13205,17.09,5,4,Sofia,Gomez,56.0,GDL,2024-05-27 14:06:55.903976000,Basico,,Medio uso,Adulto
+13206,8.3,7,3,Mariana,Lopez,50.0,CDMX,2024-05-27 20:41:13.818454624,Premium,,Medio uso,Adulto
+13207,19.41,4,4,Ana,Gomez,50.0,CDMX,2024-05-28 03:15:31.732933232,Basico,,Bajo uso,Adulto
+13208,32.55,7,3,Mateo,Ramirez,46.0,Bogotá,2024-05-28 09:49:49.647411856,Premium,,Medio uso,Adulto
+13209,15.54,5,4,Mateo,Ramirez,22.0,Bogotá,2024-05-28 16:24:07.561890480,Basico,,Medio uso,Joven
+13210,4.97,8,1,Mateo,Ramirez,23.0,MTY,2024-05-28 22:58:25.476369104,Premium,,Medio uso,Joven
+13211,32.940000000000005,7,6,Mariana,Lopez,48.0,Bogotá,2024-05-29 05:32:43.390847712,Basico,,Medio uso,Adulto
+13212,20.95,3,3,Mateo,Lopez,33.0,Bogotá,2024-05-29 12:07:01.305326336,Basico,,Bajo uso,Adulto
+13213,10.96,8,3,Luis,Gomez,48.0,Cali,2024-05-29 18:41:19.219804960,Basico,,Medio uso,Adulto
+13214,20.71,5,2,Carlos,Torres,42.0,CDMX,2024-05-30 01:15:37.134283568,Basico,,Medio uso,Adulto
+13215,2.8600000000000003,5,2,Carlos,Gomez,65.0,Cali,2024-05-30 07:49:55.048762192,Basico,,Medio uso,Adulto Mayor
+13216,3.99,9,3,Mariana,Ramirez,63.0,Medellín,2024-05-30 14:24:12.963240816,Basico,,Medio uso,Adulto Mayor
+13217,31.12,6,5,Luis,Gomez,50.0,Medellín,2024-05-30 20:58:30.877719440,Basico,"1,72117E+18",Medio uso,Adulto
+13218,31.939999999999998,4,6,Sofia,Torres,30.0,Medellín,2024-05-31 03:32:48.792198048,Basico,,Medio uso,Adulto
+13219,4.6899999999999995,5,4,Sofia,Lopez,69.0,Bogotá,2024-05-31 10:07:06.706676672,Premium,,Medio uso,Adulto Mayor
+13220,45.93000000000001,7,4,Mateo,Gomez,27.0,GDL,2024-05-31 16:41:24.621155296,Basico,,Medio uso,Joven
+13221,24.169999999999998,5,5,Ana,Ramirez,41.0,Bogotá,2024-05-31 23:15:42.535633920,Basico,,Medio uso,Adulto
+13222,50.97,7,6,Sofia,Ramirez,27.0,,2024-06-01 05:50:00.450112528,Premium,,Medio uso,Joven
+13223,21.17,8,3,Ana,Lopez,58.0,Bogotá,2024-06-01 12:24:18.364591152,Premium,,Medio uso,Adulto
+13224,10.7,4,3,Carlos,Gomez,48.0,CDMX,2024-06-01 18:58:36.279069776,Premium,,Bajo uso,Adulto
+13225,13.93,7,3,Ana,Torres,30.0,CDMX,2024-06-02 01:32:54.193548384,Premium,,Medio uso,Adulto
+13226,2.42,6,2,Carlos,Lopez,20.0,,2024-06-02 08:07:12.108027008,Basico,,Medio uso,Joven
+13227,38.57,5,4,Luis,Gomez,76.0,CDMX,2024-06-02 14:41:30.022505632,Premium,,Medio uso,Adulto Mayor
+13228,8.78,3,3,Luis,Garcia,67.0,CDMX,2024-06-02 21:15:47.936984256,Basico,,Bajo uso,Adulto Mayor
+13229,15.39,5,5,Mariana,Ramirez,69.0,MTY,2024-06-03 03:50:05.851462864,Basico,,Medio uso,Adulto Mayor
+13230,39.2,5,4,Mariana,Torres,51.0,,2024-06-03 10:24:23.765941488,Premium,,Medio uso,Adulto
+13231,14.53,6,4,Mateo,Torres,66.0,MTY,2024-06-03 16:58:41.680420112,Basico,,Medio uso,Adulto Mayor
+13232,53.59,7,8,Sofia,Torres,45.0,Bogotá,2024-06-03 23:32:59.594898736,Basico,,Medio uso,Adulto
+13233,54.35,5,5,Mateo,Ramirez,36.0,Medellín,2024-06-04 06:07:17.509377344,Basico,,Medio uso,Adulto
+13234,4.5600000000000005,9,2,Carlos,Gomez,40.0,CDMX,2024-06-04 12:41:35.423855968,Basico,,Medio uso,Adulto
+13235,26.700000000000003,8,5,Mateo,Lopez,62.0,,2024-06-04 19:15:53.338334592,Basico,,Medio uso,Adulto Mayor
+13236,28.649999999999995,5,5,Ana,Gomez,49.0,Bogotá,2024-06-05 01:50:11.252813200,Basico,,Medio uso,Adulto
+13237,58.7,5,7,Carlos,Lopez,30.0,Bogotá,2024-06-05 08:24:29.167291824,Basico,,Medio uso,Adulto
+13238,27.909999999999997,7,6,Mariana,Torres,50.0,,2024-06-05 14:58:47.081770448,Basico,,Medio uso,Adulto
+13239,21.57,10,3,Luis,Gomez,51.0,,2024-06-05 21:33:04.996249072,Basico,,Alto uso,Adulto
+13240,13.370000000000001,5,2,Mariana,Torres,50.0,Bogotá,2024-06-06 04:07:22.910727680,Basico,,Medio uso,Adulto
+13241,7.28,2,1,Sofia,Garcia,73.0,CDMX,2024-06-06 10:41:40.825206304,Premium,,Bajo uso,Adulto Mayor
+13242,67.11,5,10,Carlos,Torres,22.0,Cali,2024-06-06 17:15:58.739684928,Basico,,Alto uso,Joven
+13243,34.92,8,6,Carlos,Torres,73.0,Bogotá,2024-06-06 23:50:16.654163552,Premium,,Medio uso,Adulto Mayor
+13244,8.34,4,2,Ana,Lopez,20.0,,2024-06-07 06:24:34.568642160,Basico,,Bajo uso,Joven
+13245,7.2,7,2,Sofia,Garcia,78.0,,2024-06-07 12:58:52.483120784,Basico,"1,73292E+18",Medio uso,Adulto Mayor
+13246,7.34,5,3,Luis,Torres,77.0,CDMX,2024-06-07 19:33:10.397599408,Basico,"1,71996E+18",Medio uso,Adulto Mayor
+13247,50.24999999999999,7,7,Carlos,Torres,24.0,,2024-06-08 02:07:28.312078016,Basico,,Medio uso,Joven
+13248,18.29,7,3,Carlos,Garcia,41.0,MTY,2024-06-08 08:41:46.226556640,Basico,,Medio uso,Adulto
+13249,59.96999999999999,5,5,Ana,Garcia,47.0,Medellín,2024-06-08 15:16:04.141035264,Basico,,Medio uso,Adulto
+13250,47.04,3,7,Mateo,Gomez,39.0,CDMX,2024-06-08 21:50:22.055513888,Basico,,Medio uso,Adulto
+13251,20.94,2,7,Luis,Lopez,62.0,,2024-06-09 04:24:39.969992496,Basico,,Medio uso,Adulto Mayor
+13252,47.77000000000001,3,8,Mariana,Garcia,78.0,Medellín,2024-06-09 10:58:57.884471120,Basico,,Medio uso,Adulto Mayor
+13253,19.32,3,3,Sofia,Garcia,40.0,Medellín,2024-06-09 17:33:15.798949744,Premium,,Bajo uso,Adulto
+13254,48.18000000000001,3,8,Carlos,Ramirez,47.0,,2024-06-10 00:07:33.713428368,Basico,,Medio uso,Adulto
+13255,46.160000000000004,12,10,Carlos,Garcia,77.0,Bogotá,2024-06-10 06:41:51.627906976,Premium,,Alto uso,Adulto Mayor
+13256,24.61,5,5,Mariana,Lopez,35.0,Bogotá,2024-06-10 13:16:09.542385600,Premium,,Medio uso,Adulto
+13257,26.78,10,4,Luis,Torres,49.0,,2024-06-10 19:50:27.456864224,Basico,,Alto uso,Adulto
+13258,19.43,7,3,Mateo,Torres,73.0,Medellín,2024-06-11 02:24:45.371342848,Premium,,Medio uso,Adulto Mayor
+13259,21.25,3,3,Carlos,Torres,70.0,,2024-06-11 08:59:03.285821456,Premium,,Bajo uso,Adulto Mayor
+13260,15.71,11,4,Luis,Torres,24.0,,2024-06-11 15:33:21.200300080,Basico,,Alto uso,Joven
+13261,35.2,7,4,Mariana,Ramirez,50.0,MTY,2024-06-11 22:07:39.114778704,Premium,,Medio uso,Adulto
+13262,14.26,8,4,Ana,Garcia,22.0,Bogotá,2024-06-12 04:41:57.029257312,Premium,,Medio uso,Joven
+13263,19.85,2,2,Mateo,Torres,66.0,GDL,2024-06-12 11:16:14.943735936,Basico,,Bajo uso,Adulto Mayor
+13264,11.41,3,1,Sofia,Gomez,45.0,Medellín,2024-06-12 17:50:32.858214560,Basico,,Bajo uso,Adulto
+13265,147.53,5,6,Carlos,Torres,78.0,MTY,2024-06-13 00:24:50.772693184,Premium,,Medio uso,Adulto Mayor
+13266,15.700000000000001,7,4,Luis,Garcia,25.0,Cali,2024-06-13 06:59:08.687171792,Premium,,Medio uso,Joven
+13267,0.3,7,1,Ana,Torres,32.0,CDMX,2024-06-13 13:33:26.601650416,Basico,,Medio uso,Adulto
+13268,27.52,9,4,Sofia,Ramirez,69.0,CDMX,2024-06-13 20:07:44.516129040,Basico,,Medio uso,Adulto Mayor
+13269,10.71,4,3,Luis,Lopez,21.0,GDL,2024-06-14 02:42:02.430607664,Premium,,Bajo uso,Joven
+13270,15.629999999999999,6,6,Luis,Lopez,51.0,CDMX,2024-06-14 09:16:20.345086272,Basico,"1,72515E+18",Medio uso,Adulto
+13271,42.73,5,6,Sofia,Garcia,22.0,Medellín,2024-06-14 15:50:38.259564896,Premium,,Medio uso,Joven
+13272,24.660000000000004,5,5,Ana,Lopez,50.0,CDMX,2024-06-14 22:24:56.174043520,Basico,,Medio uso,Adulto
+13273,27.819999999999997,8,6,Mariana,Lopez,74.0,CDMX,2024-06-15 04:59:14.088522128,Basico,,Medio uso,Adulto Mayor
+13274,30.380000000000003,9,4,Ana,Gomez,22.0,CDMX,2024-06-15 11:33:32.003000752,Basico,,Medio uso,Joven
+13275,62.11000000000001,4,11,Mateo,Garcia,55.0,Cali,2024-06-15 18:07:49.917479376,Basico,,Alto uso,Adulto
+13276,39.64,9,5,Carlos,Garcia,51.0,Cali,2024-06-16 00:42:07.831958000,Basico,,Medio uso,Adulto
+13277,23.029999999999998,3,3,Sofia,Lopez,75.0,CDMX,2024-06-16 07:16:25.746436608,Basico,,Bajo uso,Adulto Mayor
+13278,7.800000000000001,7,3,Mariana,Lopez,43.0,Medellín,2024-06-16 13:50:43.660915232,Basico,,Medio uso,Adulto
+13279,0.43,4,1,Sofia,Lopez,18.0,Bogotá,2024-06-16 20:25:01.575393856,Basico,,Bajo uso,Joven
+13280,34.11,4,9,Sofia,Ramirez,21.0,GDL,2024-06-17 02:59:19.489872480,Premium,,Medio uso,Joven
+13281,2.01,6,2,Ana,Torres,56.0,Medellín,2024-06-17 09:33:37.404351088,Basico,,Medio uso,Adulto
+13282,2.8,5,2,Carlos,Ramirez,71.0,CDMX,2024-06-17 16:07:55.318829712,Basico,,Medio uso,Adulto Mayor
+13283,13.080000000000002,7,3,Mateo,Garcia,43.0,Cali,2024-06-17 22:42:13.233308336,Basico,,Medio uso,Adulto
+13284,29.169999999999998,6,6,Luis,Gomez,50.0,CDMX,2024-06-18 05:16:31.147786944,Basico,"1,71945E+18",Medio uso,Adulto
+13285,31.169999999999998,7,6,Luis,Torres,50.0,,2024-06-18 11:50:49.062265568,Premium,"1,72852E+18",Medio uso,Adulto
+13286,32.23,5,6,Sofia,Gomez,25.0,CDMX,2024-06-18 18:25:06.976744192,Premium,,Medio uso,Joven
+13287,4.9799999999999995,3,3,Carlos,Garcia,37.0,Bogotá,2024-06-19 00:59:24.891222816,Basico,"1,72126E+18",Bajo uso,Adulto
+13288,6.53,3,6,Mariana,Garcia,33.0,,2024-06-19 07:33:42.805701424,Premium,,Medio uso,Adulto
+13289,53.85,9,9,Ana,Gomez,38.0,CDMX,2024-06-19 14:08:00.720180048,Basico,,Medio uso,Adulto
+13290,7.1899999999999995,9,2,Carlos,Gomez,62.0,Bogotá,2024-06-19 20:42:18.634658672,Basico,,Medio uso,Adulto Mayor
+13291,21.240000000000002,5,5,Carlos,Gomez,72.0,MTY,2024-06-20 03:16:36.549137296,Basico,,Medio uso,Adulto Mayor
+13292,17.49,2,1,Ana,Garcia,73.0,Bogotá,2024-06-20 09:50:54.463615904,Premium,,Bajo uso,Adulto Mayor
+13293,48.60000000000001,6,7,Sofia,Lopez,47.0,GDL,2024-06-20 16:25:12.378094528,Basico,,Medio uso,Adulto
+13294,9.09,4,2,Carlos,Gomez,43.0,CDMX,2024-06-20 22:59:30.292573152,Premium,,Bajo uso,Adulto
+13295,4.57,6,2,Luis,Torres,40.0,Medellín,2024-06-21 05:33:48.207051760,Basico,,Medio uso,Adulto
+13296,21.21,7,3,Ana,Garcia,35.0,Bogotá,2024-06-21 12:08:06.121530384,Basico,"1,71893E+18",Medio uso,Adulto
+13297,70.21,7,8,Mariana,Ramirez,79.0,Medellín,2024-06-21 18:42:24.036009008,Premium,,Medio uso,Adulto Mayor
+13298,130.23,10,2,Mateo,Ramirez,48.0,GDL,2024-06-22 01:16:41.950487632,Basico,,Alto uso,Adulto
+13300,9.1,7,3,Ana,Lopez,59.0,Bogotá,2024-06-22 14:25:17.779444864,Premium,,Medio uso,Adulto
+13301,24.220000000000002,13,5,Mateo,Gomez,29.0,Bogotá,2024-06-22 20:59:35.693923488,Premium,,Alto uso,Joven
+13302,48.42000000000001,4,6,Mateo,Garcia,18.0,MTY,2024-06-23 03:33:53.608402112,Basico,,Medio uso,Joven
+13303,25.520000000000003,5,5,Mariana,Gomez,59.0,GDL,2024-06-23 10:08:11.522880720,Basico,,Medio uso,Adulto
+13304,19.17,6,6,Carlos,Garcia,26.0,GDL,2024-06-23 16:42:29.437359344,Premium,,Medio uso,Joven
+13305,24.61,8,7,Mariana,Ramirez,20.0,CDMX,2024-06-23 23:16:47.351837968,Basico,,Medio uso,Joven
+13306,44.940000000000005,4,9,Carlos,Gomez,77.0,MTY,2024-06-24 05:51:05.266316576,Basico,,Medio uso,Adulto Mayor
+13307,31.229999999999997,4,7,Carlos,Torres,68.0,GDL,2024-06-24 12:25:23.180795200,Basico,,Medio uso,Adulto Mayor
+13308,11.0,5,3,Ana,Lopez,43.0,Medellín,2024-06-24 18:59:41.095273824,Basico,,Medio uso,Adulto
+13309,15.120000000000001,5,5,Ana,Torres,26.0,Bogotá,2024-06-25 01:33:59.009752448,Basico,,Medio uso,Joven
+13310,14.49,5,4,Sofia,Lopez,59.0,MTY,2024-06-25 08:08:16.924231056,Basico,,Medio uso,Adulto
+13311,36.34,5,5,Carlos,Gomez,68.0,MTY,2024-06-25 14:42:34.838709680,Basico,,Medio uso,Adulto Mayor
+13312,36.64,4,8,Mateo,Gomez,33.0,GDL,2024-06-25 21:16:52.753188304,Basico,,Medio uso,Adulto
+13313,48.519999999999996,2,6,Luis,Lopez,41.0,Bogotá,2024-06-26 03:51:10.667666928,Basico,"1,72705E+18",Medio uso,Adulto
+13314,17.38,3,6,Sofia,Ramirez,67.0,,2024-06-26 10:25:28.582145536,Premium,,Medio uso,Adulto Mayor
+13315,31.729999999999997,6,5,Ana,Garcia,31.0,Medellín,2024-06-26 16:59:46.496624160,Premium,,Medio uso,Adulto
+13316,5.82,6,2,Mariana,Torres,78.0,Medellín,2024-06-26 23:34:04.411102784,Basico,,Medio uso,Adulto Mayor
+13317,24.87,5,8,Sofia,Torres,20.0,Cali,2024-06-27 06:08:22.325581392,Basico,,Medio uso,Joven
+13318,23.13,8,5,Sofia,Torres,51.0,MTY,2024-06-27 12:42:40.240060016,Basico,,Medio uso,Adulto
+13319,5.16,7,3,Sofia,Gomez,50.0,CDMX,2024-06-27 19:16:58.154538640,Basico,,Medio uso,Adulto
+13320,40.14,4,8,Sofia,Torres,67.0,Medellín,2024-06-28 01:51:16.069017264,Premium,,Medio uso,Adulto Mayor
+13321,2.59,2,2,Luis,Garcia,41.0,GDL,2024-06-28 08:25:33.983495872,Premium,,Bajo uso,Adulto
+13322,56.85,3,5,Mariana,Garcia,26.0,Bogotá,2024-06-28 14:59:51.897974496,Premium,,Medio uso,Joven
+13323,16.310000000000002,1,3,Mariana,Lopez,30.0,Medellín,2024-06-28 21:34:09.812453120,Basico,,Bajo uso,Adulto
+13324,60.66000000000001,6,7,Mariana,Gomez,19.0,Cali,2024-06-29 04:08:27.726931744,Basico,,Medio uso,Joven
+13325,143.97000000000003,4,7,Carlos,Garcia,24.0,MTY,2024-06-29 10:42:45.641410352,Basico,,Medio uso,Joven
+13326,31.18,2,8,Mateo,Ramirez,65.0,Bogotá,2024-06-29 17:17:03.555888976,Basico,,Medio uso,Adulto Mayor
+13327,5.35,4,2,Mariana,Gomez,47.0,Medellín,2024-06-29 23:51:21.470367600,Basico,,Bajo uso,Adulto
+13328,35.03,6,6,Sofia,Gomez,38.0,Cali,2024-06-30 06:25:39.384846208,Basico,"1,72947E+18",Medio uso,Adulto
+13329,35.64,1,6,Sofia,Garcia,36.0,Cali,2024-06-30 12:59:57.299324832,Basico,,Medio uso,Adulto
+13330,18.130000000000003,10,4,Mariana,Ramirez,42.0,,2024-06-30 19:34:15.213803456,Basico,,Alto uso,Adulto
+13331,17.799999999999997,4,4,Mariana,Lopez,64.0,CDMX,2024-07-01 02:08:33.128282080,Basico,,Bajo uso,Adulto Mayor
+13332,15.560000000000002,5,6,Sofia,Garcia,39.0,Bogotá,2024-07-01 08:42:51.042760688,Basico,"1,72912E+18",Medio uso,Adulto
+13333,10.940000000000001,11,4,Carlos,Ramirez,28.0,GDL,2024-07-01 15:17:08.957239312,Premium,,Alto uso,Joven
+13334,7.6899999999999995,11,3,Ana,Gomez,50.0,CDMX,2024-07-01 21:51:26.871717936,Basico,"1,71988E+18",Alto uso,Adulto
+13335,8.940000000000001,4,3,Ana,Ramirez,49.0,,2024-07-02 04:25:44.786196560,Basico,,Bajo uso,Adulto
+13336,14.98,6,4,Mariana,Gomez,38.0,,2024-07-02 11:00:02.700675168,Basico,,Medio uso,Adulto
+13337,1.94,5,1,Luis,Garcia,56.0,GDL,2024-07-02 17:34:20.615153792,Premium,,Medio uso,Adulto
+13338,11.48,3,6,Mariana,Garcia,37.0,CDMX,2024-07-03 00:08:38.529632416,Basico,,Medio uso,Adulto
+13339,19.279999999999998,4,2,Mariana,Torres,25.0,GDL,2024-07-03 06:42:56.444111040,Premium,,Bajo uso,Joven
+13340,74.04999999999998,6,8,Ana,Torres,59.0,Cali,2024-07-03 13:17:14.358589648,Basico,,Medio uso,Adulto
+13341,15.690000000000001,5,3,Sofia,Torres,54.0,GDL,2024-07-03 19:51:32.273068272,Premium,,Medio uso,Adulto
+13342,31.99,4,4,Mariana,Garcia,26.0,CDMX,2024-07-04 02:25:50.187546896,Basico,,Bajo uso,Joven
+13343,21.7,5,4,Sofia,Lopez,42.0,CDMX,2024-07-04 09:00:08.102025504,Basico,,Medio uso,Adulto
+13344,19.65,6,3,Sofia,Garcia,42.0,Bogotá,2024-07-04 15:34:26.016504128,Basico,,Medio uso,Adulto
+13345,46.989999999999995,12,9,Luis,Ramirez,50.0,,2024-07-04 22:08:43.930982752,Basico,,Alto uso,Adulto
+13346,23.169999999999998,9,3,Sofia,Garcia,19.0,GDL,2024-07-05 04:43:01.845461376,Premium,,Medio uso,Joven
+13347,6.22,3,2,Ana,Garcia,36.0,Bogotá,2024-07-05 11:17:19.759939984,Basico,"1,72722E+18",Bajo uso,Adulto
+13348,2.7399999999999998,6,3,Carlos,Gomez,63.0,CDMX,2024-07-05 17:51:37.674418608,Basico,,Medio uso,Adulto Mayor
+13349,9.81,4,3,Carlos,Gomez,37.0,Bogotá,2024-07-06 00:25:55.588897232,Premium,,Bajo uso,Adulto
+13350,82.17999999999999,4,7,Mateo,Gomez,59.0,Medellín,2024-07-06 07:00:13.503375856,Basico,,Medio uso,Adulto
+13351,15.169999999999998,4,2,Mariana,Garcia,58.0,GDL,2024-07-06 13:34:31.417854464,Premium,,Bajo uso,Adulto
+13352,25.63,8,3,Ana,Lopez,59.0,GDL,2024-07-06 20:08:49.332333088,Basico,,Medio uso,Adulto
+13353,1.25,6,2,Sofia,Ramirez,46.0,Cali,2024-07-07 02:43:07.246811712,Premium,,Medio uso,Adulto
+13354,26.830000000000002,9,7,Carlos,Ramirez,23.0,CDMX,2024-07-07 09:17:25.161290320,Basico,,Medio uso,Joven
+13355,2.5,7,2,Ana,Lopez,34.0,Medellín,2024-07-07 15:51:43.075768944,Basico,,Medio uso,Adulto
+13356,30.32,9,6,Carlos,Lopez,77.0,MTY,2024-07-07 22:26:00.990247568,Basico,,Medio uso,Adulto Mayor
+13357,5.05,5,4,Sofia,Ramirez,42.0,GDL,2024-07-08 05:00:18.904726192,Basico,,Medio uso,Adulto
+13358,36.79,6,6,Carlos,Torres,55.0,Medellín,2024-07-08 11:34:36.819204800,Basico,,Medio uso,Adulto
+13359,14.62,6,5,Mariana,Gomez,21.0,Cali,2024-07-08 18:08:54.733683424,Basico,,Medio uso,Joven
+13360,16.139999999999997,8,6,Mariana,Gomez,47.0,Bogotá,2024-07-09 00:43:12.648162048,Premium,"1,72619E+18",Medio uso,Adulto
+13361,41.46,4,5,Mateo,Ramirez,37.0,CDMX,2024-07-09 07:17:30.562640672,Premium,,Medio uso,Adulto
+13362,24.58,4,4,Mateo,Lopez,20.0,Bogotá,2024-07-09 13:51:48.477119280,Premium,,Bajo uso,Joven
+13363,13.39,5,5,Carlos,Torres,40.0,Bogotá,2024-07-09 20:26:06.391597904,Premium,,Medio uso,Adulto
+13364,0.0,4,0,Ana,Ramirez,68.0,Bogotá,2024-07-10 03:00:24.306076528,Premium,,Bajo uso,Adulto Mayor
+13365,21.13,5,6,Mariana,Gomez,35.0,Medellín,2024-07-10 09:34:42.220555136,Premium,,Medio uso,Adulto
+13366,30.6,5,6,Ana,Garcia,43.0,CDMX,2024-07-10 16:09:00.135033760,Premium,,Medio uso,Adulto
+13367,40.76,6,7,Ana,Lopez,73.0,Bogotá,2024-07-10 22:43:18.049512384,Basico,,Medio uso,Adulto Mayor
+13368,9.45,2,3,Carlos,Garcia,53.0,Bogotá,2024-07-11 05:17:35.963991008,Premium,,Bajo uso,Adulto
+13369,26.58,3,4,Ana,Ramirez,25.0,MTY,2024-07-11 11:51:53.878469616,Premium,"1,72973E+18",Bajo uso,Joven
+13370,6.540000000000001,5,2,Mariana,Gomez,34.0,Medellín,2024-07-11 18:26:11.792948240,Premium,,Medio uso,Adulto
+13371,9.21,3,2,Sofia,Torres,48.0,GDL,2024-07-12 01:00:29.707426864,Basico,,Bajo uso,Adulto
+13372,2.19,3,1,Mateo,Garcia,54.0,MTY,2024-07-12 07:34:47.621905488,Basico,,Bajo uso,Adulto
+13373,39.74,5,7,Sofia,Torres,62.0,,2024-07-12 14:09:05.536384096,Premium,,Medio uso,Adulto Mayor
+13374,11.900000000000002,4,6,Ana,Gomez,74.0,MTY,2024-07-12 20:43:23.450862720,Premium,,Medio uso,Adulto Mayor
+13375,0.0,4,0,Sofia,Garcia,50.0,MTY,2024-07-13 03:17:41.365341344,Basico,,Bajo uso,Adulto
+13376,22.099999999999998,3,5,Mariana,Torres,44.0,Bogotá,2024-07-13 09:51:59.279819952,Basico,,Medio uso,Adulto
+13377,18.86,5,4,Mariana,Torres,62.0,,2024-07-13 16:26:17.194298576,Basico,,Medio uso,Adulto Mayor
+13378,5.29,10,2,Ana,Garcia,21.0,,2024-07-13 23:00:35.108777200,Basico,,Alto uso,Joven
+13379,39.44,0,9,Carlos,Gomez,39.0,Bogotá,2024-07-14 05:34:53.023255824,Basico,,Medio uso,Adulto
+13380,10.25,4,3,Sofia,Torres,43.0,CDMX,2024-07-14 12:09:10.937734432,Basico,,Bajo uso,Adulto
+13381,1.48,4,2,Carlos,Ramirez,49.0,,2024-07-14 18:43:28.852213056,Premium,,Bajo uso,Adulto
+13382,17.88,6,6,Carlos,Garcia,41.0,Bogotá,2024-07-15 01:17:46.766691680,Premium,,Medio uso,Adulto
+13383,26.73,2,4,Luis,Lopez,63.0,MTY,2024-07-15 07:52:04.681170304,Basico,,Bajo uso,Adulto Mayor
+13384,27.880000000000003,11,5,Ana,Lopez,52.0,Cali,2024-07-15 14:26:22.595648912,Premium,"1,71806E+18",Alto uso,Adulto
+13385,64.67,5,5,Mateo,Gomez,54.0,MTY,2024-07-15 21:00:40.510127536,Basico,,Medio uso,Adulto
+13386,11.3,6,3,Mariana,Ramirez,49.0,CDMX,2024-07-16 03:34:58.424606160,Basico,,Medio uso,Adulto
+13387,76.64999999999998,4,9,Mariana,Torres,24.0,Cali,2024-07-16 10:09:16.339084768,Basico,,Medio uso,Joven
+13388,36.870000000000005,4,6,Ana,Lopez,50.0,Bogotá,2024-07-16 16:43:34.253563392,Premium,,Medio uso,Adulto
+13389,13.32,5,5,Mateo,Gomez,48.0,MTY,2024-07-16 23:17:52.168042016,Premium,,Medio uso,Adulto
+13390,2.92,3,2,Mariana,Ramirez,72.0,GDL,2024-07-17 05:52:10.082520640,Premium,,Bajo uso,Adulto Mayor
+13391,14.48,4,4,Ana,Ramirez,78.0,Bogotá,2024-07-17 12:26:27.996999248,Basico,"1,72031E+18",Bajo uso,Adulto Mayor
+13392,9.19,6,5,Mariana,Gomez,29.0,GDL,2024-07-17 19:00:45.911477872,Basico,,Medio uso,Joven
+13393,19.54,7,2,Carlos,Gomez,28.0,MTY,2024-07-18 01:35:03.825956496,Basico,,Medio uso,Joven
+13394,29.59,4,1,Sofia,Torres,41.0,Medellín,2024-07-18 08:09:21.740435120,Premium,"1,72048E+18",Bajo uso,Adulto
+13395,14.86,5,4,Sofia,Gomez,25.0,,2024-07-18 14:43:39.654913728,Premium,,Medio uso,Joven
+13396,18.97,4,4,Mariana,Torres,49.0,Bogotá,2024-07-18 21:17:57.569392352,Basico,,Bajo uso,Adulto
+13397,15.29,2,3,Luis,Torres,74.0,Cali,2024-07-19 03:52:15.483870976,Basico,,Bajo uso,Adulto Mayor
+13398,26.65,5,5,Mateo,Garcia,55.0,Cali,2024-07-19 10:26:33.398349584,Premium,,Medio uso,Adulto
+13399,70.80000000000001,7,8,Mateo,Ramirez,77.0,Medellín,2024-07-19 17:00:51.312828208,Premium,,Medio uso,Adulto Mayor
+13400,24.390000000000004,5,5,Mateo,Ramirez,39.0,GDL,2024-07-19 23:35:09.227306832,Basico,,Medio uso,Adulto
+13401,18.2,3,5,Carlos,Ramirez,51.0,,2024-07-20 06:09:27.141785456,Premium,,Medio uso,Adulto
+13402,18.06,3,7,Mateo,Garcia,36.0,Bogotá,2024-07-20 12:43:45.056264064,Basico,,Medio uso,Adulto
+13403,54.74999999999999,5,7,Sofia,Torres,69.0,CDMX,2024-07-20 19:18:02.970742688,Basico,,Medio uso,Adulto Mayor
+13404,32.08,2,5,Carlos,Torres,37.0,GDL,2024-07-21 01:52:20.885221312,Basico,,Medio uso,Adulto
+13405,40.82,3,5,Ana,Gomez,73.0,Cali,2024-07-21 08:26:38.799699936,Basico,,Medio uso,Adulto Mayor
+13406,17.11,12,3,Mateo,Garcia,31.0,CDMX,2024-07-21 15:00:56.714178544,Basico,,Alto uso,Adulto
+13407,29.59,6,2,Mateo,Gomez,50.0,CDMX,2024-07-21 21:35:14.628657168,Basico,,Medio uso,Adulto
+13408,23.6,7,5,Ana,Garcia,27.0,Medellín,2024-07-22 04:09:32.543135792,Basico,,Medio uso,Joven
+13409,18.220000000000002,5,5,Mateo,Gomez,33.0,,2024-07-22 10:43:50.457614416,Basico,,Medio uso,Adulto
+13410,2.16,3,3,Ana,Lopez,79.0,Medellín,2024-07-22 17:18:08.372093024,Basico,,Bajo uso,Adulto Mayor
+13411,19.01,7,3,Carlos,Ramirez,21.0,GDL,2024-07-22 23:52:26.286571648,Basico,,Medio uso,Joven
+13412,35.19,6,10,Sofia,Ramirez,44.0,CDMX,2024-07-23 06:26:44.201050272,Premium,,Alto uso,Adulto
+13413,7.79,5,1,Ana,Torres,45.0,Medellín,2024-07-23 13:01:02.115528880,Basico,,Medio uso,Adulto
+13414,17.41,2,5,Luis,Lopez,78.0,CDMX,2024-07-23 19:35:20.030007504,Basico,,Medio uso,Adulto Mayor
+13415,35.58,5,6,Ana,Ramirez,60.0,Medellín,2024-07-24 02:09:37.944486128,Premium,,Medio uso,Adulto Mayor
+13416,31.47,4,5,Mateo,Torres,33.0,GDL,2024-07-24 08:43:55.858964752,Basico,,Medio uso,Adulto
+13417,36.88999999999999,5,5,Carlos,Lopez,76.0,,2024-07-24 15:18:13.773443360,Basico,,Medio uso,Adulto Mayor
+13418,36.199999999999996,6,3,Mariana,Ramirez,69.0,Bogotá,2024-07-24 21:52:31.687921984,Basico,,Medio uso,Adulto Mayor
+13419,12.74,5,3,Carlos,Gomez,50.0,GDL,2024-07-25 04:26:49.602400608,Premium,,Medio uso,Adulto
+13420,1.17,1,2,Mariana,Garcia,65.0,,2024-07-25 11:01:07.516879232,Premium,,Bajo uso,Adulto Mayor
+13421,19.51,5,5,Ana,Lopez,36.0,GDL,2024-07-25 17:35:25.431357840,Basico,,Medio uso,Adulto
+13422,15.219999999999999,8,4,Sofia,Torres,38.0,MTY,2024-07-26 00:09:43.345836464,Premium,"1,71755E+18",Medio uso,Adulto
+13423,17.7,10,6,Luis,Lopez,39.0,Cali,2024-07-26 06:44:01.260315088,Basico,,Alto uso,Adulto
+13424,13.65,10,7,Carlos,Torres,26.0,MTY,2024-07-26 13:18:19.174793696,Premium,,Alto uso,Joven
+13425,10.850000000000001,5,3,Mateo,Lopez,26.0,Bogotá,2024-07-26 19:52:37.089272320,Basico,,Medio uso,Joven
+13426,3.77,8,2,Mariana,Torres,26.0,MTY,2024-07-27 02:26:55.003750944,Premium,,Medio uso,Joven
+13427,11.33,6,3,Mateo,Ramirez,44.0,CDMX,2024-07-27 09:01:12.918229568,Basico,,Medio uso,Adulto
+13428,31.6,2,6,Sofia,Gomez,34.0,CDMX,2024-07-27 15:35:30.832708176,Basico,,Medio uso,Adulto
+13429,10.19,4,4,Mariana,Ramirez,61.0,Medellín,2024-07-27 22:09:48.747186800,Premium,,Bajo uso,Adulto Mayor
+13430,21.939999999999998,8,3,Carlos,Gomez,74.0,Medellín,2024-07-28 04:44:06.661665424,Premium,,Medio uso,Adulto Mayor
+13431,2.31,3,3,Ana,Ramirez,62.0,GDL,2024-07-28 11:18:24.576144048,Basico,,Bajo uso,Adulto Mayor
+13432,18.4,7,4,Mateo,Ramirez,25.0,GDL,2024-07-28 17:52:42.490622656,Basico,,Medio uso,Joven
+13433,17.259999999999998,11,3,Sofia,Lopez,33.0,,2024-07-29 00:27:00.405101280,Basico,,Alto uso,Adulto
+13434,0.0,4,0,Carlos,Garcia,35.0,,2024-07-29 07:01:18.319579904,Basico,,Bajo uso,Adulto
+13435,13.059999999999999,2,3,Carlos,Torres,78.0,Bogotá,2024-07-29 13:35:36.234058512,Basico,,Bajo uso,Adulto Mayor
+13436,21.180000000000003,2,4,Carlos,Torres,76.0,Cali,2024-07-29 20:09:54.148537136,Basico,"1,72575E+18",Bajo uso,Adulto Mayor
+13437,1.18,5,1,Carlos,Torres,50.0,Medellín,2024-07-30 02:44:12.063015760,Basico,,Medio uso,Adulto
+13438,14.940000000000001,5,5,Mariana,Gomez,18.0,GDL,2024-07-30 09:18:29.977494384,Basico,,Medio uso,Joven
+13439,3.59,6,2,Carlos,Torres,29.0,CDMX,2024-07-30 15:52:47.891972992,Basico,,Medio uso,Joven
+13440,45.56,5,5,Mateo,Torres,23.0,CDMX,2024-07-30 22:27:05.806451616,Basico,,Medio uso,Joven
+13441,42.63999999999999,4,10,Sofia,Lopez,58.0,Cali,2024-07-31 05:01:23.720930240,Basico,,Alto uso,Adulto
+13442,46.5,8,11,Mariana,Ramirez,72.0,Medellín,2024-07-31 11:35:41.635408864,Premium,"1,71901E+18",Alto uso,Adulto Mayor
+13443,18.31,5,5,Carlos,Torres,22.0,Medellín,2024-07-31 18:09:59.549887472,Basico,,Medio uso,Joven
+13444,24.640000000000004,6,6,Luis,Garcia,76.0,CDMX,2024-08-01 00:44:17.464366096,Basico,,Medio uso,Adulto Mayor
+13445,17.73,6,4,Luis,Torres,33.0,Medellín,2024-08-01 07:18:35.378844720,Basico,"1,72472E+18",Medio uso,Adulto
+13446,12.07,7,2,Sofia,Gomez,35.0,Cali,2024-08-01 13:52:53.293323328,Basico,,Medio uso,Adulto
+13447,46.96000000000001,4,8,Ana,Gomez,66.0,,2024-08-01 20:27:11.207801952,Premium,,Medio uso,Adulto Mayor
+13448,10.629999999999999,2,2,Ana,Gomez,35.0,CDMX,2024-08-02 03:01:29.122280576,Basico,,Bajo uso,Adulto
+13449,35.980000000000004,3,4,Mariana,Torres,18.0,Medellín,2024-08-02 09:35:47.036759200,Basico,,Bajo uso,Joven
+13450,21.02,3,4,Mariana,Lopez,36.0,CDMX,2024-08-02 16:10:04.951237808,Premium,"1,7261E+18",Bajo uso,Adulto
+13451,30.389999999999997,3,5,Mariana,Garcia,71.0,Medellín,2024-08-02 22:44:22.865716432,Premium,,Medio uso,Adulto Mayor
+13452,4.1499999999999995,4,3,Ana,Torres,78.0,Medellín,2024-08-03 05:18:40.780195056,Basico,,Bajo uso,Adulto Mayor
+13453,7.38,4,3,Luis,Lopez,25.0,CDMX,2024-08-03 11:52:58.694673680,Basico,,Bajo uso,Joven
+13454,15.62,3,3,Ana,Lopez,20.0,Cali,2024-08-03 18:27:16.609152288,Basico,,Bajo uso,Joven
+13455,4.74,5,1,Mateo,Torres,75.0,CDMX,2024-08-04 01:01:34.523630912,Basico,,Medio uso,Adulto Mayor
+13456,37.99,7,8,Carlos,Torres,42.0,Cali,2024-08-04 07:35:52.438109536,Basico,"1,7242E+18",Medio uso,Adulto
+13457,10.450000000000001,7,4,Mariana,Lopez,75.0,GDL,2024-08-04 14:10:10.352588144,Basico,,Medio uso,Adulto Mayor
+13458,53.64,7,7,Luis,Lopez,22.0,Medellín,2024-08-04 20:44:28.267066768,Basico,,Medio uso,Joven
+13459,18.68,6,6,Sofia,Lopez,72.0,,2024-08-05 03:18:46.181545392,Premium,,Medio uso,Adulto Mayor
+13460,50.07,8,10,Sofia,Torres,57.0,MTY,2024-08-05 09:53:04.096024016,Basico,,Alto uso,Adulto
+13461,8.45,5,4,Carlos,Lopez,36.0,Bogotá,2024-08-05 16:27:22.010502624,Basico,,Medio uso,Adulto
+13462,3.2199999999999998,4,3,Luis,Gomez,35.0,Bogotá,2024-08-05 23:01:39.924981248,Premium,,Bajo uso,Adulto
+13463,5.699999999999999,4,2,Ana,Torres,67.0,CDMX,2024-08-06 05:35:57.839459872,Basico,,Bajo uso,Adulto Mayor
+13464,15.91,7,3,Ana,Gomez,70.0,Bogotá,2024-08-06 12:10:15.753938496,Basico,,Medio uso,Adulto Mayor
+13465,21.5,2,3,Mateo,Ramirez,48.0,Medellín,2024-08-06 18:44:33.668417104,Basico,,Bajo uso,Adulto
+13466,4.41,4,2,Mateo,Torres,50.0,,2024-08-07 01:18:51.582895728,Basico,,Bajo uso,Adulto
+13467,7.19,6,1,Ana,Ramirez,64.0,,2024-08-07 07:53:09.497374352,Basico,"1,72282E+18",Medio uso,Adulto Mayor
+13468,39.510000000000005,9,6,Sofia,Lopez,35.0,Bogotá,2024-08-07 14:27:27.411852960,Basico,,Medio uso,Adulto
+13469,0.44,7,1,Mariana,Lopez,78.0,Medellín,2024-08-07 21:01:45.326331584,Basico,,Medio uso,Adulto Mayor
+13470,38.53,8,6,Sofia,Garcia,74.0,Cali,2024-08-08 03:36:03.240810208,Basico,,Medio uso,Adulto Mayor
+13471,19.0,5,4,Mateo,Lopez,56.0,Bogotá,2024-08-08 10:10:21.155288832,Premium,,Medio uso,Adulto
+13472,42.87,9,7,Carlos,Ramirez,33.0,CDMX,2024-08-08 16:44:39.069767440,Basico,,Medio uso,Adulto
+13473,21.069999999999997,6,4,Ana,Lopez,47.0,Bogotá,2024-08-08 23:18:56.984246064,Basico,,Medio uso,Adulto
+13474,4.76,8,1,Mateo,Torres,33.0,Cali,2024-08-09 05:53:14.898724688,Premium,,Medio uso,Adulto
+13475,19.68,14,7,Mateo,Lopez,64.0,Bogotá,2024-08-09 12:27:32.813203312,Basico,,Alto uso,Adulto Mayor
+13476,42.059999999999995,12,7,Mariana,Garcia,55.0,Medellín,2024-08-09 19:01:50.727681920,Basico,,Alto uso,Adulto
+13477,20.189999999999998,3,4,Ana,Lopez,58.0,GDL,2024-08-10 01:36:08.642160544,Basico,,Bajo uso,Adulto
+13478,20.68,4,5,Mariana,Ramirez,24.0,,2024-08-10 08:10:26.556639168,Premium,,Medio uso,Joven
+13479,63.14,7,5,Ana,Ramirez,31.0,Bogotá,2024-08-10 14:44:44.471117792,Basico,,Medio uso,Adulto
+13480,9.7,3,3,Mariana,Lopez,60.0,Medellín,2024-08-10 21:19:02.385596400,Premium,,Bajo uso,Adulto Mayor
+13481,17.3,4,3,Sofia,Ramirez,70.0,CDMX,2024-08-11 03:53:20.300075024,Premium,,Bajo uso,Adulto Mayor
+13482,43.8,2,6,Carlos,Ramirez,47.0,CDMX,2024-08-11 10:27:38.214553648,Basico,,Medio uso,Adulto
+13483,0.98,2,1,Carlos,Garcia,65.0,Cali,2024-08-11 17:01:56.129032256,Basico,,Bajo uso,Adulto Mayor
+13484,36.02,1,3,Ana,Torres,42.0,,2024-08-11 23:36:14.043510880,Basico,,Bajo uso,Adulto
+13485,6.11,9,1,Luis,Garcia,49.0,MTY,2024-08-12 06:10:31.957989504,Basico,,Medio uso,Adulto
+13486,5.58,4,1,Mateo,Gomez,55.0,CDMX,2024-08-12 12:44:49.872468128,Basico,"1,73457E+18",Bajo uso,Adulto
+13487,19.87,3,4,Mateo,Garcia,39.0,MTY,2024-08-12 19:19:07.786946736,Basico,,Bajo uso,Adulto
+13488,8.27,4,3,Ana,Lopez,76.0,CDMX,2024-08-13 01:53:25.701425360,Premium,,Bajo uso,Adulto Mayor
+13489,39.769999999999996,6,6,Mariana,Torres,33.0,GDL,2024-08-13 08:27:43.615903984,Basico,,Medio uso,Adulto
+13490,14.559999999999999,4,4,Luis,Lopez,69.0,Cali,2024-08-13 15:02:01.530382608,Premium,"1,73448E+18",Bajo uso,Adulto Mayor
+13491,36.65,6,6,Sofia,Gomez,46.0,,2024-08-13 21:36:19.444861216,Premium,,Medio uso,Adulto
+13492,22.9,8,4,Mariana,Torres,33.0,CDMX,2024-08-14 04:10:37.359339840,Basico,,Medio uso,Adulto
+13493,131.88,6,4,Mariana,Ramirez,29.0,Bogotá,2024-08-14 10:44:55.273818464,Premium,"1,71815E+18",Medio uso,Joven
+13494,25.470000000000002,5,5,Ana,Garcia,34.0,GDL,2024-08-14 17:19:13.188297072,Basico,,Medio uso,Adulto
+13495,21.650000000000002,7,3,Ana,Lopez,54.0,CDMX,2024-08-14 23:53:31.102775696,Premium,,Medio uso,Adulto
+13496,24.51,5,6,Mateo,Gomez,44.0,GDL,2024-08-15 06:27:49.017254320,Basico,,Medio uso,Adulto
+13497,47.059999999999995,7,10,Ana,Ramirez,42.0,Bogotá,2024-08-15 13:02:06.931732944,Basico,,Alto uso,Adulto
+13498,32.78,3,6,Ana,Garcia,30.0,CDMX,2024-08-15 19:36:24.846211552,Premium,,Medio uso,Adulto
+13499,37.24,7,7,Ana,Ramirez,25.0,Bogotá,2024-08-16 02:10:42.760690176,Basico,,Medio uso,Joven
+13500,11.17,7,5,Mateo,Garcia,73.0,CDMX,2024-08-16 08:45:00.675168800,Premium,,Medio uso,Adulto Mayor
+13501,2.75,5,3,Sofia,Torres,22.0,GDL,2024-08-16 15:19:18.589647424,Basico,,Medio uso,Joven
+13502,24.63,5,4,Sofia,Ramirez,29.0,GDL,2024-08-16 21:53:36.504126032,Basico,,Medio uso,Joven
+13503,6.78,2,3,Ana,Ramirez,58.0,,2024-08-17 04:27:54.418604656,Basico,,Bajo uso,Adulto
+13504,35.61,3,6,Mateo,Ramirez,20.0,Medellín,2024-08-17 11:02:12.333083280,Premium,,Medio uso,Joven
+13505,1.06,7,1,Sofia,Torres,52.0,,2024-08-17 17:36:30.247561888,Basico,,Medio uso,Adulto
+13506,4.1,2,2,Mariana,Gomez,50.0,MTY,2024-08-18 00:10:48.162040512,Premium,,Bajo uso,Adulto
+13507,33.11,5,7,Sofia,Garcia,74.0,MTY,2024-08-18 06:45:06.076519136,Premium,,Medio uso,Adulto Mayor
+13508,30.520000000000003,5,6,Sofia,Ramirez,39.0,MTY,2024-08-18 13:19:23.990997760,Premium,,Medio uso,Adulto
+13509,6.57,2,4,Mateo,Torres,67.0,CDMX,2024-08-18 19:53:41.905476368,Premium,"1,7312E+18",Bajo uso,Adulto Mayor
+13510,6.88,3,2,Mariana,Gomez,73.0,Medellín,2024-08-19 02:27:59.819954992,Basico,,Bajo uso,Adulto Mayor
+13511,13.200000000000001,8,6,Mateo,Garcia,61.0,MTY,2024-08-19 09:02:17.734433616,Premium,"1,73094E+18",Medio uso,Adulto Mayor
+13512,2.34,3,2,Ana,Torres,26.0,MTY,2024-08-19 15:36:35.648912240,Premium,,Bajo uso,Joven
+13513,9.629999999999999,8,3,Carlos,Garcia,58.0,Bogotá,2024-08-19 22:10:53.563390848,Premium,,Medio uso,Adulto
+13514,54.56999999999999,8,8,Sofia,Ramirez,35.0,Bogotá,2024-08-20 04:45:11.477869472,Basico,,Medio uso,Adulto
+13515,77.74,8,9,Carlos,Gomez,67.0,,2024-08-20 11:19:29.392348096,Basico,,Medio uso,Adulto Mayor
+13516,38.92,3,4,Mateo,Torres,46.0,MTY,2024-08-20 17:53:47.306826704,Basico,,Bajo uso,Adulto
+13517,15.989999999999998,6,4,Mateo,Gomez,56.0,Medellín,2024-08-21 00:28:05.221305328,Basico,,Medio uso,Adulto
+13518,3.17,3,1,Mateo,Ramirez,44.0,MTY,2024-08-21 07:02:23.135783952,Basico,,Bajo uso,Adulto
+13519,23.28,7,6,Carlos,Gomez,53.0,,2024-08-21 13:36:41.050262576,Basico,,Medio uso,Adulto
+13520,14.91,10,4,Mateo,Gomez,62.0,Bogotá,2024-08-21 20:10:58.964741184,Basico,,Alto uso,Adulto Mayor
+13521,26.719999999999995,8,7,Ana,Lopez,34.0,Medellín,2024-08-22 02:45:16.879219808,Basico,,Medio uso,Adulto
+13522,16.75,8,5,Mateo,Gomez,73.0,CDMX,2024-08-22 09:19:34.793698432,Basico,"1,73284E+18",Medio uso,Adulto Mayor
+13523,8.940000000000001,5,2,Luis,Garcia,51.0,Medellín,2024-08-22 15:53:52.708177056,Basico,"1,7318E+18",Medio uso,Adulto
+13524,28.68,6,4,Carlos,Torres,63.0,GDL,2024-08-22 22:28:10.622655664,Premium,,Medio uso,Adulto Mayor
+13525,3.1,8,1,Luis,Lopez,20.0,Bogotá,2024-08-23 05:02:28.537134288,Basico,,Medio uso,Joven
+13526,20.07,7,9,Mateo,Torres,22.0,,2024-08-23 11:36:46.451612912,Basico,,Medio uso,Joven
+13527,28.75,6,8,Ana,Torres,31.0,,2024-08-23 18:11:04.366091520,Basico,,Medio uso,Adulto
+13528,41.260000000000005,11,8,Sofia,Ramirez,20.0,Bogotá,2024-08-24 00:45:22.280570144,Basico,,Alto uso,Joven
+13529,10.440000000000001,2,3,Mariana,Ramirez,40.0,Cali,2024-08-24 07:19:40.195048768,Premium,,Bajo uso,Adulto
+13530,7.49,8,5,Mariana,Lopez,56.0,CDMX,2024-08-24 13:53:58.109527392,Premium,,Medio uso,Adulto
+13531,12.809999999999999,4,4,Mateo,Ramirez,47.0,Cali,2024-08-24 20:28:16.024006000,Basico,,Bajo uso,Adulto
+13532,20.33,8,4,Ana,Ramirez,67.0,Medellín,2024-08-25 03:02:33.938484624,Basico,,Medio uso,Adulto Mayor
+13533,11.24,8,3,Carlos,Ramirez,62.0,Bogotá,2024-08-25 09:36:51.852963248,Premium,,Medio uso,Adulto Mayor
+13534,21.99,9,5,Luis,Torres,78.0,,2024-08-25 16:11:09.767441872,Basico,,Medio uso,Adulto Mayor
+13535,34.36,4,6,Luis,Lopez,40.0,Cali,2024-08-25 22:45:27.681920480,Basico,,Medio uso,Adulto
+13536,38.400000000000006,7,8,Luis,Torres,44.0,GDL,2024-08-26 05:19:45.596399104,Basico,,Medio uso,Adulto
+13537,4.77,3,1,Carlos,Garcia,71.0,Cali,2024-08-26 11:54:03.510877728,Basico,,Bajo uso,Adulto Mayor
+13538,2.66,6,2,Mariana,Torres,27.0,CDMX,2024-08-26 18:28:21.425356336,Basico,"1,7223E+18",Medio uso,Joven
+13539,18.939999999999998,6,2,Ana,Garcia,42.0,Cali,2024-08-27 01:02:39.339834960,Basico,"1,72256E+18",Medio uso,Adulto
+13540,33.4,7,4,Carlos,Gomez,30.0,Medellín,2024-08-27 07:36:57.254313584,Basico,,Medio uso,Adulto
+13541,21.58,3,3,Luis,Gomez,33.0,CDMX,2024-08-27 14:11:15.168792208,Basico,"1,73543E+18",Bajo uso,Adulto
+13542,43.24,4,6,Mateo,Garcia,58.0,Medellín,2024-08-27 20:45:33.083270816,Basico,,Medio uso,Adulto
+13543,11.34,4,3,Sofia,Garcia,51.0,Bogotá,2024-08-28 03:19:50.997749440,Basico,,Bajo uso,Adulto
+13544,8.620000000000001,7,2,Carlos,Torres,72.0,Bogotá,2024-08-28 09:54:08.912228064,Basico,,Medio uso,Adulto Mayor
+13545,15.91,8,2,Carlos,Garcia,54.0,GDL,2024-08-28 16:28:26.826706688,Basico,,Medio uso,Adulto
+13546,21.09,6,4,Ana,Lopez,78.0,GDL,2024-08-28 23:02:44.741185296,Basico,,Medio uso,Adulto Mayor
+13547,24.689999999999998,9,3,Ana,Gomez,39.0,Cali,2024-08-29 05:37:02.655663920,Premium,,Medio uso,Adulto
+13548,17.18,7,6,Carlos,Gomez,34.0,GDL,2024-08-29 12:11:20.570142544,Basico,,Medio uso,Adulto
+13549,1.25,4,2,Luis,Garcia,40.0,Bogotá,2024-08-29 18:45:38.484621168,Basico,,Bajo uso,Adulto
+13550,47.02,3,4,Sofia,Ramirez,71.0,Medellín,2024-08-30 01:19:56.399099776,Basico,,Bajo uso,Adulto Mayor
+13551,4.68,7,2,Ana,Ramirez,53.0,CDMX,2024-08-30 07:54:14.313578400,Basico,,Medio uso,Adulto
+13552,16.29,7,4,Luis,Garcia,66.0,Bogotá,2024-08-30 14:28:32.228057024,Basico,,Medio uso,Adulto Mayor
+13553,22.05,7,6,Mateo,Lopez,26.0,Bogotá,2024-08-30 21:02:50.142535632,Basico,,Medio uso,Joven
+13554,9.75,3,4,Ana,Ramirez,69.0,Medellín,2024-08-31 03:37:08.057014256,Premium,,Bajo uso,Adulto Mayor
+13555,12.92,7,2,Luis,Garcia,19.0,MTY,2024-08-31 10:11:25.971492880,Premium,,Medio uso,Joven
+13556,5.7,4,2,Luis,Lopez,49.0,Bogotá,2024-08-31 16:45:43.885971504,Basico,,Bajo uso,Adulto
+13557,14.72,3,2,Sofia,Lopez,73.0,MTY,2024-08-31 23:20:01.800450112,Basico,,Bajo uso,Adulto Mayor
+13558,32.58,5,8,Sofia,Torres,67.0,Cali,2024-09-01 05:54:19.714928736,Premium,,Medio uso,Adulto Mayor
+13559,37.83,4,7,Mateo,Lopez,70.0,CDMX,2024-09-01 12:28:37.629407360,Basico,,Medio uso,Adulto Mayor
+13560,34.03,4,8,Luis,Ramirez,76.0,,2024-09-01 19:02:55.543885984,Premium,,Medio uso,Adulto Mayor
+13561,15.82,4,4,Mariana,Ramirez,39.0,Medellín,2024-09-02 01:37:13.458364592,Basico,,Bajo uso,Adulto
+13562,6.41,4,1,Luis,Garcia,60.0,,2024-09-02 08:11:31.372843216,Basico,,Bajo uso,Adulto Mayor
+13563,24.829999999999995,5,6,Sofia,Garcia,30.0,Bogotá,2024-09-02 14:45:49.287321840,Basico,,Medio uso,Adulto
+13564,30.15,4,5,Mariana,Lopez,25.0,MTY,2024-09-02 21:20:07.201800448,Premium,,Medio uso,Joven
+13565,15.46,3,5,Ana,Gomez,76.0,,2024-09-03 03:54:25.116279072,Premium,,Medio uso,Adulto Mayor
+13566,26.93,6,8,Ana,Torres,18.0,CDMX,2024-09-03 10:28:43.030757696,Basico,,Medio uso,Joven
+13567,17.78,5,3,Carlos,Gomez,34.0,CDMX,2024-09-03 17:03:00.945236320,Premium,,Medio uso,Adulto
+13568,25.9,6,4,Sofia,Lopez,29.0,GDL,2024-09-03 23:37:18.859714928,Basico,,Medio uso,Joven
+13569,11.530000000000001,7,3,Carlos,Lopez,21.0,,2024-09-04 06:11:36.774193552,Premium,,Medio uso,Joven
+13570,32.52,5,5,Mariana,Gomez,70.0,Medellín,2024-09-04 12:45:54.688672176,Premium,,Medio uso,Adulto Mayor
+13571,15.45,3,5,Sofia,Torres,30.0,Bogotá,2024-09-04 19:20:12.603150800,Basico,,Medio uso,Adulto
+13572,7.1000000000000005,10,2,Mateo,Gomez,48.0,Medellín,2024-09-05 01:54:30.517629408,Basico,,Alto uso,Adulto
+13573,28.080000000000002,6,6,Luis,Garcia,78.0,Bogotá,2024-09-05 08:28:48.432108032,Premium,,Medio uso,Adulto Mayor
+13574,20.52,3,7,Mateo,Ramirez,58.0,Cali,2024-09-05 15:03:06.346586656,Premium,,Medio uso,Adulto
+13575,17.34,6,4,Mariana,Garcia,76.0,MTY,2024-09-05 21:37:24.261065264,Basico,,Medio uso,Adulto Mayor
+13576,1.07,4,1,Sofia,Ramirez,79.0,Cali,2024-09-06 04:11:42.175543888,Basico,,Bajo uso,Adulto Mayor
+13577,19.71,5,4,Mariana,Lopez,24.0,GDL,2024-09-06 10:46:00.090022512,Premium,,Medio uso,Joven
+13578,6.87,3,3,Luis,Torres,40.0,GDL,2024-09-06 17:20:18.004501136,Basico,,Bajo uso,Adulto
+13579,32.72,5,7,Ana,Gomez,41.0,Bogotá,2024-09-06 23:54:35.918979744,Basico,"1,71936E+18",Medio uso,Adulto
+13580,15.040000000000001,3,7,Ana,Torres,47.0,Bogotá,2024-09-07 06:28:53.833458368,Basico,,Medio uso,Adulto
+13581,14.299999999999999,11,4,Mariana,Gomez,22.0,Medellín,2024-09-07 13:03:11.747936992,Premium,,Alto uso,Joven
+13582,34.92,11,8,Carlos,Garcia,22.0,MTY,2024-09-07 19:37:29.662415616,Basico,,Alto uso,Joven
+13583,39.86,6,6,Sofia,Garcia,34.0,GDL,2024-09-08 02:11:47.576894224,Basico,,Medio uso,Adulto
+13584,43.559999999999995,8,7,Sofia,Gomez,47.0,Bogotá,2024-09-08 08:46:05.491372848,Basico,,Medio uso,Adulto
+13585,23.639999999999997,9,7,Ana,Torres,26.0,Bogotá,2024-09-08 15:20:23.405851472,Premium,"1,73076E+18",Medio uso,Joven
+13586,7.619999999999999,7,3,Mateo,Gomez,23.0,CDMX,2024-09-08 21:54:41.320330080,Premium,,Medio uso,Joven
+13587,12.1,10,4,Luis,Lopez,42.0,Bogotá,2024-09-09 04:28:59.234808704,Premium,,Alto uso,Adulto
+13588,20.55,4,3,Mateo,Garcia,36.0,MTY,2024-09-09 11:03:17.149287328,Basico,,Bajo uso,Adulto
+13589,2.62,5,5,Mateo,Lopez,33.0,MTY,2024-09-09 17:37:35.063765952,Premium,,Medio uso,Adulto
+13590,22.24,3,5,Mariana,Garcia,38.0,GDL,2024-09-10 00:11:52.978244560,Premium,,Medio uso,Adulto
+13591,48.75,5,8,Ana,Garcia,19.0,,2024-09-10 06:46:10.892723184,Premium,,Medio uso,Joven
+13592,22.779999999999998,5,4,Ana,Ramirez,27.0,Medellín,2024-09-10 13:20:28.807201808,Premium,,Medio uso,Joven
+13593,10.36,3,5,Ana,Lopez,33.0,GDL,2024-09-10 19:54:46.721680432,Basico,,Medio uso,Adulto
+13594,9.73,3,4,Mariana,Lopez,54.0,Medellín,2024-09-11 02:29:04.636159040,Basico,,Bajo uso,Adulto
+13595,21.16,3,4,Carlos,Ramirez,32.0,Cali,2024-09-11 09:03:22.550637664,Premium,,Bajo uso,Adulto
+13596,13.0,7,2,Mateo,Torres,30.0,Bogotá,2024-09-11 15:37:40.465116288,Premium,,Medio uso,Adulto
+13597,23.76,6,5,Mariana,Lopez,30.0,Cali,2024-09-11 22:11:58.379594896,Basico,,Medio uso,Adulto
+13598,33.949999999999996,6,6,Sofia,Gomez,49.0,CDMX,2024-09-12 04:46:16.294073520,Basico,,Medio uso,Adulto
+13599,17.22,5,3,Luis,Ramirez,62.0,Cali,2024-09-12 11:20:34.208552144,Premium,"1,73076E+18",Medio uso,Adulto Mayor
+13600,0.76,7,1,Carlos,Lopez,64.0,Bogotá,2024-09-12 17:54:52.123030768,Basico,,Medio uso,Adulto Mayor
+13601,57.199999999999996,6,6,Sofia,Torres,63.0,GDL,2024-09-13 00:29:10.037509376,Basico,,Medio uso,Adulto Mayor
+13602,14.67,7,3,Mateo,Lopez,25.0,Bogotá,2024-09-13 07:03:27.951988000,Premium,,Medio uso,Joven
+13603,12.850000000000001,8,3,Ana,Garcia,60.0,,2024-09-13 13:37:45.866466624,Basico,,Medio uso,Adulto Mayor
+13604,17.26,8,3,Mateo,Gomez,35.0,Cali,2024-09-13 20:12:03.780945248,Basico,,Medio uso,Adulto
+13605,4.529999999999999,6,4,Mariana,Ramirez,73.0,Bogotá,2024-09-14 02:46:21.695423856,Premium,,Medio uso,Adulto Mayor
+13606,20.77,7,4,Luis,Garcia,53.0,CDMX,2024-09-14 09:20:39.609902480,Basico,,Medio uso,Adulto
+13607,20.16,1,6,Mariana,Torres,43.0,Bogotá,2024-09-14 15:54:57.524381104,Basico,,Medio uso,Adulto
+13608,34.59,8,5,Carlos,Garcia,27.0,GDL,2024-09-14 22:29:15.438859712,Basico,,Medio uso,Joven
+13609,16.7,6,6,Carlos,Garcia,48.0,CDMX,2024-09-15 05:03:33.353338336,Basico,,Medio uso,Adulto
+13610,6.99,8,3,Luis,Torres,50.0,Bogotá,2024-09-15 11:37:51.267816960,Basico,,Medio uso,Adulto
+13611,17.25,3,3,Sofia,Garcia,46.0,,2024-09-15 18:12:09.182295584,Basico,,Bajo uso,Adulto
+13612,105.54000000000002,5,9,Sofia,Ramirez,22.0,Medellín,2024-09-16 00:46:27.096774192,Basico,,Medio uso,Joven
+13613,23.34,10,6,Carlos,Lopez,30.0,GDL,2024-09-16 07:20:45.011252816,Basico,,Alto uso,Adulto
+13614,22.55,6,5,Carlos,Garcia,18.0,Bogotá,2024-09-16 13:55:02.925731440,Basico,,Medio uso,Joven
+13615,25.98,2,4,Ana,Ramirez,40.0,,2024-09-16 20:29:20.840210064,Premium,,Bajo uso,Adulto
+13616,31.259999999999998,5,5,Sofia,Lopez,57.0,Medellín,2024-09-17 03:03:38.754688672,Basico,,Medio uso,Adulto
+13617,20.96,3,3,Luis,Lopez,20.0,Medellín,2024-09-17 09:37:56.669167296,Premium,,Bajo uso,Joven
+13618,11.0,6,2,Sofia,Garcia,20.0,,2024-09-17 16:12:14.583645920,Basico,,Medio uso,Joven
+13619,30.71,9,3,Ana,Ramirez,24.0,Cali,2024-09-17 22:46:32.498124528,Premium,,Medio uso,Joven
+13620,3.6999999999999997,1,4,Mariana,Garcia,53.0,CDMX,2024-09-18 05:20:50.412603152,Basico,,Bajo uso,Adulto
+13621,7.04,7,2,Carlos,Torres,52.0,MTY,2024-09-18 11:55:08.327081776,Basico,,Medio uso,Adulto
+13622,19.61,5,5,Carlos,Lopez,32.0,,2024-09-18 18:29:26.241560400,Basico,,Medio uso,Adulto
+13623,19.01,9,6,Ana,Garcia,57.0,Bogotá,2024-09-19 01:03:44.156039008,Basico,,Medio uso,Adulto
+13624,12.57,5,2,Luis,Lopez,20.0,CDMX,2024-09-19 07:38:02.070517632,Basico,,Medio uso,Joven
+13625,0.0,5,0,Carlos,Ramirez,46.0,Bogotá,2024-09-19 14:12:19.984996256,Basico,,Medio uso,Adulto
+13626,16.55,3,5,Mateo,Gomez,47.0,Medellín,2024-09-19 20:46:37.899474880,Premium,,Medio uso,Adulto
+13627,0.41,7,1,Carlos,Garcia,56.0,,2024-09-20 03:20:55.813953488,Basico,,Medio uso,Adulto
+13628,8.969999999999999,4,5,Mateo,Garcia,35.0,MTY,2024-09-20 09:55:13.728432112,Basico,,Medio uso,Adulto
+13629,45.800000000000004,12,5,Ana,Lopez,28.0,Bogotá,2024-09-20 16:29:31.642910736,Basico,,Alto uso,Joven
+13630,24.77,9,5,Ana,Ramirez,60.0,,2024-09-20 23:03:49.557389360,Premium,,Medio uso,Adulto Mayor
+13631,40.76,10,3,Carlos,Torres,66.0,MTY,2024-09-21 05:38:07.471867968,Basico,,Alto uso,Adulto Mayor
+13632,52.160000000000004,3,5,Sofia,Ramirez,77.0,CDMX,2024-09-21 12:12:25.386346592,Basico,,Medio uso,Adulto Mayor
+13633,19.2,5,3,Mateo,Garcia,55.0,,2024-09-21 18:46:43.300825216,Basico,,Medio uso,Adulto
+13634,26.73,6,7,Luis,Torres,57.0,Bogotá,2024-09-22 01:21:01.215303824,Basico,,Medio uso,Adulto
+13635,34.69,3,5,Carlos,Ramirez,18.0,Bogotá,2024-09-22 07:55:19.129782448,Premium,,Medio uso,Joven
+13636,52.08,3,11,Luis,Gomez,46.0,Medellín,2024-09-22 14:29:37.044261072,Premium,"1,73163E+18",Alto uso,Adulto
+13637,35.99,3,8,Carlos,Lopez,27.0,CDMX,2024-09-22 21:03:54.958739696,Basico,,Medio uso,Joven
+13638,9.870000000000001,8,4,Sofia,Ramirez,45.0,,2024-09-23 03:38:12.873218304,Basico,,Medio uso,Adulto
+13639,12.719999999999999,9,6,Sofia,Ramirez,74.0,MTY,2024-09-23 10:12:30.787696928,Basico,,Medio uso,Adulto Mayor
+13640,5.65,4,3,Sofia,Gomez,48.0,MTY,2024-09-23 16:46:48.702175552,Basico,,Bajo uso,Adulto
+13641,35.11,7,7,Mariana,Garcia,36.0,CDMX,2024-09-23 23:21:06.616654176,Premium,"1,72999E+18",Medio uso,Adulto
+13642,81.58999999999999,3,13,Sofia,Lopez,20.0,MTY,2024-09-24 05:55:24.531132784,Basico,,Alto uso,Joven
+13643,9.72,6,3,Ana,Ramirez,53.0,Cali,2024-09-24 12:29:42.445611408,Basico,,Medio uso,Adulto
+13644,24.98,7,4,Ana,Torres,60.0,Cali,2024-09-24 19:04:00.360090032,Premium,,Medio uso,Adulto Mayor
+13645,10.79,3,4,Mariana,Ramirez,32.0,,2024-09-25 01:38:18.274568640,Basico,,Bajo uso,Adulto
+13646,4.78,5,2,Mateo,Lopez,50.0,Bogotá,2024-09-25 08:12:36.189047264,Premium,,Medio uso,Adulto
+13647,60.669999999999995,11,6,Luis,Ramirez,58.0,Medellín,2024-09-25 14:46:54.103525888,Premium,"1,728E+18",Alto uso,Adulto
+13648,13.66,4,4,Carlos,Gomez,60.0,Bogotá,2024-09-25 21:21:12.018004512,Premium,,Bajo uso,Adulto Mayor
+13649,25.1,7,7,Carlos,Ramirez,68.0,Cali,2024-09-26 03:55:29.932483120,Basico,,Medio uso,Adulto Mayor
+13650,28.34,3,3,Mariana,Ramirez,62.0,Medellín,2024-09-26 10:29:47.846961744,Premium,,Bajo uso,Adulto Mayor
+13651,11.31,5,5,Ana,Torres,43.0,MTY,2024-09-26 17:04:05.761440368,Premium,"1,72524E+18",Medio uso,Adulto
+13652,20.96,2,4,Carlos,Gomez,33.0,MTY,2024-09-26 23:38:23.675918992,Basico,,Bajo uso,Adulto
+13653,19.81,5,3,Ana,Gomez,53.0,GDL,2024-09-27 06:12:41.590397600,Basico,,Medio uso,Adulto
+13654,20.37,3,4,Mateo,Ramirez,50.0,Bogotá,2024-09-27 12:46:59.504876224,Basico,,Bajo uso,Adulto
+13655,26.16,6,4,Luis,Torres,37.0,,2024-09-27 19:21:17.419354848,Premium,,Medio uso,Adulto
+13656,42.89,5,7,Mateo,Ramirez,30.0,GDL,2024-09-28 01:55:35.333833456,Premium,,Medio uso,Adulto
+13657,27.490000000000002,6,6,Mariana,Ramirez,50.0,CDMX,2024-09-28 08:29:53.248312080,Premium,"1,73474E+18",Medio uso,Adulto
+13658,13.24,3,5,Sofia,Lopez,22.0,CDMX,2024-09-28 15:04:11.162790704,Premium,"1,72843E+18",Medio uso,Joven
+13659,12.46,10,1,Sofia,Lopez,54.0,Cali,2024-09-28 21:38:29.077269328,Basico,,Alto uso,Adulto
+13660,33.43000000000001,3,4,Sofia,Torres,31.0,MTY,2024-09-29 04:12:46.991747936,Basico,,Bajo uso,Adulto
+13661,12.190000000000001,5,3,Mateo,Garcia,44.0,GDL,2024-09-29 10:47:04.906226560,Basico,,Medio uso,Adulto
+13662,20.779999999999998,6,3,Carlos,Lopez,40.0,MTY,2024-09-29 17:21:22.820705184,Basico,"1,72152E+18",Medio uso,Adulto
+13663,31.590000000000003,5,7,Luis,Garcia,31.0,Medellín,2024-09-29 23:55:40.735183808,Basico,"1,72627E+18",Medio uso,Adulto
+13664,72.16000000000001,7,8,Sofia,Gomez,57.0,Bogotá,2024-09-30 06:29:58.649662416,Premium,,Medio uso,Adulto
+13665,8.49,5,1,Mariana,Lopez,21.0,Medellín,2024-09-30 13:04:16.564141040,Premium,,Medio uso,Joven
+13666,63.05,9,7,Mariana,Lopez,56.0,MTY,2024-09-30 19:38:34.478619664,Basico,"1,72714E+18",Medio uso,Adulto
+13667,20.97,7,4,Sofia,Torres,69.0,Bogotá,2024-10-01 02:12:52.393098272,Premium,,Medio uso,Adulto Mayor
+13668,28.669999999999998,6,5,Sofia,Garcia,36.0,CDMX,2024-10-01 08:47:10.307576896,Basico,,Medio uso,Adulto
+13669,16.67,1,2,Luis,Lopez,64.0,CDMX,2024-10-01 15:21:28.222055520,Basico,"1,72152E+18",Bajo uso,Adulto Mayor
+13670,22.009999999999998,7,4,Sofia,Lopez,71.0,Bogotá,2024-10-01 21:55:46.136534144,Premium,"1,72351E+18",Medio uso,Adulto Mayor
+13671,4.93,6,1,Luis,Torres,21.0,MTY,2024-10-02 04:30:04.051012752,Basico,,Medio uso,Joven
+13672,35.22,3,9,Mariana,Torres,47.0,Medellín,2024-10-02 11:04:21.965491376,Premium,"1,72238E+18",Medio uso,Adulto
+13673,10.62,6,3,Sofia,Garcia,36.0,CDMX,2024-10-02 17:38:39.879970000,Premium,,Medio uso,Adulto
+13674,37.79,8,5,Mateo,Gomez,48.0,CDMX,2024-10-03 00:12:57.794448624,Premium,,Medio uso,Adulto
+13675,3.59,2,3,Mateo,Gomez,48.0,,2024-10-03 06:47:15.708927232,Basico,,Bajo uso,Adulto
+13676,13.13,5,2,Mariana,Ramirez,26.0,Bogotá,2024-10-03 13:21:33.623405856,Basico,,Medio uso,Joven
+13677,31.91,6,10,Luis,Lopez,70.0,Medellín,2024-10-03 19:55:51.537884480,Basico,,Alto uso,Adulto Mayor
+13678,10.379999999999999,5,5,Mateo,Garcia,30.0,Cali,2024-10-04 02:30:09.452363088,Premium,,Medio uso,Adulto
+13679,35.290000000000006,7,6,Luis,Lopez,31.0,Bogotá,2024-10-04 09:04:27.366841712,Premium,,Medio uso,Adulto
+13680,32.69,9,5,Mateo,Garcia,72.0,Cali,2024-10-04 15:38:45.281320336,Basico,,Medio uso,Adulto Mayor
+13681,23.060000000000002,5,5,Mateo,Garcia,77.0,Bogotá,2024-10-04 22:13:03.195798960,Premium,"1,73457E+18",Medio uso,Adulto Mayor
+13682,26.869999999999997,11,5,Luis,Garcia,63.0,GDL,2024-10-05 04:47:21.110277568,Basico,,Alto uso,Adulto Mayor
+13683,12.17,4,3,Carlos,Lopez,71.0,MTY,2024-10-05 11:21:39.024756192,Basico,,Bajo uso,Adulto Mayor
+13684,12.620000000000001,8,5,Mateo,Torres,27.0,Bogotá,2024-10-05 17:55:56.939234816,Premium,,Medio uso,Joven
+13685,30.330000000000002,6,11,Sofia,Lopez,65.0,MTY,2024-10-06 00:30:14.853713440,Premium,,Alto uso,Adulto Mayor
+13686,27.97,2,3,Mariana,Garcia,48.0,MTY,2024-10-06 07:04:32.768192048,Basico,,Bajo uso,Adulto
+13687,19.07,8,6,Carlos,Ramirez,54.0,MTY,2024-10-06 13:38:50.682670672,Basico,,Medio uso,Adulto
+13688,11.83,6,3,Luis,Gomez,40.0,CDMX,2024-10-06 20:13:08.597149296,Basico,,Medio uso,Adulto
+13689,6.53,4,4,Carlos,Garcia,44.0,CDMX,2024-10-07 02:47:26.511627904,Basico,,Bajo uso,Adulto
+13690,21.830000000000002,3,5,Ana,Ramirez,23.0,CDMX,2024-10-07 09:21:44.426106528,Premium,,Medio uso,Joven
+13691,6.75,7,4,Ana,Torres,43.0,CDMX,2024-10-07 15:56:02.340585152,Basico,,Medio uso,Adulto
+13692,14.370000000000001,3,3,Mateo,Garcia,19.0,MTY,2024-10-07 22:30:20.255063776,Basico,,Bajo uso,Joven
+13693,18.58,11,4,Mateo,Ramirez,62.0,Bogotá,2024-10-08 05:04:38.169542384,Basico,,Alto uso,Adulto Mayor
+13694,54.69,6,5,Sofia,Garcia,78.0,GDL,2024-10-08 11:38:56.084021008,Premium,,Medio uso,Adulto Mayor
+13695,38.75,5,8,Mariana,Lopez,30.0,,2024-10-08 18:13:13.998499632,Premium,,Medio uso,Adulto
+13696,0.0,5,0,Carlos,Ramirez,68.0,Cali,2024-10-09 00:47:31.912978256,Premium,,Medio uso,Adulto Mayor
+13697,20.919999999999998,3,4,Ana,Lopez,67.0,Bogotá,2024-10-09 07:21:49.827456864,Basico,,Bajo uso,Adulto Mayor
+13698,57.269999999999996,6,6,Mateo,Lopez,77.0,Medellín,2024-10-09 13:56:07.741935488,Premium,,Medio uso,Adulto Mayor
+13699,19.07,6,5,Mariana,Ramirez,36.0,MTY,2024-10-09 20:30:25.656414112,Basico,,Medio uso,Adulto
+13700,42.14,9,9,Carlos,Gomez,18.0,CDMX,2024-10-10 03:04:43.570892736,Premium,,Medio uso,Joven
+13701,7.949999999999999,8,3,Mateo,Ramirez,57.0,,2024-10-10 09:39:01.485371344,Premium,,Medio uso,Adulto
+13702,8.71,7,6,Mateo,Gomez,49.0,CDMX,2024-10-10 16:13:19.399849968,Basico,,Medio uso,Adulto
+13703,22.89,6,5,Ana,Garcia,39.0,,2024-10-10 22:47:37.314328592,Basico,,Medio uso,Adulto
+13704,16.849999999999998,7,3,Ana,Garcia,65.0,Bogotá,2024-10-11 05:21:55.228807200,Basico,"1,71971E+18",Medio uso,Adulto Mayor
+13705,38.56,4,4,Mateo,Ramirez,46.0,MTY,2024-10-11 11:56:13.143285824,Basico,"1,7229E+18",Bajo uso,Adulto
+13706,29.61,4,2,Luis,Garcia,19.0,Bogotá,2024-10-11 18:30:31.057764448,Basico,,Bajo uso,Joven
+13707,46.2,4,8,Mateo,Torres,57.0,Bogotá,2024-10-12 01:04:48.972243072,Premium,"1,71919E+18",Medio uso,Adulto
+13708,29.719999999999995,3,6,Mariana,Lopez,55.0,CDMX,2024-10-12 07:39:06.886721680,Basico,"1,72584E+18",Medio uso,Adulto
+13709,22.35,1,6,Mateo,Lopez,65.0,MTY,2024-10-12 14:13:24.801200304,Basico,,Medio uso,Adulto Mayor
+13710,7.73,4,2,Sofia,Gomez,72.0,Medellín,2024-10-12 20:47:42.715678928,Premium,,Bajo uso,Adulto Mayor
+13711,16.29,5,3,Sofia,Garcia,28.0,Bogotá,2024-10-13 03:22:00.630157552,Premium,,Medio uso,Joven
+13712,10.530000000000001,11,3,Sofia,Gomez,34.0,GDL,2024-10-13 09:56:18.544636160,Basico,,Alto uso,Adulto
+13713,19.830000000000002,4,3,Luis,Lopez,72.0,MTY,2024-10-13 16:30:36.459114784,Basico,,Bajo uso,Adulto Mayor
+13714,12.549999999999999,4,6,Luis,Lopez,68.0,,2024-10-13 23:04:54.373593408,Basico,,Medio uso,Adulto Mayor
+13715,35.68,3,7,Mateo,Garcia,60.0,Bogotá,2024-10-14 05:39:12.288072016,Basico,,Medio uso,Adulto Mayor
+13716,19.59,5,3,Sofia,Torres,77.0,Bogotá,2024-10-14 12:13:30.202550640,Basico,,Medio uso,Adulto Mayor
+13717,21.17,4,3,Luis,Torres,25.0,,2024-10-14 18:47:48.117029264,Basico,,Bajo uso,Joven
+13718,12.74,2,3,Ana,Garcia,39.0,MTY,2024-10-15 01:22:06.031507888,Basico,,Bajo uso,Adulto
+13719,34.59,3,5,Mateo,Garcia,21.0,Bogotá,2024-10-15 07:56:23.945986496,Basico,,Medio uso,Joven
+13720,20.6,8,4,Mariana,Gomez,28.0,Cali,2024-10-15 14:30:41.860465120,Basico,,Medio uso,Joven
+13721,45.54,10,5,Carlos,Garcia,25.0,Cali,2024-10-15 21:04:59.774943744,Basico,,Alto uso,Joven
+13722,7.26,3,2,Mateo,Torres,26.0,GDL,2024-10-16 03:39:17.689422368,Basico,,Bajo uso,Joven
+13723,8.790000000000001,5,3,Carlos,Garcia,43.0,CDMX,2024-10-16 10:13:35.603900976,Basico,,Medio uso,Adulto
+13724,15.639999999999999,5,4,Sofia,Gomez,19.0,Medellín,2024-10-16 16:47:53.518379600,Basico,,Medio uso,Joven
+13725,18.739999999999995,5,6,Carlos,Gomez,33.0,GDL,2024-10-16 23:22:11.432858224,Premium,,Medio uso,Adulto
+13726,15.2,7,6,Sofia,Gomez,48.0,,2024-10-17 05:56:29.347336832,Basico,,Medio uso,Adulto
+13727,29.95,5,6,Ana,Gomez,23.0,CDMX,2024-10-17 12:30:47.261815456,Premium,,Medio uso,Joven
+13728,28.56,8,4,Carlos,Ramirez,70.0,MTY,2024-10-17 19:05:05.176294080,Basico,,Medio uso,Adulto Mayor
+13729,24.35,7,6,Mateo,Garcia,38.0,CDMX,2024-10-18 01:39:23.090772704,Basico,,Medio uso,Adulto
+13730,2.37,4,2,Sofia,Lopez,43.0,Medellín,2024-10-18 08:13:41.005251312,Basico,,Bajo uso,Adulto
+13731,32.32,4,6,Mateo,Garcia,76.0,,2024-10-18 14:47:58.919729936,Basico,,Medio uso,Adulto Mayor
+13732,50.44,9,9,Luis,Ramirez,36.0,Medellín,2024-10-18 21:22:16.834208560,Premium,,Medio uso,Adulto
+13733,17.77,3,4,Sofia,Gomez,45.0,,2024-10-19 03:56:34.748687184,Basico,,Bajo uso,Adulto
+13734,64.77,9,6,Carlos,Ramirez,25.0,CDMX,2024-10-19 10:30:52.663165792,Basico,,Medio uso,Joven
+13735,16.35,8,5,Sofia,Torres,31.0,CDMX,2024-10-19 17:05:10.577644416,Basico,,Medio uso,Adulto
+13736,2.2800000000000002,6,4,Mateo,Torres,41.0,Cali,2024-10-19 23:39:28.492123040,Premium,"1,72895E+18",Medio uso,Adulto
+13737,51.959999999999994,3,5,Ana,Garcia,65.0,,2024-10-20 06:13:46.406601648,Premium,,Medio uso,Adulto Mayor
+13738,20.18,5,5,Sofia,Garcia,61.0,Cali,2024-10-20 12:48:04.321080272,Premium,,Medio uso,Adulto Mayor
+13739,36.58,7,8,Carlos,Lopez,54.0,Cali,2024-10-20 19:22:22.235558896,Basico,,Medio uso,Adulto
+13740,9.799999999999999,6,5,Luis,Lopez,73.0,MTY,2024-10-21 01:56:40.150037520,Premium,,Medio uso,Adulto Mayor
+13741,12.14,7,4,Mariana,Torres,43.0,GDL,2024-10-21 08:30:58.064516128,Premium,,Medio uso,Adulto
+13742,25.75,10,5,Ana,Gomez,48.0,,2024-10-21 15:05:15.978994752,Basico,,Alto uso,Adulto
+13743,36.58,3,8,Luis,Ramirez,73.0,MTY,2024-10-21 21:39:33.893473376,Basico,,Medio uso,Adulto Mayor
+13744,7.77,5,1,Sofia,Lopez,68.0,MTY,2024-10-22 04:13:51.807952000,Basico,,Medio uso,Adulto Mayor
+13745,48.36,8,9,Mateo,Lopez,49.0,Medellín,2024-10-22 10:48:09.722430608,Basico,,Medio uso,Adulto
+13746,0.0,3,0,Mateo,Gomez,67.0,GDL,2024-10-22 17:22:27.636909232,Basico,,Bajo uso,Adulto Mayor
+13747,10.22,3,3,Carlos,Gomez,58.0,Cali,2024-10-22 23:56:45.551387856,Basico,,Bajo uso,Adulto
+13748,5.56,4,2,Mateo,Garcia,19.0,CDMX,2024-10-23 06:31:03.465866464,Premium,,Bajo uso,Joven
+13749,37.33,5,6,Ana,Ramirez,42.0,Cali,2024-10-23 13:05:21.380345088,Basico,,Medio uso,Adulto
+13750,49.71000000000001,3,6,Mateo,Gomez,69.0,Medellín,2024-10-23 19:39:39.294823712,Premium,,Medio uso,Adulto Mayor
+13751,23.46,6,5,Carlos,Lopez,61.0,Bogotá,2024-10-24 02:13:57.209302336,Basico,,Medio uso,Adulto Mayor
+13752,3.68,9,4,Mariana,Lopez,78.0,Bogotá,2024-10-24 08:48:15.123780944,Premium,,Medio uso,Adulto Mayor
+13753,14.01,6,2,Sofia,Torres,19.0,GDL,2024-10-24 15:22:33.038259568,Basico,,Medio uso,Joven
+13754,5.65,5,2,Sofia,Gomez,59.0,Bogotá,2024-10-24 21:56:50.952738192,Basico,,Medio uso,Adulto
+13755,26.13,9,3,Mateo,Garcia,18.0,Bogotá,2024-10-25 04:31:08.867216816,Basico,,Medio uso,Joven
+13756,10.99,6,5,Luis,Ramirez,53.0,Bogotá,2024-10-25 11:05:26.781695424,Basico,,Medio uso,Adulto
+13757,42.739999999999995,10,6,Sofia,Garcia,74.0,GDL,2024-10-25 17:39:44.696174048,Premium,,Alto uso,Adulto Mayor
+13758,49.23,7,5,Mariana,Lopez,29.0,CDMX,2024-10-26 00:14:02.610652672,Basico,,Medio uso,Joven
+13759,1.24,6,1,Mateo,Garcia,26.0,CDMX,2024-10-26 06:48:20.525131280,Basico,,Medio uso,Joven
+13760,16.919999999999998,5,4,Carlos,Lopez,53.0,Medellín,2024-10-26 13:22:38.439609904,Basico,,Medio uso,Adulto
+13761,17.240000000000002,4,4,Mariana,Lopez,58.0,CDMX,2024-10-26 19:56:56.354088528,Premium,,Bajo uso,Adulto
+13762,17.97,6,7,Mateo,Lopez,47.0,,2024-10-27 02:31:14.268567152,Basico,,Medio uso,Adulto
+13763,29.169999999999998,6,4,Mariana,Lopez,45.0,Medellín,2024-10-27 09:05:32.183045760,Basico,,Medio uso,Adulto
+13764,17.68,3,4,Sofia,Lopez,55.0,Cali,2024-10-27 15:39:50.097524384,Basico,,Bajo uso,Adulto
+13765,38.199999999999996,6,4,Carlos,Torres,50.0,Cali,2024-10-27 22:14:08.012003008,Basico,,Medio uso,Adulto
+13766,34.16,6,2,Mateo,Garcia,59.0,CDMX,2024-10-28 04:48:25.926481632,Premium,,Medio uso,Adulto
+13767,16.650000000000002,3,4,Ana,Torres,78.0,Cali,2024-10-28 11:22:43.840960240,Basico,,Bajo uso,Adulto Mayor
+13768,50.949999999999996,2,10,Carlos,Torres,63.0,Bogotá,2024-10-28 17:57:01.755438864,Premium,"1,71876E+18",Alto uso,Adulto Mayor
+13769,20.2,5,5,Ana,Gomez,39.0,,2024-10-29 00:31:19.669917488,Basico,,Medio uso,Adulto
+13770,26.98,5,5,Mariana,Gomez,42.0,,2024-10-29 07:05:37.584396112,Basico,,Medio uso,Adulto
+13771,8.77,8,3,Luis,Gomez,78.0,CDMX,2024-10-29 13:39:55.498874720,Basico,,Medio uso,Adulto Mayor
+13772,38.59,14,8,Carlos,Ramirez,35.0,MTY,2024-10-29 20:14:13.413353344,Basico,,Alto uso,Adulto
+13773,9.59,7,4,Mariana,Gomez,23.0,Bogotá,2024-10-30 02:48:31.327831968,Basico,,Medio uso,Joven
+13774,22.42,7,4,Ana,Garcia,35.0,Medellín,2024-10-30 09:22:49.242310576,Basico,,Medio uso,Adulto
+13775,13.2,7,3,Sofia,Torres,69.0,GDL,2024-10-30 15:57:07.156789200,Basico,,Medio uso,Adulto Mayor
+13776,17.959999999999997,2,5,Sofia,Garcia,33.0,GDL,2024-10-30 22:31:25.071267824,Basico,,Medio uso,Adulto
+13777,35.98,8,4,Luis,Gomez,32.0,MTY,2024-10-31 05:05:42.985746448,Basico,,Medio uso,Adulto
+13778,57.47,6,9,Carlos,Ramirez,65.0,Bogotá,2024-10-31 11:40:00.900225056,Premium,,Medio uso,Adulto Mayor
+13779,4.5600000000000005,5,4,Carlos,Ramirez,25.0,,2024-10-31 18:14:18.814703680,Premium,,Medio uso,Joven
+13780,4.45,8,2,Carlos,Torres,30.0,Cali,2024-11-01 00:48:36.729182304,Basico,,Medio uso,Adulto
+13781,15.599999999999998,4,4,Mariana,Garcia,72.0,Bogotá,2024-11-01 07:22:54.643660928,Basico,,Bajo uso,Adulto Mayor
+13782,29.459999999999997,7,5,Luis,Lopez,60.0,CDMX,2024-11-01 13:57:12.558139536,Basico,,Medio uso,Adulto Mayor
+13783,1.44,8,1,Carlos,Garcia,77.0,CDMX,2024-11-01 20:31:30.472618160,Premium,"1,7331E+18",Medio uso,Adulto Mayor
+13784,20.24,7,6,Mariana,Gomez,78.0,Bogotá,2024-11-02 03:05:48.387096784,Premium,,Medio uso,Adulto Mayor
+13785,52.84,5,10,Sofia,Lopez,74.0,Cali,2024-11-02 09:40:06.301575392,Basico,,Alto uso,Adulto Mayor
+13786,18.55,4,6,Ana,Ramirez,24.0,MTY,2024-11-02 16:14:24.216054016,Basico,,Medio uso,Joven
+13787,8.25,2,4,Mariana,Torres,34.0,Bogotá,2024-11-02 22:48:42.130532640,Basico,,Bajo uso,Adulto
+13788,14.84,2,5,Sofia,Torres,67.0,,2024-11-03 05:23:00.045011264,Basico,,Medio uso,Adulto Mayor
+13789,12.01,4,3,Sofia,Ramirez,49.0,,2024-11-03 11:57:17.959489872,Premium,,Bajo uso,Adulto
+13790,23.5,10,4,Ana,Gomez,39.0,GDL,2024-11-03 18:31:35.873968496,Basico,,Alto uso,Adulto
+13791,6.91,6,3,Sofia,Ramirez,72.0,CDMX,2024-11-04 01:05:53.788447120,Premium,,Medio uso,Adulto Mayor
+13792,29.520000000000003,5,5,Luis,Gomez,68.0,MTY,2024-11-04 07:40:11.702925744,Basico,,Medio uso,Adulto Mayor
+13793,19.61,7,2,Ana,Lopez,74.0,Medellín,2024-11-04 14:14:29.617404352,Basico,,Medio uso,Adulto Mayor
+13794,20.279999999999998,10,5,Sofia,Ramirez,30.0,,2024-11-04 20:48:47.531882976,Basico,,Alto uso,Adulto
+13795,10.719999999999999,10,3,Mateo,Gomez,64.0,CDMX,2024-11-05 03:23:05.446361600,Basico,"1,7274E+18",Alto uso,Adulto Mayor
+13796,5.01,3,4,Mariana,Lopez,40.0,CDMX,2024-11-05 09:57:23.360840208,Premium,,Bajo uso,Adulto
+13797,39.94,6,5,Sofia,Ramirez,79.0,,2024-11-05 16:31:41.275318832,Basico,,Medio uso,Adulto Mayor
+13798,21.58,2,4,Luis,Torres,71.0,Medellín,2024-11-05 23:05:59.189797456,Basico,,Bajo uso,Adulto Mayor
+13799,7.470000000000001,5,3,Carlos,Ramirez,46.0,,2024-11-06 05:40:17.104276080,Premium,,Medio uso,Adulto
+13800,21.67,4,5,Sofia,Garcia,39.0,MTY,2024-11-06 12:14:35.018754688,Basico,,Medio uso,Adulto
+13801,15.0,4,4,Carlos,Ramirez,18.0,Bogotá,2024-11-06 18:48:52.933233312,Basico,,Bajo uso,Joven
+13802,22.09,8,4,Mateo,Garcia,46.0,CDMX,2024-11-07 01:23:10.847711936,Premium,"1,71962E+18",Medio uso,Adulto
+13803,16.830000000000002,1,4,Sofia,Lopez,65.0,CDMX,2024-11-07 07:57:28.762190560,Basico,"1,72904E+18",Bajo uso,Adulto Mayor
+13804,24.11,5,4,Ana,Ramirez,22.0,Bogotá,2024-11-07 14:31:46.676669168,Basico,,Medio uso,Joven
+13805,37.06,5,5,Carlos,Lopez,75.0,MTY,2024-11-07 21:06:04.591147792,Premium,,Medio uso,Adulto Mayor
+13806,14.04,6,3,Mateo,Lopez,52.0,CDMX,2024-11-08 03:40:22.505626416,Basico,"1,71824E+18",Medio uso,Adulto
+13807,18.700000000000003,4,5,Ana,Gomez,72.0,,2024-11-08 10:14:40.420105024,Basico,,Medio uso,Adulto Mayor
+13808,26.960000000000004,5,7,Ana,Lopez,27.0,GDL,2024-11-08 16:48:58.334583648,Basico,,Medio uso,Joven
+13809,4.859999999999999,5,2,Ana,Lopez,36.0,Medellín,2024-11-08 23:23:16.249062272,Basico,,Medio uso,Adulto
+13810,8.129999999999999,6,2,Ana,Ramirez,54.0,GDL,2024-11-09 05:57:34.163540896,Premium,,Medio uso,Adulto
+13811,49.51,6,4,Sofia,Ramirez,24.0,Cali,2024-11-09 12:31:52.078019504,Basico,,Medio uso,Joven
+13812,16.06,8,6,Mariana,Torres,63.0,CDMX,2024-11-09 19:06:09.992498128,Basico,"1,72843E+18",Medio uso,Adulto Mayor
+13813,27.669999999999998,7,6,Sofia,Gomez,52.0,Cali,2024-11-10 01:40:27.906976752,Basico,,Medio uso,Adulto
+13814,15.98,8,4,Sofia,Lopez,62.0,CDMX,2024-11-10 08:14:45.821455376,Basico,,Medio uso,Adulto Mayor
+13815,4.14,6,2,Mateo,Gomez,30.0,Bogotá,2024-11-10 14:49:03.735933984,Basico,,Medio uso,Adulto
+13816,52.05,8,6,Mateo,Garcia,27.0,Medellín,2024-11-10 21:23:21.650412608,Basico,,Medio uso,Joven
+13817,46.91,6,7,Mariana,Lopez,19.0,CDMX,2024-11-11 03:57:39.564891232,Premium,,Medio uso,Joven
+13818,27.47,6,3,Mateo,Gomez,23.0,GDL,2024-11-11 10:31:57.479369840,Basico,,Medio uso,Joven
+13819,47.800000000000004,16,11,Luis,Torres,25.0,,2024-11-11 17:06:15.393848464,Premium,,Alto uso,Joven
+13820,17.490000000000002,6,5,Mariana,Torres,53.0,,2024-11-11 23:40:33.308327088,Basico,,Medio uso,Adulto
+13821,6.36,8,3,Mateo,Lopez,42.0,CDMX,2024-11-12 06:14:51.222805712,Basico,,Medio uso,Adulto
+13822,22.62,6,3,Mariana,Garcia,61.0,CDMX,2024-11-12 12:49:09.137284320,Basico,,Medio uso,Adulto Mayor
+13823,16.619999999999997,8,3,Sofia,Torres,77.0,CDMX,2024-11-12 19:23:27.051762944,Basico,"1,72817E+18",Medio uso,Adulto Mayor
+13824,17.650000000000002,9,6,Sofia,Torres,64.0,CDMX,2024-11-13 01:57:44.966241568,Basico,,Medio uso,Adulto Mayor
+13825,18.08,6,4,Mariana,Garcia,57.0,,2024-11-13 08:32:02.880720192,Basico,,Medio uso,Adulto
+13826,42.75,6,7,Luis,Gomez,24.0,Bogotá,2024-11-13 15:06:20.795198800,Basico,,Medio uso,Joven
+13827,11.45,1,4,Luis,Torres,63.0,Bogotá,2024-11-13 21:40:38.709677424,Premium,,Bajo uso,Adulto Mayor
+13828,12.84,3,3,Mariana,Ramirez,40.0,,2024-11-14 04:14:56.624156048,Basico,,Bajo uso,Adulto
+13829,27.26,7,2,Mateo,Torres,36.0,Bogotá,2024-11-14 10:49:14.538634656,Premium,,Medio uso,Adulto
+13830,14.809999999999999,7,4,Carlos,Gomez,63.0,Medellín,2024-11-14 17:23:32.453113280,Basico,,Medio uso,Adulto Mayor
+13831,34.82,5,6,Luis,Gomez,39.0,MTY,2024-11-14 23:57:50.367591904,Premium,,Medio uso,Adulto
+13832,5.84,6,4,Ana,Lopez,30.0,MTY,2024-11-15 06:32:08.282070528,Basico,,Medio uso,Adulto
+13833,23.799999999999997,6,6,Sofia,Ramirez,78.0,Bogotá,2024-11-15 13:06:26.196549136,Premium,,Medio uso,Adulto Mayor
+13834,30.82,3,3,Mariana,Gomez,38.0,CDMX,2024-11-15 19:40:44.111027760,Basico,,Bajo uso,Adulto
+13835,13.28,5,3,Ana,Garcia,18.0,GDL,2024-11-16 02:15:02.025506384,Basico,,Medio uso,Joven
+13836,2.1599999999999997,3,3,Mariana,Ramirez,76.0,GDL,2024-11-16 08:49:19.939985008,Premium,,Bajo uso,Adulto Mayor
+13837,20.96,6,4,Sofia,Ramirez,36.0,CDMX,2024-11-16 15:23:37.854463616,Basico,,Medio uso,Adulto
+13838,26.520000000000003,8,5,Sofia,Garcia,78.0,Bogotá,2024-11-16 21:57:55.768942240,Basico,,Medio uso,Adulto Mayor
+13839,31.51,8,5,Luis,Torres,77.0,Bogotá,2024-11-17 04:32:13.683420864,Premium,,Medio uso,Adulto Mayor
+13840,12.14,5,3,Luis,Garcia,50.0,MTY,2024-11-17 11:06:31.597899488,Basico,,Medio uso,Adulto
+13841,24.35,4,4,Ana,Garcia,21.0,GDL,2024-11-17 17:40:49.512378096,Basico,,Bajo uso,Joven
+13842,21.71,3,5,Mariana,Torres,59.0,Medellín,2024-11-18 00:15:07.426856720,Basico,,Medio uso,Adulto
+13843,15.620000000000001,6,7,Sofia,Torres,20.0,CDMX,2024-11-18 06:49:25.341335344,Premium,,Medio uso,Joven
+13844,49.35,4,5,Ana,Torres,44.0,Bogotá,2024-11-18 13:23:43.255813952,Basico,,Medio uso,Adulto
+13845,12.700000000000001,5,4,Carlos,Torres,69.0,Cali,2024-11-18 19:58:01.170292576,Premium,,Medio uso,Adulto Mayor
+13846,32.519999999999996,9,5,Ana,Torres,58.0,CDMX,2024-11-19 02:32:19.084771200,Premium,,Medio uso,Adulto
+13847,13.36,5,3,Mateo,Garcia,52.0,Cali,2024-11-19 09:06:36.999249824,Premium,,Medio uso,Adulto
+13848,36.019999999999996,7,6,Ana,Lopez,45.0,Cali,2024-11-19 15:40:54.913728432,Basico,,Medio uso,Adulto
+13849,14.350000000000001,6,5,Mateo,Lopez,23.0,CDMX,2024-11-19 22:15:12.828207056,Premium,,Medio uso,Joven
+13850,142.84,7,4,Mateo,Gomez,23.0,CDMX,2024-11-20 04:49:30.742685680,Basico,,Medio uso,Joven
+13851,16.18,10,3,Mateo,Lopez,72.0,,2024-11-20 11:23:48.657164304,Premium,,Alto uso,Adulto Mayor
+13852,20.16,9,3,Carlos,Lopez,74.0,GDL,2024-11-20 17:58:06.571642912,Basico,,Medio uso,Adulto Mayor
+13853,30.689999999999998,6,6,Ana,Garcia,61.0,Cali,2024-11-21 00:32:24.486121536,Premium,,Medio uso,Adulto Mayor
+13854,55.88000000000001,9,9,Ana,Torres,40.0,Bogotá,2024-11-21 07:06:42.400600160,Basico,,Medio uso,Adulto
+13855,9.06,4,4,Carlos,Torres,79.0,GDL,2024-11-21 13:41:00.315078768,Basico,,Bajo uso,Adulto Mayor
+13856,31.990000000000002,4,4,Sofia,Garcia,50.0,CDMX,2024-11-21 20:15:18.229557392,Basico,,Bajo uso,Adulto
+13857,7.03,4,1,Luis,Lopez,33.0,Bogotá,2024-11-22 02:49:36.144036016,Basico,,Bajo uso,Adulto
+13858,33.49,7,5,Ana,Garcia,47.0,Bogotá,2024-11-22 09:23:54.058514640,Basico,,Medio uso,Adulto
+13859,36.64,4,5,Luis,Gomez,41.0,Medellín,2024-11-22 15:58:11.972993248,Basico,,Medio uso,Adulto
+13860,34.730000000000004,6,7,Mariana,Torres,22.0,,2024-11-22 22:32:29.887471872,Basico,,Medio uso,Joven
+13861,32.85,5,4,Mariana,Ramirez,58.0,Cali,2024-11-23 05:06:47.801950496,Basico,,Medio uso,Adulto
+13862,33.66,8,11,Carlos,Gomez,59.0,GDL,2024-11-23 11:41:05.716429120,Basico,,Alto uso,Adulto
+13863,6.98,6,3,Mariana,Gomez,30.0,,2024-11-23 18:15:23.630907728,Basico,,Medio uso,Adulto
+13864,5.05,7,1,Mariana,Garcia,64.0,Cali,2024-11-24 00:49:41.545386352,Premium,,Medio uso,Adulto Mayor
+13865,48.35,5,6,Sofia,Lopez,29.0,,2024-11-24 07:23:59.459864976,Premium,,Medio uso,Joven
+13866,15.29,11,4,Sofia,Torres,22.0,Bogotá,2024-11-24 13:58:17.374343584,Basico,,Alto uso,Joven
+13867,20.74,1,4,Sofia,Ramirez,54.0,Cali,2024-11-24 20:32:35.288822208,Basico,,Bajo uso,Adulto
+13868,17.189999999999998,2,3,Mariana,Gomez,48.0,Bogotá,2024-11-25 03:06:53.203300832,Basico,"1,72212E+18",Bajo uso,Adulto
+13869,34.37,6,8,Carlos,Ramirez,45.0,MTY,2024-11-25 09:41:11.117779456,Premium,,Medio uso,Adulto
+13870,37.870000000000005,5,4,Mateo,Lopez,45.0,,2024-11-25 16:15:29.032258064,Premium,,Medio uso,Adulto
+13871,16.229999999999997,6,6,Mateo,Lopez,47.0,CDMX,2024-11-25 22:49:46.946736688,Basico,"1,73344E+18",Medio uso,Adulto
+13872,10.11,6,2,Luis,Ramirez,35.0,CDMX,2024-11-26 05:24:04.861215312,Basico,"1,71876E+18",Medio uso,Adulto
+13873,24.199999999999996,14,4,Mateo,Torres,61.0,,2024-11-26 11:58:22.775693936,Premium,"1,71953E+18",Alto uso,Adulto Mayor
+13874,25.919999999999998,3,5,Mateo,Lopez,44.0,CDMX,2024-11-26 18:32:40.690172544,Basico,,Medio uso,Adulto
+13875,18.76,7,3,Sofia,Ramirez,52.0,,2024-11-27 01:06:58.604651168,Basico,"1,721E+18",Medio uso,Adulto
+13876,21.53,6,4,Sofia,Gomez,43.0,Medellín,2024-11-27 07:41:16.519129792,Basico,,Medio uso,Adulto
+13877,4.11,6,2,Mariana,Ramirez,74.0,CDMX,2024-11-27 14:15:34.433608400,Basico,,Medio uso,Adulto Mayor
+13878,21.959999999999997,8,4,Luis,Ramirez,56.0,Bogotá,2024-11-27 20:49:52.348087024,Basico,,Medio uso,Adulto
+13879,15.96,5,2,Ana,Garcia,66.0,Cali,2024-11-28 03:24:10.262565648,Premium,"1,73362E+18",Medio uso,Adulto Mayor
+13880,38.33,6,4,Luis,Lopez,68.0,Bogotá,2024-11-28 09:58:28.177044272,Premium,,Medio uso,Adulto Mayor
+13881,24.0,7,7,Luis,Torres,77.0,,2024-11-28 16:32:46.091522880,Basico,,Medio uso,Adulto Mayor
+13882,13.159999999999998,4,4,Carlos,Torres,35.0,,2024-11-28 23:07:04.006001504,Premium,,Bajo uso,Adulto
+13883,1.95,1,2,Mariana,Garcia,50.0,MTY,2024-11-29 05:41:21.920480128,Premium,,Bajo uso,Adulto
+13884,22.34,5,9,Carlos,Torres,42.0,CDMX,2024-11-29 12:15:39.834958752,Basico,,Medio uso,Adulto
+13885,25.72,3,5,Luis,Ramirez,73.0,,2024-11-29 18:49:57.749437360,Premium,,Medio uso,Adulto Mayor
+13886,30.46,4,9,Luis,Garcia,48.0,Bogotá,2024-11-30 01:24:15.663915984,Premium,,Medio uso,Adulto
+13887,5.19,4,3,Luis,Gomez,54.0,CDMX,2024-11-30 07:58:33.578394608,Basico,,Bajo uso,Adulto
+13888,12.760000000000002,2,2,Mateo,Lopez,76.0,Cali,2024-11-30 14:32:51.492873216,Premium,,Bajo uso,Adulto Mayor
+13889,37.12,8,6,Carlos,Lopez,77.0,,2024-11-30 21:07:09.407351840,Premium,,Medio uso,Adulto Mayor
+13890,9.559999999999999,9,3,Luis,Lopez,19.0,Medellín,2024-12-01 03:41:27.321830464,Premium,,Medio uso,Joven
+13891,38.39,7,5,Sofia,Ramirez,50.0,Bogotá,2024-12-01 10:15:45.236309088,Premium,,Medio uso,Adulto
+13892,26.889999999999997,7,6,Mariana,Gomez,56.0,Medellín,2024-12-01 16:50:03.150787696,Basico,"1,72403E+18",Medio uso,Adulto
+13893,37.1,12,6,Mariana,Garcia,78.0,Medellín,2024-12-01 23:24:21.065266320,Premium,,Alto uso,Adulto Mayor
+13894,9.479999999999999,5,6,Sofia,Garcia,60.0,,2024-12-02 05:58:38.979744944,Premium,,Medio uso,Adulto Mayor
+13895,15.25,4,4,Mariana,Lopez,60.0,,2024-12-02 12:32:56.894223568,Basico,"1,72636E+18",Bajo uso,Adulto Mayor
+13896,1.66,7,1,Mateo,Gomez,47.0,Bogotá,2024-12-02 19:07:14.808702176,Basico,,Medio uso,Adulto
+13897,36.42,8,4,Mateo,Gomez,49.0,Cali,2024-12-03 01:41:32.723180800,Premium,,Medio uso,Adulto
+13898,12.8,1,3,Ana,Gomez,35.0,,2024-12-03 08:15:50.637659424,Basico,,Bajo uso,Adulto
+13899,20.66,4,4,Ana,Torres,34.0,CDMX,2024-12-03 14:50:08.552138032,Premium,,Bajo uso,Adulto
+13900,62.11999999999999,5,6,Ana,Torres,51.0,CDMX,2024-12-03 21:24:26.466616656,Premium,,Medio uso,Adulto
+13901,31.890000000000004,9,8,Mariana,Lopez,56.0,,2024-12-04 03:58:44.381095280,Basico,,Medio uso,Adulto
+13902,18.43,3,4,Mateo,Gomez,24.0,GDL,2024-12-04 10:33:02.295573904,Basico,,Bajo uso,Joven
+13903,1.11,4,1,Mateo,Gomez,59.0,CDMX,2024-12-04 17:07:20.210052512,Basico,,Bajo uso,Adulto
+13904,59.20000000000001,9,7,Mateo,Garcia,71.0,CDMX,2024-12-04 23:41:38.124531136,Basico,,Medio uso,Adulto Mayor
+13905,36.33,7,6,Sofia,Garcia,70.0,MTY,2024-12-05 06:15:56.039009760,Premium,,Medio uso,Adulto Mayor
+13906,11.879999999999999,8,4,Mateo,Lopez,52.0,GDL,2024-12-05 12:50:13.953488384,Basico,,Medio uso,Adulto
+13907,4.609999999999999,7,2,Sofia,Gomez,47.0,MTY,2024-12-05 19:24:31.867966992,Basico,,Medio uso,Adulto
+13908,27.520000000000007,5,7,Ana,Lopez,29.0,,2024-12-06 01:58:49.782445616,Basico,,Medio uso,Joven
+13909,8.83,7,4,Ana,Garcia,52.0,Medellín,2024-12-06 08:33:07.696924240,Premium,,Medio uso,Adulto
+13910,36.28,7,3,Mariana,Garcia,28.0,Medellín,2024-12-06 15:07:25.611402848,Basico,,Medio uso,Joven
+13911,29.0,2,5,Ana,Torres,78.0,CDMX,2024-12-06 21:41:43.525881472,Premium,,Medio uso,Adulto Mayor
+13912,16.5,4,2,Mariana,Lopez,61.0,Medellín,2024-12-07 04:16:01.440360096,Basico,,Bajo uso,Adulto Mayor
+13913,26.119999999999997,2,6,Luis,Lopez,74.0,Medellín,2024-12-07 10:50:19.354838720,Premium,,Medio uso,Adulto Mayor
+13914,31.35,3,9,Luis,Gomez,21.0,Medellín,2024-12-07 17:24:37.269317328,Basico,,Medio uso,Joven
+13915,23.779999999999998,1,6,Carlos,Gomez,42.0,GDL,2024-12-07 23:58:55.183795952,Basico,,Medio uso,Adulto
+13916,9.24,6,3,Mariana,Torres,65.0,Bogotá,2024-12-08 06:33:13.098274576,Premium,,Medio uso,Adulto Mayor
+13917,10.23,5,2,Carlos,Ramirez,49.0,Cali,2024-12-08 13:07:31.012753200,Basico,,Medio uso,Adulto
+13918,15.219999999999999,1,3,Carlos,Ramirez,37.0,Medellín,2024-12-08 19:41:48.927231808,Basico,,Bajo uso,Adulto
+13919,7.26,12,3,Luis,Ramirez,67.0,Medellín,2024-12-09 02:16:06.841710432,Premium,,Alto uso,Adulto Mayor
+13920,132.72,4,5,Mariana,Lopez,48.0,Bogotá,2024-12-09 08:50:24.756189056,Premium,,Medio uso,Adulto
+13921,9.61,9,2,Luis,Lopez,21.0,Bogotá,2024-12-09 15:24:42.670667680,Basico,,Medio uso,Joven
+13922,39.72,1,6,Carlos,Garcia,71.0,Cali,2024-12-09 21:59:00.585146288,Basico,,Medio uso,Adulto Mayor
+13923,7.94,1,1,Mariana,Lopez,55.0,CDMX,2024-12-10 04:33:18.499624912,Premium,,Bajo uso,Adulto
+13924,11.100000000000001,3,2,Carlos,Lopez,70.0,Medellín,2024-12-10 11:07:36.414103536,Premium,,Bajo uso,Adulto Mayor
+13925,22.09,11,4,Mateo,Lopez,47.0,,2024-12-10 17:41:54.328582144,Basico,,Alto uso,Adulto
+13926,16.400000000000002,6,6,Mariana,Torres,64.0,Cali,2024-12-11 00:16:12.243060768,Basico,,Medio uso,Adulto Mayor
+13927,135.96,8,4,Mariana,Lopez,18.0,GDL,2024-12-11 06:50:30.157539392,Basico,"1,72549E+18",Medio uso,Joven
+13928,7.41,5,3,Carlos,Gomez,20.0,GDL,2024-12-11 13:24:48.072018016,Premium,,Medio uso,Joven
+13929,9.29,3,2,Mateo,Gomez,54.0,Medellín,2024-12-11 19:59:05.986496624,Basico,,Bajo uso,Adulto
+13930,42.05,7,7,Sofia,Garcia,39.0,,2024-12-12 02:33:23.900975248,Premium,,Medio uso,Adulto
+13931,25.06,6,3,Luis,Torres,79.0,Bogotá,2024-12-12 09:07:41.815453872,Basico,,Medio uso,Adulto Mayor
+13932,5.6499999999999995,11,3,Carlos,Gomez,34.0,Bogotá,2024-12-12 15:41:59.729932496,Premium,,Alto uso,Adulto
+13933,31.020000000000003,3,9,Mariana,Torres,79.0,CDMX,2024-12-12 22:16:17.644411104,Premium,,Medio uso,Adulto Mayor
+13934,8.05,5,2,Luis,Torres,31.0,Medellín,2024-12-13 04:50:35.558889728,Basico,,Medio uso,Adulto
+13935,19.63,5,8,Luis,Garcia,58.0,Medellín,2024-12-13 11:24:53.473368352,Basico,"1,73016E+18",Medio uso,Adulto
+13936,12.27,3,4,Luis,Torres,79.0,,2024-12-13 17:59:11.387846960,Basico,,Bajo uso,Adulto Mayor
+13937,16.54,8,2,Sofia,Lopez,52.0,MTY,2024-12-14 00:33:29.302325584,Premium,"1,72212E+18",Medio uso,Adulto
+13938,11.129999999999999,2,2,Ana,Torres,75.0,Cali,2024-12-14 07:07:47.216804208,Basico,,Bajo uso,Adulto Mayor
+13939,34.3,6,6,Carlos,Garcia,30.0,Bogotá,2024-12-14 13:42:05.131282832,Premium,,Medio uso,Adulto
+13940,3.78,7,3,Ana,Garcia,52.0,Bogotá,2024-12-14 20:16:23.045761440,Premium,,Medio uso,Adulto
+13941,12.620000000000001,5,4,Ana,Garcia,60.0,Cali,2024-12-15 02:50:40.960240064,Premium,,Medio uso,Adulto Mayor
+13942,37.94,7,7,Ana,Gomez,19.0,GDL,2024-12-15 09:24:58.874718688,Premium,,Medio uso,Joven
+13943,36.36,5,6,Luis,Lopez,73.0,MTY,2024-12-15 15:59:16.789197312,Basico,,Medio uso,Adulto Mayor
+13944,46.47,7,8,Mateo,Gomez,64.0,Cali,2024-12-15 22:33:34.703675920,Premium,,Medio uso,Adulto Mayor
+13945,133.97,7,3,Luis,Ramirez,30.0,Bogotá,2024-12-16 05:07:52.618154544,Basico,,Medio uso,Adulto
+13946,26.85,6,6,Luis,Lopez,68.0,CDMX,2024-12-16 11:42:10.532633168,Basico,,Medio uso,Adulto Mayor
+13947,21.630000000000003,5,4,Mariana,Torres,71.0,Bogotá,2024-12-16 18:16:28.447111776,Basico,"1,71858E+18",Medio uso,Adulto Mayor
+13948,9.879999999999999,4,5,Mariana,Garcia,33.0,Bogotá,2024-12-17 00:50:46.361590400,Premium,,Medio uso,Adulto
+13949,35.85,4,6,Ana,Ramirez,35.0,,2024-12-17 07:25:04.276069024,Premium,,Medio uso,Adulto
+13950,25.94,3,5,Luis,Lopez,24.0,GDL,2024-12-17 13:59:22.190547648,Basico,,Medio uso,Joven
+13951,18.73,9,6,Ana,Gomez,62.0,Cali,2024-12-17 20:33:40.105026256,Premium,,Medio uso,Adulto Mayor
+13952,24.61,3,7,Mariana,Garcia,53.0,CDMX,2024-12-18 03:07:58.019504880,Premium,,Medio uso,Adulto
+13953,155.69,0,7,Mateo,Gomez,58.0,GDL,2024-12-18 09:42:15.933983504,Basico,,Medio uso,Adulto
+13954,25.29,6,4,Carlos,Lopez,47.0,GDL,2024-12-18 16:16:33.848462128,Premium,,Medio uso,Adulto
+13955,45.89000000000001,3,6,Ana,Lopez,59.0,,2024-12-18 22:50:51.762940736,Basico,,Medio uso,Adulto
+13956,4.07,5,1,Mateo,Ramirez,58.0,GDL,2024-12-19 05:25:09.677419360,Basico,,Medio uso,Adulto
+13957,12.19,5,3,Carlos,Torres,24.0,Cali,2024-12-19 11:59:27.591897984,Premium,,Medio uso,Joven
+13958,41.21,4,6,Sofia,Gomez,32.0,Bogotá,2024-12-19 18:33:45.506376592,Basico,,Medio uso,Adulto
+13959,16.95,10,5,Ana,Ramirez,77.0,,2024-12-20 01:08:03.420855216,Basico,,Alto uso,Adulto Mayor
+13960,18.009999999999998,5,5,Ana,Garcia,57.0,Cali,2024-12-20 07:42:21.335333840,Premium,,Medio uso,Adulto
+13961,53.28,11,9,Sofia,Torres,36.0,Medellín,2024-12-20 14:16:39.249812464,Premium,,Alto uso,Adulto
+13962,7.36,5,3,Sofia,Ramirez,60.0,,2024-12-20 20:50:57.164291072,Basico,"1,72238E+18",Medio uso,Adulto Mayor
+13963,12.84,8,4,Ana,Gomez,54.0,Medellín,2024-12-21 03:25:15.078769696,Basico,,Medio uso,Adulto
+13964,24.55,6,5,Sofia,Lopez,19.0,Cali,2024-12-21 09:59:32.993248320,Basico,,Medio uso,Joven
+13965,12.32,5,1,Luis,Garcia,59.0,GDL,2024-12-21 16:33:50.907726944,Premium,,Medio uso,Adulto
+13966,57.92999999999999,4,7,Carlos,Gomez,65.0,CDMX,2024-12-21 23:08:08.822205552,Basico,,Medio uso,Adulto Mayor
+13967,71.76,9,10,Carlos,Torres,72.0,Medellín,2024-12-22 05:42:26.736684176,Basico,,Alto uso,Adulto Mayor
+13968,26.990000000000002,8,4,Carlos,Torres,30.0,Bogotá,2024-12-22 12:16:44.651162800,Basico,,Medio uso,Adulto
+13969,12.59,2,2,Luis,Lopez,57.0,Bogotá,2024-12-22 18:51:02.565641408,Basico,,Bajo uso,Adulto
+13970,10.74,6,3,Sofia,Lopez,58.0,Bogotá,2024-12-23 01:25:20.480120032,Basico,,Medio uso,Adulto
+13971,10.48,2,4,Mateo,Garcia,60.0,MTY,2024-12-23 07:59:38.394598656,Basico,,Bajo uso,Adulto Mayor
+13972,44.62,3,6,Sofia,Garcia,60.0,Medellín,2024-12-23 14:33:56.309077280,Basico,,Medio uso,Adulto Mayor
+13973,21.34,7,5,Ana,Lopez,72.0,CDMX,2024-12-23 21:08:14.223555888,Basico,,Medio uso,Adulto Mayor
+13974,44.279999999999994,7,5,Mariana,Lopez,75.0,,2024-12-24 03:42:32.138034512,Basico,,Medio uso,Adulto Mayor
+13975,7.390000000000001,6,4,Carlos,Torres,48.0,,2024-12-24 10:16:50.052513136,Basico,,Medio uso,Adulto
+13976,17.499999999999996,5,4,Sofia,Lopez,33.0,,2024-12-24 16:51:07.966991760,Basico,,Medio uso,Adulto
+13977,48.339999999999996,0,7,Mateo,Ramirez,59.0,MTY,2024-12-24 23:25:25.881470368,Basico,,Medio uso,Adulto
+13978,54.3,3,9,Ana,Gomez,78.0,Bogotá,2024-12-25 05:59:43.795948992,Basico,"1,72264E+18",Medio uso,Adulto Mayor
+13979,9.3,8,3,Luis,Lopez,73.0,,2024-12-25 12:34:01.710427616,Basico,"1,73508E+18",Medio uso,Adulto Mayor
+13980,8.74,6,4,Luis,Garcia,61.0,,2024-12-25 19:08:19.624906224,Basico,,Medio uso,Adulto Mayor
+13981,14.600000000000001,6,3,Mateo,Ramirez,74.0,Cali,2024-12-26 01:42:37.539384848,Basico,,Medio uso,Adulto Mayor
+13982,19.279999999999998,6,5,Ana,Garcia,23.0,Bogotá,2024-12-26 08:16:55.453863472,Basico,,Medio uso,Joven
+13983,8.9,6,3,Carlos,Ramirez,45.0,Bogotá,2024-12-26 14:51:13.368342096,Basico,,Medio uso,Adulto
+13984,17.720000000000002,4,8,Sofia,Lopez,49.0,Cali,2024-12-26 21:25:31.282820704,Premium,,Medio uso,Adulto
+13985,6.719999999999999,2,4,Ana,Gomez,61.0,GDL,2024-12-27 03:59:49.197299328,Basico,,Bajo uso,Adulto Mayor
+13986,30.61,3,8,Luis,Garcia,27.0,Medellín,2024-12-27 10:34:07.111777952,Premium,"1,72636E+18",Medio uso,Joven
+13987,33.230000000000004,3,8,Mateo,Ramirez,67.0,Cali,2024-12-27 17:08:25.026256576,Basico,,Medio uso,Adulto Mayor
+13989,5.83,9,2,Sofia,Lopez,21.0,Bogotá,2024-12-28 06:17:00.855213808,Premium,,Medio uso,Joven
+13990,29.56,5,7,Mateo,Gomez,47.0,Bogotá,2024-12-28 12:51:18.769692432,Basico,,Medio uso,Adulto
+13991,12.7,3,4,Mateo,Lopez,26.0,,2024-12-28 19:25:36.684171056,Basico,,Bajo uso,Joven
+13992,24.060000000000002,9,3,Ana,Torres,24.0,Medellín,2024-12-29 01:59:54.598649664,Premium,,Medio uso,Joven
+13993,23.7,5,7,Carlos,Gomez,67.0,Cali,2024-12-29 08:34:12.513128288,Basico,"1,73172E+18",Medio uso,Adulto Mayor
+13994,16.09,5,7,Sofia,Torres,25.0,Medellín,2024-12-29 15:08:30.427606912,Basico,"1,72109E+18",Medio uso,Joven
+13995,21.24,6,3,Ana,Lopez,60.0,Medellín,2024-12-29 21:42:48.342085520,Basico,,Medio uso,Adulto Mayor
+13996,2.81,4,3,Carlos,Ramirez,24.0,Medellín,2024-12-30 04:17:06.256564144,Premium,,Bajo uso,Joven
+13997,11.34,5,3,Ana,Lopez,58.0,Bogotá,2024-12-30 10:51:24.171042768,Premium,,Medio uso,Adulto
+13998,22.95,6,6,Mariana,Lopez,57.0,Bogotá,2024-12-30 17:25:42.085521392,Basico,,Medio uso,Adulto
+13999,26.459999999999997,3,6,Ana,Lopez,20.0,Bogotá,2024-12-31 00:00:00.000000000,Basico,,Medio uso,Joven
