@@ -34,3 +34,17 @@ Identificar problemas de calidad de datos
 Construir un pipeline de limpieza reproducible
 Analizar comportamientos, distribuciones y outliers
 Generar un analisis ejecutivo. 
+
+Como ejecutar los archivos:
+
+Descargar:
+S7 Version-Estudiante-Project-ConnectaTel.ipynb
+plans.csv
+usage.csv
+usage.csv
+Ubicar 3 archivos anteriores dentro de la carpeta data
+Ejecutar paso a paso el archivo S7 Version-Estudiante-Project-ConnectaTel.ipynb dentro de Jupyter Notebook.
+
+
+
+
